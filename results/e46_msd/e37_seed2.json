@@ -1,0 +1,87 @@
+{
+ "seed": 2,
+ "n_train": 3510,
+ "n_test": 949,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "msdt2|F|0.005": {
+   "auc": {
+    "RANDFG": 0.8552,
+    "ORIG": 0.9953,
+    "RANDSEQ": 0.9917,
+    "COSTFG": 0.5589,
+    "ANTIFG": 0.9642
+   },
+   "contrasts": {
+    "RANDFG-RANDSEQ": {
+     "diff": -0.1365,
+     "ci95_subject_bootstrap": [
+      -0.1593,
+      -0.1136
+     ]
+    },
+    "ORIG-RANDSEQ": {
+     "diff": 0.0036,
+     "ci95_subject_bootstrap": [
+      0.0015,
+      0.0058
+     ]
+    },
+    "COSTFG-RANDSEQ": {
+     "diff": -0.4328,
+     "ci95_subject_bootstrap": [
+      -0.4506,
+      -0.4119
+     ]
+    },
+    "ANTIFG-RANDSEQ": {
+     "diff": -0.0275,
+     "ci95_subject_bootstrap": [
+      -0.0386,
+      -0.0169
+     ]
+    }
+   }
+  },
+  "msdt2|M|0.005": {
+   "auc": {
+    "RANDFG": 0.8487,
+    "ORIG": 0.9953,
+    "RANDSEQ": 0.9917,
+    "COSTFG": 0.6192,
+    "ANTIFG": 0.9622
+   },
+   "contrasts": {
+    "RANDFG-RANDSEQ": {
+     "diff": -0.143,
+     "ci95_subject_bootstrap": [
+      -0.1638,
+      -0.1208
+     ]
+    },
+    "ORIG-RANDSEQ": {
+     "diff": 0.0036,
+     "ci95_subject_bootstrap": [
+      0.0015,
+      0.0058
+     ]
+    },
+    "COSTFG-RANDSEQ": {
+     "diff": -0.3725,
+     "ci95_subject_bootstrap": [
+      -0.398,
+      -0.3436
+     ]
+    },
+    "ANTIFG-RANDSEQ": {
+     "diff": -0.0295,
+     "ci95_subject_bootstrap": [
+      -0.0403,
+      -0.0194
+     ]
+    }
+   }
+  }
+ }
+}

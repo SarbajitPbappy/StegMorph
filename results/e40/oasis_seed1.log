@@ -1,0 +1,20 @@
+seed 1 ds oasis: train 2522 slices (194 subjects), test 689 (53 subjects); cover features 5s
+  bpp 0.002 RANDSEQ: 11s fails 0,0 stats {'pvd_pairs': 0.3, 'lsb_pairs': 59.5, 'mse': 0.00373, 'changed_frac': 0.00365}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.002 COSTKEY: 12s fails 0,0 stats {'pvd_pairs': 0.6, 'lsb_pairs': 58.8, 'mse': 0.00385, 'changed_frac': 0.00364}
+  bpp 0.002 COSTMIX: 18s fails 0,0 stats {'pvd_pairs': 0.6, 'lsb_pairs': 58.8, 'mse': 0.00384, 'changed_frac': 0.00364}
+  bpp 0.002 ANTIKEY: 13s fails 0,0 stats {'pvd_pairs': 0.0, 'lsb_pairs': 59.9, 'mse': 0.00367, 'changed_frac': 0.00365}
+A 0.002 AUC {'RANDSEQ': 0.7296, 'COSTKEY': 0.7133, 'COSTMIX': 0.7186, 'ANTIKEY': 0.7689}
+    {'COSTKEY-RANDSEQ': (-0.0163, [-0.0275, -0.0062]), 'COSTMIX-RANDSEQ': (-0.011, [-0.0208, -0.0011]), 'ANTIKEY-RANDSEQ': (0.0393, [0.028, 0.0505]), 'COSTKEY-COSTMIX': (-0.0053, [-0.0168, 0.0065])}
+D 0.002 AUC {'RANDSEQ': 0.7478, 'COSTKEY': 0.7287, 'COSTMIX': 0.7502, 'ANTIKEY': 0.7854}
+    {'COSTKEY-RANDSEQ': (-0.0191, [-0.0335, -0.0046]), 'COSTMIX-RANDSEQ': (0.0024, [-0.0116, 0.0165]), 'ANTIKEY-RANDSEQ': (0.0376, [0.0207, 0.0541]), 'COSTKEY-COSTMIX': (-0.0215, [-0.0382, -0.0039])}
+payload 0.002 done 64s
+DONE 1

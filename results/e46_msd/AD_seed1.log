@@ -1,0 +1,30 @@
+seed 1 ds msdt2: train 3510 slices (270 subjects), test 949 (73 subjects); cover features 7s
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 RANDFG: 21s fails 0,0 stats {'pvd_pairs': 6.7, 'lsb_pairs': 106.6, 'mse': 0.00938, 'changed_frac': 0.0071}
+  bpp 0.005 ORIG: 18s fails 0,0 stats {'pvd_pairs': 14.0, 'lsb_pairs': 92.1, 'mse': 0.01181, 'changed_frac': 0.00681}
+  bpp 0.005 RANDSEQ: 19s fails 0,0 stats {'pvd_pairs': 10.7, 'lsb_pairs': 98.6, 'mse': 0.01086, 'changed_frac': 0.00696}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 COSTFG: 18s fails 0,0 stats {'pvd_pairs': 5.0, 'lsb_pairs': 110.1, 'mse': 0.00872, 'changed_frac': 0.00716}
+  bpp 0.005 ANTIFG: 20s fails 0,0 stats {'pvd_pairs': 9.3, 'lsb_pairs': 101.6, 'mse': 0.0102, 'changed_frac': 0.00699}
+A 0.005 AUC {'RANDFG': 0.7902, 'ORIG': 0.9991, 'RANDSEQ': 0.9985, 'COSTFG': 0.5312, 'ANTIFG': 0.9485}
+    {'RANDFG-RANDSEQ': (-0.2083, [-0.2305, -0.1861]), 'ORIG-RANDSEQ': (0.0006, [-0.0, 0.0015]), 'COSTFG-RANDFG': (-0.259, [-0.2858, -0.2328]), 'ANTIFG-RANDFG': (0.1583, [0.145, 0.1711])}
+D 0.005 AUC {'RANDFG': 0.8643, 'ORIG': 0.9995, 'RANDSEQ': 0.9991, 'COSTFG': 0.5404, 'ANTIFG': 0.9655}
+    {'RANDFG-RANDSEQ': (-0.1348, [-0.1596, -0.1116]), 'ORIG-RANDSEQ': (0.0004, [0.0001, 0.0008]), 'COSTFG-RANDFG': (-0.3239, [-0.3599, -0.2815]), 'ANTIFG-RANDFG': (0.1012, [0.0843, 0.1175])}
+payload 0.005 done 114s
+DONE 1

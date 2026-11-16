@@ -1,0 +1,38 @@
+{
+ "RANDSEQ": {
+  "share": {
+   "changed_in_textured": 0.33779859382505784,
+   "changed_in_smooth": 0.33294030307000305
+  },
+  "cnn": {
+   "stego": 0.707989513874054,
+   "revert_textured": 0.650856614112854,
+   "revert_smooth": 0.3969775438308716,
+   "cover": 0.16503095626831055
+  },
+  "A": {
+   "stego": 0.645620584487915,
+   "revert_textured": 0.6180430054664612,
+   "revert_smooth": 0.4655603766441345,
+   "cover": 0.3492876887321472
+  }
+ },
+ "COSTKEY": {
+  "share": {
+   "changed_in_textured": 0.5925080603166514,
+   "changed_in_smooth": 0.10934331963171831
+  },
+  "cnn": {
+   "stego": 0.763842761516571,
+   "revert_textured": 0.5513270497322083,
+   "revert_smooth": 0.6449219584465027,
+   "cover": 0.16368716955184937
+  },
+  "A": {
+   "stego": 0.5327998995780945,
+   "revert_textured": 0.49824759364128113,
+   "revert_smooth": 0.51792311668396,
+   "cover": 0.45923250913619995
+  }
+ }
+}

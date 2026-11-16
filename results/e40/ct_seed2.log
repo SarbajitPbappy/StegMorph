@@ -1,0 +1,38 @@
+seed 2 ds ct: train 4000 slices (4000 subjects), test 1500 (1500 subjects); cover features 7s
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.002 RANDSEQ: 16s fails 0,0 stats {'pvd_pairs': 6.7, 'lsb_pairs': 46.8, 'mse': 0.00583, 'changed_frac': 0.00341}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.002 COSTKEY: 18s fails 0,0 stats {'pvd_pairs': 3.4, 'lsb_pairs': 53.2, 'mse': 0.00463, 'changed_frac': 0.00354}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.002 COSTMIX: 27s fails 0,0 stats {'pvd_pairs': 3.4, 'lsb_pairs': 53.2, 'mse': 0.00477, 'changed_frac': 0.00354}
+  bpp 0.002 ANTIKEY: 16s fails 0,0 stats {'pvd_pairs': 4.5, 'lsb_pairs': 51.0, 'mse': 0.00512, 'changed_frac': 0.00349}
+A 0.002 AUC {'RANDSEQ': 0.9569, 'COSTKEY': 0.8528, 'COSTMIX': 0.9454, 'ANTIKEY': 0.9687}
+    {'COSTKEY-RANDSEQ': (-0.1041, [-0.1138, -0.0945]), 'COSTMIX-RANDSEQ': (-0.0115, [-0.0159, -0.0068]), 'ANTIKEY-RANDSEQ': (0.0118, [0.0073, 0.0165]), 'COSTKEY-COSTMIX': (-0.0926, [-0.1019, -0.0827])}
+D 0.002 AUC {'RANDSEQ': 0.9867, 'COSTKEY': 0.9319, 'COSTMIX': 0.9811, 'ANTIKEY': 0.9914}
+    {'COSTKEY-RANDSEQ': (-0.0548, [-0.0628, -0.0472]), 'COSTMIX-RANDSEQ': (-0.0056, [-0.0085, -0.0028]), 'ANTIKEY-RANDSEQ': (0.0047, [0.0024, 0.0074]), 'COSTKEY-COSTMIX': (-0.0492, [-0.0565, -0.0416])}
+payload 0.002 done 90s
+DONE 2

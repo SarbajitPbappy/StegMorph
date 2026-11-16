@@ -1,0 +1,18 @@
+{
+ "0.01": {
+  "changed_octave": 0.00362762451171875,
+  "changed_numpy": 0.00364654541015625,
+  "ratio": 1.0052157819466643,
+  "per_slice_corr": 0.37811645018140083,
+  "prob_map_max_abs_diff": 1.1814572609673835e-05,
+  "expected_changes_corr": 0.9999999999989895
+ },
+ "0.02": {
+  "changed_octave": 0.0080413818359375,
+  "changed_numpy": 0.008062744140625,
+  "ratio": 1.0026565464895636,
+  "per_slice_corr": 0.5524022200395602,
+  "prob_map_max_abs_diff": 1.6923171204830112e-05,
+  "expected_changes_corr": 0.9999999999990716
+ }
+}

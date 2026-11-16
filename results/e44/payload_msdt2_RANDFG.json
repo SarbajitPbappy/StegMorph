@@ -1,0 +1,14 @@
+{
+ "dataset": "msdt2",
+ "detector": "A",
+ "seed": 0,
+ "scheme": "RANDFG",
+ "validation_auc": {
+  "0.0027": 0.6925,
+  "0.005": 0.8053,
+  "0.01": 0.9167,
+  "0.02": 0.9816
+ },
+ "rule": "closest to 0.75 within 0.60..0.85",
+ "chosen_bpp": "0.005"
+}

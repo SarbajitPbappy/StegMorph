@@ -1,0 +1,312 @@
+{
+ "seed": 2,
+ "N": 800,
+ "n_groups": 800,
+ "n_train_groups_frac": 0.7,
+ "rows": [
+  {
+   "seed": 2,
+   "scheme": "LSB_seq",
+   "bpp": 0.05,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 64.148,
+   "ssim": 0.99914,
+   "pixel_change_rate": 0.025,
+   "pvd_mean_capacity_bits": null,
+   "secs": 5.2
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_seq",
+   "bpp": 0.1,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 61.137,
+   "ssim": 0.99741,
+   "pixel_change_rate": 0.0501,
+   "pvd_mean_capacity_bits": null,
+   "secs": 5.1
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_seq",
+   "bpp": 0.2,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 58.131,
+   "ssim": 0.9955,
+   "pixel_change_rate": 0.1,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.8
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_seq",
+   "bpp": 0.4,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 55.122,
+   "ssim": 0.99393,
+   "pixel_change_rate": 0.1999,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.8
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_keyed",
+   "bpp": 0.05,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 64.154,
+   "ssim": 0.99978,
+   "pixel_change_rate": 0.025,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.9
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_keyed",
+   "bpp": 0.1,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 61.145,
+   "ssim": 0.9995,
+   "pixel_change_rate": 0.05,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.8
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_keyed",
+   "bpp": 0.2,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 58.141,
+   "ssim": 0.9988,
+   "pixel_change_rate": 0.0998,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.8
+  },
+  {
+   "seed": 2,
+   "scheme": "LSB_keyed",
+   "bpp": 0.4,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 55.126,
+   "ssim": 0.99679,
+   "pixel_change_rate": 0.1998,
+   "pvd_mean_capacity_bits": null,
+   "secs": 4.8
+  },
+  {
+   "seed": 2,
+   "scheme": "PVD6",
+   "bpp": 0.05,
+   "exact_hash_group_split": {
+    "auc": 0.7403,
+    "ci": [
+     0.7219,
+     0.7602
+    ],
+    "pe": 0.3187,
+    "tpr1": 0.1042
+   },
+   "psnr": 52.345,
+   "ssim": 0.99987,
+   "pixel_change_rate": 0.0223,
+   "pvd_mean_capacity_bits": 12393,
+   "secs": 8.3
+  },
+  {
+   "seed": 2,
+   "scheme": "PVD6",
+   "bpp": 0.1,
+   "exact_hash_group_split": {
+    "auc": 0.9244,
+    "ci": [
+     0.9063,
+     0.9409
+    ],
+    "pe": 0.1562,
+    "tpr1": 0.4
+   },
+   "psnr": 49.311,
+   "ssim": 0.99971,
+   "pixel_change_rate": 0.0446,
+   "pvd_mean_capacity_bits": 12393,
+   "secs": 8.6
+  },
+  {
+   "seed": 2,
+   "scheme": "PVD6",
+   "bpp": 0.2,
+   "exact_hash_group_split": {
+    "auc": 0.9983,
+    "ci": [
+     0.9965,
+     0.9995
+    ],
+    "pe": 0.0187,
+    "tpr1": 0.9458
+   },
+   "psnr": 46.502,
+   "ssim": 0.99938,
+   "pixel_change_rate": 0.09,
+   "pvd_mean_capacity_bits": 12393,
+   "secs": 9.3
+  },
+  {
+   "seed": 2,
+   "scheme": "PVD6",
+   "bpp": 0.4,
+   "exact_hash_group_split": {
+    "auc": 1.0,
+    "ci": [
+     1.0,
+     1.0
+    ],
+    "pe": 0.0,
+    "tpr1": 1.0
+   },
+   "psnr": 43.763,
+   "ssim": 0.99871,
+   "pixel_change_rate": 0.1819,
+   "pvd_mean_capacity_bits": 12393,
+   "secs": 11.3
+  },
+  {
+   "seed": 2,
+   "scheme": "HILL_sim",
+   "bpp": 0.05,
+   "exact_hash_group_split": {
+    "auc": 0.5216,
+    "ci": [
+     0.5114,
+     0.5334
+    ],
+    "pe": 0.4708,
+    "tpr1": 0.0167
+   },
+   "psnr": 70.177,
+   "ssim": 1.0,
+   "pixel_change_rate": 0.0063,
+   "pvd_mean_capacity_bits": null,
+   "secs": 19.5
+  },
+  {
+   "seed": 2,
+   "scheme": "HILL_sim",
+   "bpp": 0.1,
+   "exact_hash_group_split": {
+    "auc": 0.5815,
+    "ci": [
+     0.5666,
+     0.599
+    ],
+    "pe": 0.4271,
+    "tpr1": 0.0458
+   },
+   "psnr": 66.622,
+   "ssim": 0.99999,
+   "pixel_change_rate": 0.0142,
+   "pvd_mean_capacity_bits": null,
+   "secs": 19.2
+  },
+  {
+   "seed": 2,
+   "scheme": "HILL_sim",
+   "bpp": 0.2,
+   "exact_hash_group_split": {
+    "auc": 0.727,
+    "ci": [
+     0.7049,
+     0.7547
+    ],
+    "pe": 0.3167,
+    "tpr1": 0.0792
+   },
+   "psnr": 62.975,
+   "ssim": 0.99997,
+   "pixel_change_rate": 0.0328,
+   "pvd_mean_capacity_bits": null,
+   "secs": 18.0
+  },
+  {
+   "seed": 2,
+   "scheme": "HILL_sim",
+   "bpp": 0.4,
+   "exact_hash_group_split": {
+    "auc": 0.9691,
+    "ci": [
+     0.9573,
+     0.9806
+    ],
+    "pe": 0.0896,
+    "tpr1": 0.575
+   },
+   "psnr": 59.129,
+   "ssim": 0.99991,
+   "pixel_change_rate": 0.0795,
+   "pvd_mean_capacity_bits": null,
+   "secs": 17.3
+  }
+ ]
+}

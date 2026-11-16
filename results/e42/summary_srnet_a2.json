@@ -1,0 +1,60 @@
+{
+ "net": "srnet",
+ "tag": "a2",
+ "n_seeds": 3,
+ "seeds": [
+  {
+   "seed": 0,
+   "auc_random": 0.9514,
+   "auc_costkey": 0.988,
+   "q1": 0.0365,
+   "ci": [
+    0.0257,
+    0.0497
+   ],
+   "val_auc_random": 0.95,
+   "val_auc_costkey": 0.9816,
+   "plateau_random": true,
+   "plateau_costkey": true,
+   "competent": true
+  },
+  {
+   "seed": 1,
+   "auc_random": 0.9585,
+   "auc_costkey": 0.9877,
+   "q1": 0.0292,
+   "ci": [
+    0.0187,
+    0.0408
+   ],
+   "val_auc_random": 0.9579,
+   "val_auc_costkey": 0.9839,
+   "plateau_random": true,
+   "plateau_costkey": true,
+   "competent": true
+  },
+  {
+   "seed": 2,
+   "auc_random": 0.9515,
+   "auc_costkey": 0.9854,
+   "q1": 0.034,
+   "ci": [
+    0.0211,
+    0.0473
+   ],
+   "val_auc_random": 0.9466,
+   "val_auc_costkey": 0.967,
+   "plateau_random": true,
+   "plateau_costkey": true,
+   "competent": true
+  }
+ ],
+ "mean_q1": 0.0332,
+ "range_q1": [
+  0.0292,
+  0.0365
+ ],
+ "mean_random_auc": 0.9538,
+ "valid_contrast": true,
+ "H21_met": null
+}

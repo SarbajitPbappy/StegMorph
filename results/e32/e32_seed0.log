@@ -1,0 +1,76 @@
+seed 0 ds ct: train 4000 slices (4000 subjects), test 1500 (1500 subjects); cover features 9s
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 RANDSEQ: 15s fails 0,0 stats {'pvd_pairs': 25.9, 'lsb_pairs': 188.2, 'mse': 0.02253, 'changed_frac': 0.01366}
+  bpp 0.01 ORIG: 14s fails 0,0 stats {'pvd_pairs': 31.7, 'lsb_pairs': 176.7, 'mse': 0.02431, 'changed_frac': 0.01348}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 COSTKEY: 25s fails 0,0 stats {'pvd_pairs': 13.4, 'lsb_pairs': 213.2, 'mse': 0.0184, 'changed_frac': 0.01424}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 COSTMIX: 29s fails 0,0 stats {'pvd_pairs': 13.4, 'lsb_pairs': 213.1, 'mse': 0.0186, 'changed_frac': 0.01415}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 HILLR: 89s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00325, 'changed_frac': 0.00325}
+A 0.01 AUC {'RANDSEQ': 0.9959, 'ORIG': 0.9963, 'COSTKEY': 0.9675, 'COSTMIX': 0.9945, 'HILLR': 0.805}
+    {'ORIG-RANDSEQ': (0.0004, [-0.0005, 0.0012]), 'COSTKEY-RANDSEQ': (-0.0284, [-0.033, -0.0241]), 'COSTMIX-RANDSEQ': (-0.0014, [-0.0025, -0.0005]), 'HILLR-RANDSEQ': (-0.1909, [-0.203, -0.1795]), 'COSTKEY-COSTMIX': (-0.027, [-0.0312, -0.0229])}
+D 0.01 AUC {'RANDSEQ': 0.9981, 'ORIG': 0.999, 'COSTKEY': 0.9767, 'COSTMIX': 0.9969, 'HILLR': 0.8923}
+    {'ORIG-RANDSEQ': (0.0009, [0.0005, 0.0014]), 'COSTKEY-RANDSEQ': (-0.0214, [-0.0259, -0.018]), 'COSTMIX-RANDSEQ': (-0.0012, [-0.002, -0.0006]), 'HILLR-RANDSEQ': (-0.1058, [-0.1171, -0.0954]), 'COSTKEY-COSTMIX': (-0.0202, [-0.0243, -0.0168])}
+payload 0.01 done 201s
+  bpp 0.02 RANDSEQ: 27s fails 0,0 stats {'pvd_pairs': 52.0, 'lsb_pairs': 376.1, 'mse': 0.04519, 'changed_frac': 0.02742}
+  bpp 0.02 ORIG: 27s fails 0,0 stats {'pvd_pairs': 62.6, 'lsb_pairs': 354.9, 'mse': 0.04837, 'changed_frac': 0.02705}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 COSTKEY: 28s fails 0,0 stats {'pvd_pairs': 27.1, 'lsb_pairs': 425.8, 'mse': 0.03666, 'changed_frac': 0.02845}
+  bpp 0.02 COSTMIX: 33s fails 0,0 stats {'pvd_pairs': 27.1, 'lsb_pairs': 425.7, 'mse': 0.03729, 'changed_frac': 0.02834}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 HILLR: 141s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00724, 'changed_frac': 0.00724}
+A 0.02 AUC {'RANDSEQ': 0.9982, 'ORIG': 0.9983, 'COSTKEY': 0.9856, 'COSTMIX': 0.998, 'HILLR': 0.9109}
+    {'ORIG-RANDSEQ': (0.0001, [-0.0003, 0.0006]), 'COSTKEY-RANDSEQ': (-0.0126, [-0.0154, -0.01]), 'COSTMIX-RANDSEQ': (-0.0002, [-0.0007, 0.0003]), 'HILLR-RANDSEQ': (-0.0873, [-0.0963, -0.0785]), 'COSTKEY-COSTMIX': (-0.0124, [-0.0152, -0.0098])}
+D 0.02 AUC {'RANDSEQ': 0.9997, 'ORIG': 0.9998, 'COSTKEY': 0.9897, 'COSTMIX': 0.9994, 'HILLR': 0.9455}
+    {'ORIG-RANDSEQ': (0.0001, [-0.0, 0.0002]), 'COSTKEY-RANDSEQ': (-0.01, [-0.0125, -0.008]), 'COSTMIX-RANDSEQ': (-0.0003, [-0.0005, -0.0001]), 'HILLR-RANDSEQ': (-0.0542, [-0.0614, -0.0474]), 'COSTKEY-COSTMIX': (-0.0097, [-0.0122, -0.0077])}
+payload 0.02 done 294s
+DONE 0

@@ -1,0 +1,794 @@
+[
+ {
+  "seed": 0,
+  "sizes": {
+   "T_raw": [
+    435,
+    304,
+    131
+   ],
+   "T_noise": [
+    435,
+    304,
+    131
+   ],
+   "A_noise": [
+    400,
+    280,
+    120
+   ]
+  },
+  "in_domain": {
+   "T_raw|A|0.005": {
+    "n_test": 131,
+    "auc_GA": 0.7646,
+    "auc_RAND": 0.768,
+    "diff": -0.0033,
+    "ci95": [
+     -0.0292,
+     0.019
+    ]
+   },
+   "T_raw|B|0.005": {
+    "n_test": 131,
+    "auc_GA": 0.624,
+    "auc_RAND": 0.642,
+    "diff": -0.0181,
+    "ci95": [
+     -0.0569,
+     0.0228
+    ]
+   },
+   "T_raw|A|0.01": {
+    "n_test": 131,
+    "auc_GA": 0.8535,
+    "auc_RAND": 0.862,
+    "diff": -0.0084,
+    "ci95": [
+     -0.0285,
+     0.0122
+    ]
+   },
+   "T_raw|B|0.01": {
+    "n_test": 131,
+    "auc_GA": 0.6883,
+    "auc_RAND": 0.6894,
+    "diff": -0.0011,
+    "ci95": [
+     -0.0425,
+     0.0423
+    ]
+   },
+   "T_raw|A|0.02": {
+    "n_test": 131,
+    "auc_GA": 0.9273,
+    "auc_RAND": 0.9333,
+    "diff": -0.0061,
+    "ci95": [
+     -0.016,
+     0.0036
+    ]
+   },
+   "T_raw|B|0.02": {
+    "n_test": 131,
+    "auc_GA": 0.7628,
+    "auc_RAND": 0.7712,
+    "diff": -0.0084,
+    "ci95": [
+     -0.0389,
+     0.0261
+    ]
+   },
+   "T_noise|A|0.005": {
+    "n_test": 131,
+    "auc_GA": 0.5906,
+    "auc_RAND": 0.6135,
+    "diff": -0.0228,
+    "ci95": [
+     -0.0534,
+     0.0086
+    ]
+   },
+   "T_noise|B|0.005": {
+    "n_test": 131,
+    "auc_GA": 0.5394,
+    "auc_RAND": 0.4699,
+    "diff": 0.0695,
+    "ci95": [
+     0.0026,
+     0.1328
+    ]
+   },
+   "T_noise|A|0.01": {
+    "n_test": 131,
+    "auc_GA": 0.6757,
+    "auc_RAND": 0.6785,
+    "diff": -0.0029,
+    "ci95": [
+     -0.036,
+     0.0322
+    ]
+   },
+   "T_noise|B|0.01": {
+    "n_test": 131,
+    "auc_GA": 0.5619,
+    "auc_RAND": 0.5071,
+    "diff": 0.0548,
+    "ci95": [
+     -0.0036,
+     0.1166
+    ]
+   },
+   "T_noise|A|0.02": {
+    "n_test": 131,
+    "auc_GA": 0.8134,
+    "auc_RAND": 0.8078,
+    "diff": 0.0055,
+    "ci95": [
+     -0.029,
+     0.0399
+    ]
+   },
+   "T_noise|B|0.02": {
+    "n_test": 131,
+    "auc_GA": 0.5965,
+    "auc_RAND": 0.5754,
+    "diff": 0.0212,
+    "ci95": [
+     -0.0388,
+     0.0821
+    ]
+   },
+   "A_noise|A|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.6907,
+    "auc_RAND": 0.6365,
+    "diff": 0.0542,
+    "ci95": [
+     0.0258,
+     0.0803
+    ]
+   },
+   "A_noise|B|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.6699,
+    "auc_RAND": 0.5749,
+    "diff": 0.095,
+    "ci95": [
+     0.0429,
+     0.1537
+    ]
+   },
+   "A_noise|A|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.8134,
+    "auc_RAND": 0.7517,
+    "diff": 0.0617,
+    "ci95": [
+     0.0317,
+     0.0923
+    ]
+   },
+   "A_noise|B|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.8337,
+    "auc_RAND": 0.7287,
+    "diff": 0.1051,
+    "ci95": [
+     0.0657,
+     0.1389
+    ]
+   },
+   "A_noise|A|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9676,
+    "auc_RAND": 0.9366,
+    "diff": 0.031,
+    "ci95": [
+     0.0127,
+     0.0496
+    ]
+   },
+   "A_noise|B|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9697,
+    "auc_RAND": 0.9219,
+    "diff": 0.0478,
+    "ci95": [
+     0.0284,
+     0.0707
+    ]
+   }
+  },
+  "cross": {
+   "A|0.005|GA|train_A_noise->test_T_noise": 0.5419,
+   "A|0.005|GA|train_T_noise->test_A_noise": 0.6123,
+   "A|0.005|GA|train_A_noise_sub304->test_A_noise": 0.6907,
+   "A|0.005|GA|train_A_noise->test_A_noise": 0.6907,
+   "A|0.005|GA|train_T_noise->test_T_noise": 0.5906,
+   "A|0.005|RAND|train_A_noise->test_T_noise": 0.5366,
+   "A|0.005|RAND|train_T_noise->test_A_noise": 0.5813,
+   "A|0.005|RAND|train_A_noise_sub304->test_A_noise": 0.6365,
+   "A|0.005|RAND|train_A_noise->test_A_noise": 0.6365,
+   "A|0.005|RAND|train_T_noise->test_T_noise": 0.6135,
+   "A|0.01|GA|train_A_noise->test_T_noise": 0.5558,
+   "A|0.01|GA|train_T_noise->test_A_noise": 0.706,
+   "A|0.01|GA|train_A_noise_sub304->test_A_noise": 0.8134,
+   "A|0.01|GA|train_A_noise->test_A_noise": 0.8134,
+   "A|0.01|GA|train_T_noise->test_T_noise": 0.6757,
+   "A|0.01|RAND|train_A_noise->test_T_noise": 0.5325,
+   "A|0.01|RAND|train_T_noise->test_A_noise": 0.6448,
+   "A|0.01|RAND|train_A_noise_sub304->test_A_noise": 0.7517,
+   "A|0.01|RAND|train_A_noise->test_A_noise": 0.7517,
+   "A|0.01|RAND|train_T_noise->test_T_noise": 0.6785,
+   "A|0.02|GA|train_A_noise->test_T_noise": 0.6028,
+   "A|0.02|GA|train_T_noise->test_A_noise": 0.853,
+   "A|0.02|GA|train_A_noise_sub304->test_A_noise": 0.9676,
+   "A|0.02|GA|train_A_noise->test_A_noise": 0.9676,
+   "A|0.02|GA|train_T_noise->test_T_noise": 0.8134,
+   "A|0.02|RAND|train_A_noise->test_T_noise": 0.5623,
+   "A|0.02|RAND|train_T_noise->test_A_noise": 0.8139,
+   "A|0.02|RAND|train_A_noise_sub304->test_A_noise": 0.9366,
+   "A|0.02|RAND|train_A_noise->test_A_noise": 0.9366,
+   "A|0.02|RAND|train_T_noise->test_T_noise": 0.8078,
+   "B|0.005|GA|train_A_noise->test_T_noise": 0.5121,
+   "B|0.005|GA|train_T_noise->test_A_noise": 0.5389,
+   "B|0.005|GA|train_A_noise_sub304->test_A_noise": 0.6699,
+   "B|0.005|GA|train_A_noise->test_A_noise": 0.6699,
+   "B|0.005|GA|train_T_noise->test_T_noise": 0.5394,
+   "B|0.005|RAND|train_A_noise->test_T_noise": 0.483,
+   "B|0.005|RAND|train_T_noise->test_A_noise": 0.5237,
+   "B|0.005|RAND|train_A_noise_sub304->test_A_noise": 0.5749,
+   "B|0.005|RAND|train_A_noise->test_A_noise": 0.5749,
+   "B|0.005|RAND|train_T_noise->test_T_noise": 0.4699,
+   "B|0.01|GA|train_A_noise->test_T_noise": 0.5306,
+   "B|0.01|GA|train_T_noise->test_A_noise": 0.7432,
+   "B|0.01|GA|train_A_noise_sub304->test_A_noise": 0.8337,
+   "B|0.01|GA|train_A_noise->test_A_noise": 0.8337,
+   "B|0.01|GA|train_T_noise->test_T_noise": 0.5619,
+   "B|0.01|RAND|train_A_noise->test_T_noise": 0.5254,
+   "B|0.01|RAND|train_T_noise->test_A_noise": 0.677,
+   "B|0.01|RAND|train_A_noise_sub304->test_A_noise": 0.7287,
+   "B|0.01|RAND|train_A_noise->test_A_noise": 0.7287,
+   "B|0.01|RAND|train_T_noise->test_T_noise": 0.5071,
+   "B|0.02|GA|train_A_noise->test_T_noise": 0.5383,
+   "B|0.02|GA|train_T_noise->test_A_noise": 0.9469,
+   "B|0.02|GA|train_A_noise_sub304->test_A_noise": 0.9697,
+   "B|0.02|GA|train_A_noise->test_A_noise": 0.9697,
+   "B|0.02|GA|train_T_noise->test_T_noise": 0.5965,
+   "B|0.02|RAND|train_A_noise->test_T_noise": 0.5517,
+   "B|0.02|RAND|train_T_noise->test_A_noise": 0.8631,
+   "B|0.02|RAND|train_A_noise_sub304->test_A_noise": 0.9219,
+   "B|0.02|RAND|train_A_noise->test_A_noise": 0.9219,
+   "B|0.02|RAND|train_T_noise->test_T_noise": 0.5754
+  }
+ },
+ {
+  "seed": 1,
+  "sizes": {
+   "T_raw": [
+    435,
+    305,
+    130
+   ],
+   "T_noise": [
+    435,
+    305,
+    130
+   ],
+   "A_noise": [
+    400,
+    280,
+    120
+   ]
+  },
+  "in_domain": {
+   "T_raw|A|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.7725,
+    "auc_RAND": 0.7634,
+    "diff": 0.0091,
+    "ci95": [
+     -0.0152,
+     0.0336
+    ]
+   },
+   "T_raw|B|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.6412,
+    "auc_RAND": 0.6273,
+    "diff": 0.0138,
+    "ci95": [
+     -0.0407,
+     0.0646
+    ]
+   },
+   "T_raw|A|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.8856,
+    "auc_RAND": 0.8634,
+    "diff": 0.0222,
+    "ci95": [
+     0.003,
+     0.0421
+    ]
+   },
+   "T_raw|B|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.7175,
+    "auc_RAND": 0.7118,
+    "diff": 0.0057,
+    "ci95": [
+     -0.0325,
+     0.0421
+    ]
+   },
+   "T_raw|A|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.9464,
+    "auc_RAND": 0.9459,
+    "diff": 0.0005,
+    "ci95": [
+     -0.0105,
+     0.0127
+    ]
+   },
+   "T_raw|B|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.7956,
+    "auc_RAND": 0.8057,
+    "diff": -0.0102,
+    "ci95": [
+     -0.0479,
+     0.0259
+    ]
+   },
+   "T_noise|A|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.5873,
+    "auc_RAND": 0.5801,
+    "diff": 0.0072,
+    "ci95": [
+     -0.0148,
+     0.0339
+    ]
+   },
+   "T_noise|B|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.5112,
+    "auc_RAND": 0.5019,
+    "diff": 0.0093,
+    "ci95": [
+     -0.0539,
+     0.0668
+    ]
+   },
+   "T_noise|A|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.6702,
+    "auc_RAND": 0.6667,
+    "diff": 0.0034,
+    "ci95": [
+     -0.0298,
+     0.0349
+    ]
+   },
+   "T_noise|B|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.5628,
+    "auc_RAND": 0.5298,
+    "diff": 0.033,
+    "ci95": [
+     -0.0237,
+     0.0958
+    ]
+   },
+   "T_noise|A|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.8038,
+    "auc_RAND": 0.8112,
+    "diff": -0.0074,
+    "ci95": [
+     -0.0404,
+     0.0235
+    ]
+   },
+   "T_noise|B|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.6032,
+    "auc_RAND": 0.5918,
+    "diff": 0.0114,
+    "ci95": [
+     -0.055,
+     0.0786
+    ]
+   },
+   "A_noise|A|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.665,
+    "auc_RAND": 0.6431,
+    "diff": 0.0219,
+    "ci95": [
+     -0.0077,
+     0.0553
+    ]
+   },
+   "A_noise|B|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.6668,
+    "auc_RAND": 0.5842,
+    "diff": 0.0826,
+    "ci95": [
+     0.0439,
+     0.1243
+    ]
+   },
+   "A_noise|A|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.8065,
+    "auc_RAND": 0.7422,
+    "diff": 0.0644,
+    "ci95": [
+     0.0281,
+     0.0971
+    ]
+   },
+   "A_noise|B|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.8041,
+    "auc_RAND": 0.6948,
+    "diff": 0.1093,
+    "ci95": [
+     0.0735,
+     0.1456
+    ]
+   },
+   "A_noise|A|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9554,
+    "auc_RAND": 0.9342,
+    "diff": 0.0212,
+    "ci95": [
+     0.0015,
+     0.0388
+    ]
+   },
+   "A_noise|B|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9485,
+    "auc_RAND": 0.9019,
+    "diff": 0.0466,
+    "ci95": [
+     0.0217,
+     0.0695
+    ]
+   }
+  },
+  "cross": {
+   "A|0.005|GA|train_A_noise->test_T_noise": 0.567,
+   "A|0.005|GA|train_T_noise->test_A_noise": 0.6102,
+   "A|0.005|GA|train_A_noise_sub305->test_A_noise": 0.665,
+   "A|0.005|GA|train_A_noise->test_A_noise": 0.665,
+   "A|0.005|GA|train_T_noise->test_T_noise": 0.5873,
+   "A|0.005|RAND|train_A_noise->test_T_noise": 0.5525,
+   "A|0.005|RAND|train_T_noise->test_A_noise": 0.5869,
+   "A|0.005|RAND|train_A_noise_sub305->test_A_noise": 0.6431,
+   "A|0.005|RAND|train_A_noise->test_A_noise": 0.6431,
+   "A|0.005|RAND|train_T_noise->test_T_noise": 0.5801,
+   "A|0.01|GA|train_A_noise->test_T_noise": 0.5712,
+   "A|0.01|GA|train_T_noise->test_A_noise": 0.727,
+   "A|0.01|GA|train_A_noise_sub305->test_A_noise": 0.8065,
+   "A|0.01|GA|train_A_noise->test_A_noise": 0.8065,
+   "A|0.01|GA|train_T_noise->test_T_noise": 0.6702,
+   "A|0.01|RAND|train_A_noise->test_T_noise": 0.5509,
+   "A|0.01|RAND|train_T_noise->test_A_noise": 0.6815,
+   "A|0.01|RAND|train_A_noise_sub305->test_A_noise": 0.7422,
+   "A|0.01|RAND|train_A_noise->test_A_noise": 0.7422,
+   "A|0.01|RAND|train_T_noise->test_T_noise": 0.6667,
+   "A|0.02|GA|train_A_noise->test_T_noise": 0.6055,
+   "A|0.02|GA|train_T_noise->test_A_noise": 0.8385,
+   "A|0.02|GA|train_A_noise_sub305->test_A_noise": 0.9554,
+   "A|0.02|GA|train_A_noise->test_A_noise": 0.9554,
+   "A|0.02|GA|train_T_noise->test_T_noise": 0.8038,
+   "A|0.02|RAND|train_A_noise->test_T_noise": 0.549,
+   "A|0.02|RAND|train_T_noise->test_A_noise": 0.7912,
+   "A|0.02|RAND|train_A_noise_sub305->test_A_noise": 0.9342,
+   "A|0.02|RAND|train_A_noise->test_A_noise": 0.9342,
+   "A|0.02|RAND|train_T_noise->test_T_noise": 0.8112,
+   "B|0.005|GA|train_A_noise->test_T_noise": 0.5172,
+   "B|0.005|GA|train_T_noise->test_A_noise": 0.5863,
+   "B|0.005|GA|train_A_noise_sub305->test_A_noise": 0.6668,
+   "B|0.005|GA|train_A_noise->test_A_noise": 0.6668,
+   "B|0.005|GA|train_T_noise->test_T_noise": 0.5112,
+   "B|0.005|RAND|train_A_noise->test_T_noise": 0.503,
+   "B|0.005|RAND|train_T_noise->test_A_noise": 0.5276,
+   "B|0.005|RAND|train_A_noise_sub305->test_A_noise": 0.5842,
+   "B|0.005|RAND|train_A_noise->test_A_noise": 0.5842,
+   "B|0.005|RAND|train_T_noise->test_T_noise": 0.5019,
+   "B|0.01|GA|train_A_noise->test_T_noise": 0.4969,
+   "B|0.01|GA|train_T_noise->test_A_noise": 0.7292,
+   "B|0.01|GA|train_A_noise_sub305->test_A_noise": 0.8041,
+   "B|0.01|GA|train_A_noise->test_A_noise": 0.8041,
+   "B|0.01|GA|train_T_noise->test_T_noise": 0.5628,
+   "B|0.01|RAND|train_A_noise->test_T_noise": 0.5389,
+   "B|0.01|RAND|train_T_noise->test_A_noise": 0.6184,
+   "B|0.01|RAND|train_A_noise_sub305->test_A_noise": 0.6948,
+   "B|0.01|RAND|train_A_noise->test_A_noise": 0.6948,
+   "B|0.01|RAND|train_T_noise->test_T_noise": 0.5298,
+   "B|0.02|GA|train_A_noise->test_T_noise": 0.5341,
+   "B|0.02|GA|train_T_noise->test_A_noise": 0.9012,
+   "B|0.02|GA|train_A_noise_sub305->test_A_noise": 0.9485,
+   "B|0.02|GA|train_A_noise->test_A_noise": 0.9485,
+   "B|0.02|GA|train_T_noise->test_T_noise": 0.6032,
+   "B|0.02|RAND|train_A_noise->test_T_noise": 0.5377,
+   "B|0.02|RAND|train_T_noise->test_A_noise": 0.8287,
+   "B|0.02|RAND|train_A_noise_sub305->test_A_noise": 0.9019,
+   "B|0.02|RAND|train_A_noise->test_A_noise": 0.9019,
+   "B|0.02|RAND|train_T_noise->test_T_noise": 0.5918
+  }
+ },
+ {
+  "seed": 2,
+  "sizes": {
+   "T_raw": [
+    435,
+    305,
+    130
+   ],
+   "T_noise": [
+    435,
+    305,
+    130
+   ],
+   "A_noise": [
+    400,
+    280,
+    120
+   ]
+  },
+  "in_domain": {
+   "T_raw|A|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.8222,
+    "auc_RAND": 0.8352,
+    "diff": -0.013,
+    "ci95": [
+     -0.0405,
+     0.0143
+    ]
+   },
+   "T_raw|B|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.6348,
+    "auc_RAND": 0.6176,
+    "diff": 0.0172,
+    "ci95": [
+     -0.0292,
+     0.059
+    ]
+   },
+   "T_raw|A|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.9221,
+    "auc_RAND": 0.9202,
+    "diff": 0.0018,
+    "ci95": [
+     -0.0208,
+     0.0243
+    ]
+   },
+   "T_raw|B|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.7323,
+    "auc_RAND": 0.6964,
+    "diff": 0.0359,
+    "ci95": [
+     -0.0042,
+     0.0818
+    ]
+   },
+   "T_raw|A|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.9919,
+    "auc_RAND": 0.9869,
+    "diff": 0.005,
+    "ci95": [
+     -0.0033,
+     0.0135
+    ]
+   },
+   "T_raw|B|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.8228,
+    "auc_RAND": 0.8057,
+    "diff": 0.0171,
+    "ci95": [
+     -0.0186,
+     0.0489
+    ]
+   },
+   "T_noise|A|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.6003,
+    "auc_RAND": 0.5964,
+    "diff": 0.0039,
+    "ci95": [
+     -0.0222,
+     0.0336
+    ]
+   },
+   "T_noise|B|0.005": {
+    "n_test": 130,
+    "auc_GA": 0.5217,
+    "auc_RAND": 0.4942,
+    "diff": 0.0275,
+    "ci95": [
+     -0.0308,
+     0.0866
+    ]
+   },
+   "T_noise|A|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.6708,
+    "auc_RAND": 0.684,
+    "diff": -0.0132,
+    "ci95": [
+     -0.0475,
+     0.0189
+    ]
+   },
+   "T_noise|B|0.01": {
+    "n_test": 130,
+    "auc_GA": 0.5518,
+    "auc_RAND": 0.4933,
+    "diff": 0.0585,
+    "ci95": [
+     -0.0121,
+     0.1303
+    ]
+   },
+   "T_noise|A|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.8067,
+    "auc_RAND": 0.8029,
+    "diff": 0.0038,
+    "ci95": [
+     -0.0316,
+     0.0423
+    ]
+   },
+   "T_noise|B|0.02": {
+    "n_test": 130,
+    "auc_GA": 0.5525,
+    "auc_RAND": 0.5692,
+    "diff": -0.0166,
+    "ci95": [
+     -0.0768,
+     0.0421
+    ]
+   },
+   "A_noise|A|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.6731,
+    "auc_RAND": 0.6656,
+    "diff": 0.0076,
+    "ci95": [
+     -0.0221,
+     0.0387
+    ]
+   },
+   "A_noise|B|0.005": {
+    "n_test": 120,
+    "auc_GA": 0.6657,
+    "auc_RAND": 0.5895,
+    "diff": 0.0762,
+    "ci95": [
+     0.0347,
+     0.1214
+    ]
+   },
+   "A_noise|A|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.8151,
+    "auc_RAND": 0.7603,
+    "diff": 0.0548,
+    "ci95": [
+     0.0261,
+     0.0887
+    ]
+   },
+   "A_noise|B|0.01": {
+    "n_test": 120,
+    "auc_GA": 0.7968,
+    "auc_RAND": 0.7382,
+    "diff": 0.0586,
+    "ci95": [
+     0.03,
+     0.0897
+    ]
+   },
+   "A_noise|A|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9561,
+    "auc_RAND": 0.9378,
+    "diff": 0.0183,
+    "ci95": [
+     -0.0028,
+     0.0374
+    ]
+   },
+   "A_noise|B|0.02": {
+    "n_test": 120,
+    "auc_GA": 0.9726,
+    "auc_RAND": 0.9169,
+    "diff": 0.0557,
+    "ci95": [
+     0.0359,
+     0.0772
+    ]
+   }
+  },
+  "cross": {
+   "A|0.005|GA|train_A_noise->test_T_noise": 0.557,
+   "A|0.005|GA|train_T_noise->test_A_noise": 0.5958,
+   "A|0.005|GA|train_A_noise_sub305->test_A_noise": 0.6731,
+   "A|0.005|GA|train_A_noise->test_A_noise": 0.6731,
+   "A|0.005|GA|train_T_noise->test_T_noise": 0.6003,
+   "A|0.005|RAND|train_A_noise->test_T_noise": 0.5785,
+   "A|0.005|RAND|train_T_noise->test_A_noise": 0.6217,
+   "A|0.005|RAND|train_A_noise_sub305->test_A_noise": 0.6656,
+   "A|0.005|RAND|train_A_noise->test_A_noise": 0.6656,
+   "A|0.005|RAND|train_T_noise->test_T_noise": 0.5964,
+   "A|0.01|GA|train_A_noise->test_T_noise": 0.5703,
+   "A|0.01|GA|train_T_noise->test_A_noise": 0.7156,
+   "A|0.01|GA|train_A_noise_sub305->test_A_noise": 0.8151,
+   "A|0.01|GA|train_A_noise->test_A_noise": 0.8151,
+   "A|0.01|GA|train_T_noise->test_T_noise": 0.6708,
+   "A|0.01|RAND|train_A_noise->test_T_noise": 0.5885,
+   "A|0.01|RAND|train_T_noise->test_A_noise": 0.6474,
+   "A|0.01|RAND|train_A_noise_sub305->test_A_noise": 0.7603,
+   "A|0.01|RAND|train_A_noise->test_A_noise": 0.7603,
+   "A|0.01|RAND|train_T_noise->test_T_noise": 0.684,
+   "A|0.02|GA|train_A_noise->test_T_noise": 0.6125,
+   "A|0.02|GA|train_T_noise->test_A_noise": 0.8444,
+   "A|0.02|GA|train_A_noise_sub305->test_A_noise": 0.9561,
+   "A|0.02|GA|train_A_noise->test_A_noise": 0.9561,
+   "A|0.02|GA|train_T_noise->test_T_noise": 0.8067,
+   "A|0.02|RAND|train_A_noise->test_T_noise": 0.5967,
+   "A|0.02|RAND|train_T_noise->test_A_noise": 0.8147,
+   "A|0.02|RAND|train_A_noise_sub305->test_A_noise": 0.9378,
+   "A|0.02|RAND|train_A_noise->test_A_noise": 0.9378,
+   "A|0.02|RAND|train_T_noise->test_T_noise": 0.8029,
+   "B|0.005|GA|train_A_noise->test_T_noise": 0.5012,
+   "B|0.005|GA|train_T_noise->test_A_noise": 0.6007,
+   "B|0.005|GA|train_A_noise_sub305->test_A_noise": 0.6657,
+   "B|0.005|GA|train_A_noise->test_A_noise": 0.6657,
+   "B|0.005|GA|train_T_noise->test_T_noise": 0.5217,
+   "B|0.005|RAND|train_A_noise->test_T_noise": 0.508,
+   "B|0.005|RAND|train_T_noise->test_A_noise": 0.536,
+   "B|0.005|RAND|train_A_noise_sub305->test_A_noise": 0.5895,
+   "B|0.005|RAND|train_A_noise->test_A_noise": 0.5895,
+   "B|0.005|RAND|train_T_noise->test_T_noise": 0.4942,
+   "B|0.01|GA|train_A_noise->test_T_noise": 0.4956,
+   "B|0.01|GA|train_T_noise->test_A_noise": 0.7539,
+   "B|0.01|GA|train_A_noise_sub305->test_A_noise": 0.7968,
+   "B|0.01|GA|train_A_noise->test_A_noise": 0.7968,
+   "B|0.01|GA|train_T_noise->test_T_noise": 0.5518,
+   "B|0.01|RAND|train_A_noise->test_T_noise": 0.5118,
+   "B|0.01|RAND|train_T_noise->test_A_noise": 0.5391,
+   "B|0.01|RAND|train_A_noise_sub305->test_A_noise": 0.7382,
+   "B|0.01|RAND|train_A_noise->test_A_noise": 0.7382,
+   "B|0.01|RAND|train_T_noise->test_T_noise": 0.4933,
+   "B|0.02|GA|train_A_noise->test_T_noise": 0.5368,
+   "B|0.02|GA|train_T_noise->test_A_noise": 0.9084,
+   "B|0.02|GA|train_A_noise_sub305->test_A_noise": 0.9726,
+   "B|0.02|GA|train_A_noise->test_A_noise": 0.9726,
+   "B|0.02|GA|train_T_noise->test_T_noise": 0.5525,
+   "B|0.02|RAND|train_A_noise->test_T_noise": 0.5306,
+   "B|0.02|RAND|train_T_noise->test_A_noise": 0.8272,
+   "B|0.02|RAND|train_A_noise_sub305->test_A_noise": 0.9169,
+   "B|0.02|RAND|train_A_noise->test_A_noise": 0.9169,
+   "B|0.02|RAND|train_T_noise->test_T_noise": 0.5692
+  }
+ }
+]

@@ -1,0 +1,5 @@
+bratst2 0.0027 validation AUC (A, random key): 0.6173
+bratst2 0.005 validation AUC (A, random key): 0.7011
+bratst2 0.01 validation AUC (A, random key): 0.8393
+bratst2 0.02 validation AUC (A, random key): 0.934
+chosen payload: 0.005

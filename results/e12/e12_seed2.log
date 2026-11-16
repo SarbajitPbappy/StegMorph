@@ -1,0 +1,72 @@
+cover features 18 s
+stego built 311 s; stats(test) {'ORIG': {'pvd_pairs': 13.7, 'lsb_pairs': 92.8, 'mse': 0.0113}, 'RANDSEQ': {'pvd_pairs': 10.1, 'lsb_pairs': 99.9, 'mse': 0.0103}, 'RANDMIX': {'pvd_pairs': 13.7, 'lsb_pairs': 92.7, 'mse': 0.0113}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.005 {'RANDSEQ': 0.6483, 'ORIG': 0.6638, 'RANDMIX': 0.6637} {'P1_ORIG-RANDSEQ': (0.0155, [0.0061, 0.0246]), 'P4_RANDMIX-RANDSEQ': (0.0154, [0.0063, 0.0245]), 'P3_ORIG-RANDMIX': (0.0001, [-0.0094, 0.0097])}
+B 0.005 {'RANDSEQ': 0.5269, 'ORIG': 0.5471, 'RANDMIX': 0.5429} {'P1_ORIG-RANDSEQ': (0.0202, [0.0063, 0.0353]), 'P4_RANDMIX-RANDSEQ': (0.016, [0.0032, 0.0293]), 'P3_ORIG-RANDMIX': (0.0042, [-0.0119, 0.019])}
+  cnn RANDSEQ val_auc 0.7413
+  cnn ORIG val_auc 0.752
+  cnn RANDMIX val_auc 0.7716
+C 0.005 {'RANDSEQ': 0.7528, 'ORIG': 0.7569, 'RANDMIX': 0.767} {'P1_ORIG-RANDSEQ': (0.0041, [-0.008, 0.0149]), 'P4_RANDMIX-RANDSEQ': (0.0142, [0.0026, 0.0242]), 'P3_ORIG-RANDMIX': (-0.0101, [-0.0211, 0.0004])}
+done 0.005 1485 s
+stego built 24 s; stats(test) {'ORIG': {'pvd_pairs': 26.9, 'lsb_pairs': 186.3, 'mse': 0.0224}, 'RANDSEQ': {'pvd_pairs': 19.9, 'lsb_pairs': 200.3, 'mse': 0.0204}, 'RANDMIX': {'pvd_pairs': 26.9, 'lsb_pairs': 186.2, 'mse': 0.0225}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.01 {'RANDSEQ': 0.7763, 'ORIG': 0.7833, 'RANDMIX': 0.7904} {'P1_ORIG-RANDSEQ': (0.007, [-0.0048, 0.0184]), 'P4_RANDMIX-RANDSEQ': (0.0141, [0.0035, 0.0241]), 'P3_ORIG-RANDMIX': (-0.0071, [-0.0167, 0.0016])}
+B 0.01 {'RANDSEQ': 0.5839, 'ORIG': 0.6134, 'RANDMIX': 0.5968} {'P1_ORIG-RANDSEQ': (0.0295, [0.0114, 0.049]), 'P4_RANDMIX-RANDSEQ': (0.0129, [-0.0041, 0.0291]), 'P3_ORIG-RANDMIX': (0.0166, [-0.0005, 0.0353])}
+  cnn RANDSEQ val_auc 0.8892
+  cnn ORIG val_auc 0.8943
+  cnn RANDMIX val_auc 0.898
+C 0.01 {'RANDSEQ': 0.8836, 'ORIG': 0.8951, 'RANDMIX': 0.8978} {'P1_ORIG-RANDSEQ': (0.0115, [0.0031, 0.019]), 'P4_RANDMIX-RANDSEQ': (0.0142, [0.0063, 0.0218]), 'P3_ORIG-RANDMIX': (-0.0027, [-0.0102, 0.0042])}
+done 0.01 1203 s
+DONE 2

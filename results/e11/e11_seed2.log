@@ -1,0 +1,18 @@
+cover features 18 s
+stego built 318 s; stats(test) {'ORIG': {'pvd_pairs': 53.2, 'lsb_pairs': 373.8, 'mse': 0.0445}, 'RANDSEQ': {'pvd_pairs': 40.0, 'lsb_pairs': 400.2, 'mse': 0.0407}, 'RANDMIX': {'pvd_pairs': 53.2, 'lsb_pairs': 373.7, 'mse': 0.0443}} mix_infeasible 0 0
+A 0.02 {'RANDSEQ': 0.9121, 'ORIG': 0.9141, 'RANDMIX': 0.9137} {'P1_ORIG-RANDSEQ': (0.002, [-0.0049, 0.0092]), 'P4_RANDMIX-RANDSEQ': (0.0016, [-0.0048, 0.009]), 'P3_ORIG-RANDMIX': (0.0004, [-0.006, 0.0075])}
+B 0.02 {'RANDSEQ': 0.6849, 'ORIG': 0.7045, 'RANDMIX': 0.6898} {'P1_ORIG-RANDSEQ': (0.0196, [0.0035, 0.0362]), 'P4_RANDMIX-RANDSEQ': (0.0049, [-0.0111, 0.0216]), 'P3_ORIG-RANDMIX': (0.0147, [-0.0025, 0.0321])}
+  cnn RANDSEQ val_auc 0.9664
+  cnn ORIG val_auc 0.9685
+  cnn RANDMIX val_auc 0.9687
+C 0.02 {'RANDSEQ': 0.9752, 'ORIG': 0.9754, 'RANDMIX': 0.9745} {'P1_ORIG-RANDSEQ': (0.0002, [-0.0021, 0.0028]), 'P4_RANDMIX-RANDSEQ': (-0.0007, [-0.0037, 0.0024]), 'P3_ORIG-RANDMIX': (0.0009, [-0.0018, 0.0034])}
+done 0.02 1503 s
+stego built 42 s; stats(test) {'ORIG': {'pvd_pairs': 132.0, 'lsb_pairs': 960.0, 'mse': 0.1121}, 'RANDSEQ': {'pvd_pairs': 102.0, 'lsb_pairs': 1020.1, 'mse': 0.1036}, 'RANDMIX': {'pvd_pairs': 132.0, 'lsb_pairs': 959.9, 'mse': 0.1121}} mix_infeasible 0 0
+A 0.05 {'RANDSEQ': 0.9947, 'ORIG': 0.9944, 'RANDMIX': 0.9952} {'P1_ORIG-RANDSEQ': (-0.0003, [-0.0017, 0.001]), 'P4_RANDMIX-RANDSEQ': (0.0005, [-0.0006, 0.0018]), 'P3_ORIG-RANDMIX': (-0.0008, [-0.0023, 0.0006])}
+B 0.05 {'RANDSEQ': 0.8095, 'ORIG': 0.8358, 'RANDMIX': 0.8239} {'P1_ORIG-RANDSEQ': (0.0263, [0.0123, 0.04]), 'P4_RANDMIX-RANDSEQ': (0.0144, [0.0013, 0.0284]), 'P3_ORIG-RANDMIX': (0.0119, [-0.001, 0.0239])}
+  cnn RANDSEQ val_auc 0.9961
+  cnn ORIG val_auc 0.9958
+  cnn RANDMIX val_auc 0.9953
+C 0.05 {'RANDSEQ': 0.9994, 'ORIG': 0.9994, 'RANDMIX': 0.9994} {'P1_ORIG-RANDSEQ': (0.0, [-0.0002, 0.0002]), 'P4_RANDMIX-RANDSEQ': (0.0, [-0.0002, 0.0002]), 'P3_ORIG-RANDMIX': (0.0, [-0.0002, 0.0002])}
+done 0.05 1235 s
+DONE 2

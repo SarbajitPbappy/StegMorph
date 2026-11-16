@@ -1,0 +1,10 @@
+seed 2: train 4186 test 1131
+  bpp 0.032 HILLR F: AUC 0.6981 (219s)
+  bpp 0.032 HILLR M: AUC 0.8052 (581s)
+  bpp 0.032 SUNIR F: AUC 0.7454 (175s)
+  bpp 0.032 SUNIR M: AUC 0.8324 (861s)
+F 0.032 AUC {'HILLR': 0.6981, 'SUNIR': 0.7454}
+    {}
+M 0.032 AUC {'HILLR': 0.8052, 'SUNIR': 0.8324}
+    {}
+DONE 2 1442s

@@ -1,0 +1,15 @@
+seed 1 ds bratst2: train 663 slices (51 subjects), test 286 (22 subjects); cover features 2s
+  bpp 0.005 RANDFG: 4s fails 0,0 stats {'pvd_pairs': 6.7, 'lsb_pairs': 106.6, 'mse': 0.00927, 'changed_frac': 0.00708}
+  bpp 0.005 ORIG: 3s fails 0,0 stats {'pvd_pairs': 14.6, 'lsb_pairs': 90.9, 'mse': 0.01147, 'changed_frac': 0.00685}
+  bpp 0.005 RANDSEQ: 4s fails 0,0 stats {'pvd_pairs': 11.1, 'lsb_pairs': 97.9, 'mse': 0.01045, 'changed_frac': 0.00695}
+  bpp 0.005 COSTFG: 3s fails 0,0 stats {'pvd_pairs': 5.6, 'lsb_pairs': 108.7, 'mse': 0.00907, 'changed_frac': 0.00715}
+  bpp 0.005 ANTIFG: 4s fails 0,0 stats {'pvd_pairs': 8.8, 'lsb_pairs': 102.5, 'mse': 0.00976, 'changed_frac': 0.00706}
+  bpp 0.005 COSTKEY: 3s fails 0,0 stats {'pvd_pairs': 5.4, 'lsb_pairs': 109.2, 'mse': 0.00886, 'changed_frac': 0.00712}
+  bpp 0.005 COSTMIX: 5s fails 0,0 stats {'pvd_pairs': 5.4, 'lsb_pairs': 109.1, 'mse': 0.00892, 'changed_frac': 0.00714}
+  bpp 0.005 ANTIKEY: 3s fails 0,0 stats {'pvd_pairs': 9.3, 'lsb_pairs': 101.6, 'mse': 0.00983, 'changed_frac': 0.00702}
+A 0.005 AUC {'RANDFG': 0.7785, 'ORIG': 0.9995, 'RANDSEQ': 0.9976, 'COSTFG': 0.5579, 'ANTIFG': 0.942, 'COSTKEY': 0.565, 'COSTMIX': 0.9987, 'ANTIKEY': 1.0}
+    {'RANDFG-RANDSEQ': (-0.2191, [-0.2484, -0.1874]), 'ORIG-RANDSEQ': (0.0019, [0.0002, 0.0041]), 'COSTFG-RANDFG': (-0.2206, [-0.2531, -0.1915]), 'ANTIFG-RANDFG': (0.1635, [0.1312, 0.1938]), 'COSTKEY-RANDSEQ': (-0.4326, [-0.458, -0.4028]), 'COSTMIX-RANDSEQ': (0.0011, [-0.0013, 0.0041]), 'ANTIKEY-RANDSEQ': (0.0024, [0.0006, 0.0052]), 'COSTKEY-COSTMIX': (-0.4337, [-0.4572, -0.4043])}
+D 0.005 AUC {'RANDFG': 0.889, 'ORIG': 0.9987, 'RANDSEQ': 0.999, 'COSTFG': 0.5475, 'ANTIFG': 0.9867, 'COSTKEY': 0.5651, 'COSTMIX': 0.9992, 'ANTIKEY': 1.0}
+    {'RANDFG-RANDSEQ': (-0.11, [-0.141, -0.0825]), 'ORIG-RANDSEQ': (-0.0003, [-0.0018, 0.0012]), 'COSTFG-RANDFG': (-0.3415, [-0.3987, -0.2771]), 'ANTIFG-RANDFG': (0.0977, [0.0752, 0.1235]), 'COSTKEY-RANDSEQ': (-0.4339, [-0.4854, -0.3584]), 'COSTMIX-RANDSEQ': (0.0002, [-0.001, 0.0012]), 'ANTIKEY-RANDSEQ': (0.001, [0.0001, 0.0025]), 'COSTKEY-COSTMIX': (-0.4341, [-0.4858, -0.3589])}
+payload 0.005 done 47s
+DONE 1

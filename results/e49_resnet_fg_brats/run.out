@@ -1,0 +1,2 @@
+stego built
+net RANDFG s0 ep60 n1000000000: val 0.6594 test 0.705 (5.8 min)

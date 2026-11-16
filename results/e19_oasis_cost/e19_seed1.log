@@ -1,0 +1,33 @@
+cover features 21 s
+stego built 263 s; stats(test) {'ORIG': {'pvd_pairs': 1.9, 'lsb_pairs': 236.3, 'mse': 0.0151}, 'RANDSEQ': {'pvd_pairs': 1.1, 'lsb_pairs': 237.9, 'mse': 0.0149}, 'COSTKEY': {'pvd_pairs': 2.5, 'lsb_pairs': 235.0, 'mse': 0.0153}, 'COSTMIX': {'pvd_pairs': 2.5, 'lsb_pairs': 235.0, 'mse': 0.0154}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0033}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.01 {'RANDSEQ': 0.9964, 'ORIG': 0.9962, 'COSTKEY': 0.9919, 'COSTMIX': 0.9965, 'HILL': 0.6691} {'P1_ORIG-RANDSEQ': (-0.0002, [-0.0014, 0.0008]), 'Q1_COSTKEY-RANDSEQ': (-0.0045, [-0.0078, -0.0019]), 'Q2_COSTKEY-COSTMIX': (-0.0046, [-0.008, -0.0018]), 'Q3_COSTMIX-RANDSEQ': (0.0001, [-0.0014, 0.002]), 'B1_HILL-RANDSEQ': (-0.3273, [-0.336, -0.3173])}
+B 0.01 {'RANDSEQ': 0.637, 'ORIG': 0.6269, 'COSTKEY': 0.5293, 'COSTMIX': 0.6433, 'HILL': 0.5033} {'P1_ORIG-RANDSEQ': (-0.0101, [-0.029, 0.01]), 'Q1_COSTKEY-RANDSEQ': (-0.1077, [-0.1323, -0.0829]), 'Q2_COSTKEY-COSTMIX': (-0.114, [-0.1379, -0.0921]), 'Q3_COSTMIX-RANDSEQ': (0.0063, [-0.0174, 0.0286]), 'B1_HILL-RANDSEQ': (-0.1337, [-0.1633, -0.1049])}
+  cnn RANDSEQ val_auc 0.9999
+  cnn ORIG val_auc 1.0
+  cnn COSTKEY val_auc 1.0
+  cnn COSTMIX val_auc 0.9999
+  cnn HILL val_auc 0.8995
+C 0.01 {'RANDSEQ': 0.9997, 'ORIG': 0.9998, 'COSTKEY': 1.0, 'COSTMIX': 0.9998, 'HILL': 0.9023} {'P1_ORIG-RANDSEQ': (0.0001, [-0.0, 0.0004]), 'Q1_COSTKEY-RANDSEQ': (0.0003, [0.0, 0.0006]), 'Q2_COSTKEY-COSTMIX': (0.0002, [0.0, 0.0004]), 'Q3_COSTMIX-RANDSEQ': (0.0001, [-0.0001, 0.0004]), 'B1_HILL-RANDSEQ': (-0.0974, [-0.1136, -0.0812])}
+D 0.01 {'RANDSEQ': 0.993, 'ORIG': 0.9917, 'COSTKEY': 0.9855, 'COSTMIX': 0.9904, 'HILL': 0.6672} {'P1_ORIG-RANDSEQ': (-0.0013, [-0.0039, 0.001]), 'Q1_COSTKEY-RANDSEQ': (-0.0075, [-0.0127, -0.0033]), 'Q2_COSTKEY-COSTMIX': (-0.0049, [-0.0107, 0.0001]), 'Q3_COSTMIX-RANDSEQ': (-0.0026, [-0.0058, 0.0002]), 'B1_HILL-RANDSEQ': (-0.3258, [-0.3421, -0.3071])}
+done 0.01 4289 s
+stego built 83 s; stats(test) {'ORIG': {'pvd_pairs': 3.7, 'lsb_pairs': 472.7, 'mse': 0.0303}, 'RANDSEQ': {'pvd_pairs': 2.1, 'lsb_pairs': 475.8, 'mse': 0.0299}, 'COSTKEY': {'pvd_pairs': 5.0, 'lsb_pairs': 469.9, 'mse': 0.0306}, 'COSTMIX': {'pvd_pairs': 5.0, 'lsb_pairs': 469.9, 'mse': 0.0306}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0072}} mix_infeasible 2 0
+A 0.02 {'RANDSEQ': 1.0, 'ORIG': 1.0, 'COSTKEY': 1.0, 'COSTMIX': 1.0, 'HILL': 0.8383} {'P1_ORIG-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q1_COSTKEY-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q2_COSTKEY-COSTMIX': (0.0, [-0.0, 0.0]), 'Q3_COSTMIX-RANDSEQ': (0.0, [0.0, 0.0]), 'B1_HILL-RANDSEQ': (-0.1617, [-0.1781, -0.1463])}
+B 0.02 {'RANDSEQ': 0.7809, 'ORIG': 0.7765, 'COSTKEY': 0.6157, 'COSTMIX': 0.7732, 'HILL': 0.5065} {'P1_ORIG-RANDSEQ': (-0.0044, [-0.0212, 0.0103]), 'Q1_COSTKEY-RANDSEQ': (-0.1652, [-0.186, -0.1429]), 'Q2_COSTKEY-COSTMIX': (-0.1575, [-0.1798, -0.1363]), 'Q3_COSTMIX-RANDSEQ': (-0.0077, [-0.0198, 0.0061]), 'B1_HILL-RANDSEQ': (-0.2744, [-0.306, -0.2412])}
+  cnn RANDSEQ val_auc 1.0
+  cnn ORIG val_auc 1.0
+  cnn COSTKEY val_auc 1.0
+  cnn COSTMIX val_auc 1.0
+  cnn HILL val_auc 0.9893
+C 0.02 {'RANDSEQ': 1.0, 'ORIG': 1.0, 'COSTKEY': 1.0, 'COSTMIX': 1.0, 'HILL': 0.9832} {'P1_ORIG-RANDSEQ': (0.0, [-0.0, 0.0001]), 'Q1_COSTKEY-RANDSEQ': (0.0, [0.0, 0.0001]), 'Q2_COSTKEY-COSTMIX': (0.0, [0.0, 0.0]), 'Q3_COSTMIX-RANDSEQ': (0.0, [-0.0, 0.0001]), 'B1_HILL-RANDSEQ': (-0.0168, [-0.0228, -0.0112])}
+D 0.02 {'RANDSEQ': 0.9998, 'ORIG': 0.9998, 'COSTKEY': 0.9995, 'COSTMIX': 0.9999, 'HILL': 0.8402} {'P1_ORIG-RANDSEQ': (0.0, [-0.0002, 0.0003]), 'Q1_COSTKEY-RANDSEQ': (-0.0003, [-0.0007, 0.0]), 'Q2_COSTKEY-COSTMIX': (-0.0004, [-0.0008, -0.0001]), 'Q3_COSTMIX-RANDSEQ': (0.0001, [-0.0001, 0.0003]), 'B1_HILL-RANDSEQ': (-0.1596, [-0.1788, -0.1407])}
+done 0.02 4115 s
+DONE 1

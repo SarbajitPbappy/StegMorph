@@ -1,0 +1,4 @@
+bpp 0.01: changed-pixel fraction Octave 0.00346 vs numpy 0.00330 (ratio 0.953); MSE Octave 0.00346 vs numpy 0.00330; per-slice change-fraction correlation 0.855
+bpp 0.02: changed-pixel fraction Octave 0.00774 vs numpy 0.00757 (ratio 0.978); MSE Octave 0.00774 vs numpy 0.00757; per-slice change-fraction correlation 0.464
+
+Run 12 Nov 2026 with code/hill_validate.py: 12 IXI test slices (every 97th), Octave HILL.m from Aletheia versus the numpy simulator in code/exp14_costkey.py, same payload; both samplers are random so means are compared. Ratios between runs varied from about 0.90 to 1.01 earlier; this stored run gives 0.953 and 0.978. Per-slice correlation is moderate (0.855, 0.464), so the simulator matches the mean amount of change, not each slice. Detectability of Octave HILL stego was not measured.

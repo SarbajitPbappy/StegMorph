@@ -1,0 +1,48 @@
+{
+ "seed0": {
+  "n_images": 300,
+  "n_train_groups": 210,
+  "feat_time_s": 1.2,
+  "auc": {
+   "LSB_seq_1.0bpp": 1.0,
+   "LSB_keyed_0.4bpp": 1.0,
+   "LSB_keyed_0.1bpp": 1.0,
+   "HILL_sim_0.4bpp": 0.9658,
+   "cover_vs_cover": 0.5
+  }
+ },
+ "seed1": {
+  "n_images": 300,
+  "n_train_groups": 210,
+  "feat_time_s": 1.4,
+  "auc": {
+   "LSB_seq_1.0bpp": 1.0,
+   "LSB_keyed_0.4bpp": 1.0,
+   "LSB_keyed_0.1bpp": 1.0,
+   "HILL_sim_0.4bpp": 0.9844,
+   "cover_vs_cover": 0.5
+  }
+ },
+ "seed2": {
+  "n_images": 300,
+  "n_train_groups": 210,
+  "feat_time_s": 1.4,
+  "auc": {
+   "LSB_seq_1.0bpp": 1.0,
+   "LSB_keyed_0.4bpp": 1.0,
+   "LSB_keyed_0.1bpp": 1.0,
+   "HILL_sim_0.4bpp": 0.9711,
+   "cover_vs_cover": 0.5
+  }
+ },
+ "chance_control_random_labels_AUC": {
+  "seed0": 0.5225,
+  "seed1": 0.4578,
+  "seed2": 0.4874
+ },
+ "caveats": [
+  "Alzheimer mirror is 128x128 JPEG-decoded and resized: JPEG block/quantisation structure likely makes even 0.1 bpp LSB trivially detectable; not representative of DICOM/NIfTI-derived data",
+  "image-level split, no subject IDs: leakage-prone",
+  "cover_vs_cover with identical images is tautological (AUC 0.5 by construction); the random-label control above is the real chance test"
+ ]
+}

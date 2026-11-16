@@ -1,0 +1,21 @@
+{
+ "best_val_auc": 0.8563,
+ "best_epoch": 3,
+ "epochs_run": 4,
+ "minutes": 2.4,
+ "params": 602482,
+ "val_auc_history": [
+  0.7524,
+  0.8219,
+  0.8405,
+  0.8563
+ ],
+ "net": "net",
+ "scheme": "RANDSEQ",
+ "seed": 0,
+ "bpp": 0.01,
+ "n_train_pairs": 4186,
+ "max_epochs": 4,
+ "test_auc": 0.8599,
+ "valid_run": true
+}

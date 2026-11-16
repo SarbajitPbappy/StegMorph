@@ -1,0 +1,5 @@
+stego built
+net RANDSEQ s1 ep4 n4186: val 0.8702 test 0.8644 (2.3 min)
+net COSTKEY s1 ep4 n4186: val 0.8716 test 0.8471 (2.3 min)
+net RANDSEQ s1 ep60 n4186: val 0.9076 test 0.9063 (34.2 min)
+net COSTKEY s1 ep60 n4186: val 0.9286 test 0.9193 (44.7 min)

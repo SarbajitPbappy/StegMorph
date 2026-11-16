@@ -1,0 +1,33 @@
+{
+ "seed": 1,
+ "n_train": 4186,
+ "n_test": 1131,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "ixi|F|0.01": {
+   "auc": {
+    "GAMINX": 0.7845
+   },
+   "contrasts": {}
+  },
+  "ixi|M|0.01": {
+   "auc": {
+    "GAMINX": 0.7845
+   },
+   "contrasts": {}
+  },
+  "ixi|F|0.02": {
+   "auc": {
+    "GAMINX": 0.9192
+   },
+   "contrasts": {}
+  },
+  "ixi|M|0.02": {
+   "auc": {
+    "GAMINX": 0.9192
+   },
+   "contrasts": {}
+  }
+ }
+}

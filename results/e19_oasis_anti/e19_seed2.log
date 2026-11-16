@@ -1,0 +1,19 @@
+cover features 20 s
+stego built 341 s; stats(test) {'ORIG': {'pvd_pairs': 1.9, 'lsb_pairs': 236.1, 'mse': 0.0152}, 'RANDSEQ': {'pvd_pairs': 1.0, 'lsb_pairs': 237.9, 'mse': 0.0149}, 'ANTIKEY': {'pvd_pairs': 0.1, 'lsb_pairs': 239.8, 'mse': 0.0147}, 'ANTIMIX': {'pvd_pairs': 0.1, 'lsb_pairs': 239.8, 'mse': 0.0147}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0033}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.01 {'RANDSEQ': 0.9973, 'ORIG': 0.9967, 'ANTIKEY': 0.9994, 'ANTIMIX': 0.9954, 'HILL': 0.667} {'P1_ORIG-RANDSEQ': (-0.0006, [-0.0017, 0.0004]), 'Q1_ANTIKEY-RANDSEQ': (0.0021, [0.001, 0.0035]), 'Q2_ANTIKEY-ANTIMIX': (0.004, [0.0021, 0.0063]), 'Q3_ANTIMIX-RANDSEQ': (-0.0019, [-0.0038, -0.0005]), 'B1_HILL-RANDSEQ': (-0.3303, [-0.34, -0.3182])}
+D 0.01 {'RANDSEQ': 0.9942, 'ORIG': 0.9935, 'ANTIKEY': 0.996, 'ANTIMIX': 0.9903, 'HILL': 0.6704} {'P1_ORIG-RANDSEQ': (-0.0007, [-0.0024, 0.0013]), 'Q1_ANTIKEY-RANDSEQ': (0.0018, [-0.0003, 0.0042]), 'Q2_ANTIKEY-ANTIMIX': (0.0057, [0.0024, 0.0099]), 'Q3_ANTIMIX-RANDSEQ': (-0.0039, [-0.0067, -0.0012]), 'B1_HILL-RANDSEQ': (-0.3238, [-0.3391, -0.3064])}
+done 0.01 486 s
+stego built 87 s; stats(test) {'ORIG': {'pvd_pairs': 3.8, 'lsb_pairs': 472.4, 'mse': 0.0303}, 'RANDSEQ': {'pvd_pairs': 2.2, 'lsb_pairs': 475.7, 'mse': 0.0298}, 'ANTIKEY': {'pvd_pairs': 0.3, 'lsb_pairs': 479.5, 'mse': 0.0294}, 'ANTIMIX': {'pvd_pairs': 0.3, 'lsb_pairs': 479.5, 'mse': 0.0294}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0071}} mix_infeasible 0 0
+A 0.02 {'RANDSEQ': 1.0, 'ORIG': 1.0, 'ANTIKEY': 1.0, 'ANTIMIX': 1.0, 'HILL': 0.8425} {'P1_ORIG-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q1_ANTIKEY-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q2_ANTIKEY-ANTIMIX': (0.0, [-0.0, 0.0]), 'Q3_ANTIMIX-RANDSEQ': (0.0, [-0.0, 0.0]), 'B1_HILL-RANDSEQ': (-0.1575, [-0.1709, -0.1434])}
+D 0.02 {'RANDSEQ': 0.9999, 'ORIG': 0.9999, 'ANTIKEY': 1.0, 'ANTIMIX': 0.9999, 'HILL': 0.8428} {'P1_ORIG-RANDSEQ': (0.0, [-0.0001, 0.0002]), 'Q1_ANTIKEY-RANDSEQ': (0.0001, [-0.0001, 0.0003]), 'Q2_ANTIKEY-ANTIMIX': (0.0001, [-0.0001, 0.0002]), 'Q3_ANTIMIX-RANDSEQ': (0.0, [-0.0, 0.0002]), 'B1_HILL-RANDSEQ': (-0.1571, [-0.1735, -0.141])}
+done 0.02 237 s
+DONE 2

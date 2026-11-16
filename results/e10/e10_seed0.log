@@ -1,0 +1,14 @@
+covers 800 200
+stats(test) {'ORIG': {'pvd_pairs': 19.3, 'lsb_pairs': 201.4, 'mse': 0.0198}, 'RANDSEQ': {'pvd_pairs': 13.4, 'lsb_pairs': 213.3, 'mse': 0.0183}, 'RANDMIX': {'pvd_pairs': 19.3, 'lsb_pairs': 201.4, 'mse': 0.0197}} mix_infeasible 0 0
+A 0.01 {'RANDSEQ': 0.6436, 'ORIG': 0.6339, 'RANDMIX': 0.6258} {'P1_ORIG-RANDSEQ': -0.0097, 'P4_RANDMIX-RANDSEQ': -0.0178, 'P3_ORIG-RANDMIX': 0.0081}
+B 0.01 {'RANDSEQ': 0.6123, 'ORIG': 0.5981, 'RANDMIX': 0.5994} {'P1_ORIG-RANDSEQ': -0.0142, 'P4_RANDMIX-RANDSEQ': -0.0129, 'P3_ORIG-RANDMIX': -0.0013}
+done 0.01 156.4
+stats(test) {'ORIG': {'pvd_pairs': 37.8, 'lsb_pairs': 404.4, 'mse': 0.039}, 'RANDSEQ': {'pvd_pairs': 26.7, 'lsb_pairs': 426.6, 'mse': 0.036}, 'RANDMIX': {'pvd_pairs': 37.8, 'lsb_pairs': 404.4, 'mse': 0.0393}} mix_infeasible 0 0
+A 0.02 {'RANDSEQ': 0.722, 'ORIG': 0.737, 'RANDMIX': 0.7391} {'P1_ORIG-RANDSEQ': 0.015, 'P4_RANDMIX-RANDSEQ': 0.0171, 'P3_ORIG-RANDMIX': -0.0021}
+B 0.02 {'RANDSEQ': 0.7156, 'ORIG': 0.7121, 'RANDMIX': 0.7031} {'P1_ORIG-RANDSEQ': -0.0035, 'P4_RANDMIX-RANDSEQ': -0.0125, 'P3_ORIG-RANDMIX': 0.009}
+done 0.02 166.6
+stats(test) {'ORIG': {'pvd_pairs': 93.5, 'lsb_pairs': 1037.0, 'mse': 0.0987}, 'RANDSEQ': {'pvd_pairs': 67.2, 'lsb_pairs': 1089.6, 'mse': 0.0922}, 'RANDMIX': {'pvd_pairs': 93.5, 'lsb_pairs': 1036.9, 'mse': 0.0988}} mix_infeasible 0 0
+A 0.05 {'RANDSEQ': 0.9084, 'ORIG': 0.9132, 'RANDMIX': 0.9246} {'P1_ORIG-RANDSEQ': 0.0048, 'P4_RANDMIX-RANDSEQ': 0.0162, 'P3_ORIG-RANDMIX': -0.0114}
+B 0.05 {'RANDSEQ': 0.9053, 'ORIG': 0.9168, 'RANDMIX': 0.9197} {'P1_ORIG-RANDSEQ': 0.0115, 'P4_RANDMIX-RANDSEQ': 0.0144, 'P3_ORIG-RANDMIX': -0.0029}
+done 0.05 143.6
+DONE 0

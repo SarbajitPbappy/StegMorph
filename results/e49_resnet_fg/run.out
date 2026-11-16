@@ -1,0 +1,4 @@
+stego built
+net RANDFG s0 ep60 n1000000000: val 0.6578 test 0.6202 (28.6 min)
+/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/multiprocessing/resource_tracker.py:475: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown: {'/loky-23682-t8bnm7dy', '/loky-23682-qnx6rkw4', '/loky-23682-gchvbmhe', '/loky-23682-qbzz_7h5', '/loky-23682-hlbhbvlx', '/loky-23682-6ih83ql9'}
+  warnings.warn(

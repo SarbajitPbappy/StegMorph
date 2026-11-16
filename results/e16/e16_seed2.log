@@ -1,0 +1,10 @@
+cover features 0 s
+stego built 447 s; stats(test) {'ORIG': {'pvd_pairs': 27.0, 'lsb_pairs': 186.1, 'mse': 0.0225}, 'RANDSEQ': {'pvd_pairs': 19.8, 'lsb_pairs': 200.6, 'mse': 0.0204}, 'COSTKEY': {'pvd_pairs': 28.1, 'lsb_pairs': 184.0, 'mse': 0.0226}, 'COSTMIX': {'pvd_pairs': 28.1, 'lsb_pairs': 183.9, 'mse': 0.0226}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0037}} mix_infeasible 0 0
+  cnn RANDSEQ val_auc 0.9132
+  cnn ORIG val_auc 0.9097
+  cnn COSTKEY val_auc 0.9262
+  cnn COSTMIX val_auc 0.9155
+  cnn HILL val_auc 0.5989
+C 0.01 {'RANDSEQ': 0.9106, 'ORIG': 0.9145, 'COSTKEY': 0.9213, 'COSTMIX': 0.9173, 'HILL': 0.5963} {'P1_ORIG-RANDSEQ': (0.0039, [-0.0038, 0.0119]), 'Q1_COSTKEY-RANDSEQ': (0.0107, [-0.0043, 0.0259]), 'Q2_COSTKEY-COSTMIX': (0.004, [-0.012, 0.0198]), 'Q3_COSTMIX-RANDSEQ': (0.0067, [-0.0008, 0.0143]), 'B1_HILL-RANDSEQ': (-0.3143, [-0.3323, -0.2976])}
+done 0.01 6722 s
+DONE 2

@@ -1,0 +1,32 @@
+{
+ "train": {
+  "n_images": 5278,
+  "n_subjects": 406,
+  "sha256": "cd209a280c8fc8034f706583f415afb0e3183f60b90f7e8747c371bf6dd14c75",
+  "sites": {
+   "Guys": 2964,
+   "IOP": 611,
+   "HH": 1703
+  }
+ },
+ "val": {
+  "n_images": 1131,
+  "n_subjects": 87,
+  "sha256": "c92ccc4bf81f3bf4cb663e43573a433efe6fbc9e202e80d6d8eeaea63eebc957",
+  "sites": {
+   "Guys": 585,
+   "IOP": 143,
+   "HH": 403
+  }
+ },
+ "test": {
+  "n_images": 1144,
+  "n_subjects": 88,
+  "sha256": "e4c37f4ed347a2da77431eb3cbe04f9ea3275fd93c3f20d910e167a68d087e6e",
+  "sites": {
+   "Guys": 637,
+   "IOP": 208,
+   "HH": 299
+  }
+ }
+}

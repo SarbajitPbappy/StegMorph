@@ -1,0 +1,676 @@
+{
+ "A": [
+  {
+   "doi": "10.1155/2010/876946",
+   "title": "Improved Adaptive LSB Steganography Based on Chaos and Genetic Algorithm",
+   "year": 2010,
+   "venue": "EURASIP Journal on Advances in Signal Processing",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.52866/2788-7421.1349",
+   "title": "Retraction Notice: A Novel Scheme to Optimize LSB Steganography Based on a Logistic Chaotic Map and Genetic Algorithm",
+   "year": 2026,
+   "venue": "Iraqi Journal for Computer Science and Mathematics",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1016/j.socl.2021.100021",
+   "title": "Image steganography using genetic algorithm for cover image selection and embedding",
+   "year": 2021,
+   "venue": "Soft Computing Letters",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/ecs.2015.7124769",
+   "title": "Ensemble of logistic maps with genetic algorithm for optimal pixel selection in image steganography",
+   "year": 2015,
+   "venue": "2015 2nd International Conference on Electronics and Communication Systems (ICECS)",
+   "queries": [
+    "Q1",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icriset64803.2025.11251896",
+   "title": "Beta Elliptic Modeling with Optimal Pixel Selection for Image Steganography Technique using Genetic and Type-2 Fuzzy Logic System",
+   "year": 2025,
+   "venue": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET)",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/iciaai68486.2026.11762009",
+   "title": "Multi-Objective vs Single-Objective Genetic Algorithms for LSB Steganography: A Comparative Analysis",
+   "year": 2026,
+   "venue": "2026 1st International Conference on Innovations and Applications of Artificial Intelligence (ICIAAI)",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/iciscois56541.2023.10100500",
+   "title": "Improving security using Swarm intelligence based optimal pixel selection in Image steganography-A Study",
+   "year": 2023,
+   "venue": "2023 International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)",
+   "queries": [
+    "Q1",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.22266/ijies2024.0229.67",
+   "title": "Image Steganography Based on Hybrid Salp Swarm Algorithm and Particle Swarm Optimization",
+   "year": 2024,
+   "venue": "International Journal of Intelligent Engineering and Systems",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.14419/ijet.v7i2.24.12139",
+   "title": "An Image Steganography using Particle Swarm Optimization and Transform Domain",
+   "year": 2018,
+   "venue": "International Journal of Engineering &amp; Technology",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.24237/djps.1403.443a",
+   "title": "Internet Protocol (IP) Steganography Using Modified Particle Swarm Optimization (MPSO) Algorithm",
+   "year": 2018,
+   "venue": "Diyala Journal For Pure Science",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.5120/ijca2017913686",
+   "title": "Optimizing Image Steganography using Particle Swarm Optimization Algorithm",
+   "year": 2017,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.5120/8727-2602",
+   "title": "Least Significant Bit Image Steganography using Particle Swarm Optimization and Optical Pixel Adjustment",
+   "year": 2012,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q2",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1007/s42452-026-08602-4",
+   "title": "Parameter optimized edge guided image steganography using variable bit LSB embedding for high capacity and visual fidelity",
+   "year": 2026,
+   "venue": "Discover Applied Sciences",
+   "queries": [
+    "Q2",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1515/phys-2016-0052",
+   "title": "Application of Genetic Algorithm and Particle Swarm Optimization techniques for improved image steganography systems",
+   "year": 2016,
+   "venue": "Open Physics",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1155/2021/6679284",
+   "title": "A High-Capacity Image Steganography Method Using Chaotic Particle Swarm Optimization",
+   "year": 2021,
+   "venue": "Security and Communication Networks",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2019.2949622",
+   "title": "New Method of Image Steganography Based on Particle Swarm Optimization Algorithm in Spatial Domain for High Embedding Capacity",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.63180/jcsra.thestap.2026.2.1",
+   "title": "Robust Image Steganography against Differential Attacks Using GA-Optimized LSB Embedding",
+   "year": 2026,
+   "venue": "Journal of Cyber Security and Risk Auditing",
+   "queries": [
+    "Q2",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s00521-022-07830-0",
+   "title": "A robust medical image steganography approach based on particle swarm optimization algorithm and quantum walks",
+   "year": 2022,
+   "venue": "Neural Computing and Applications",
+   "queries": [
+    "Q2",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.70382/hijcisr.v11i9.052",
+   "title": "A REVIEW ON IMAGE STEGANOGRAPHY FOR DATA SECURITY USING TRANSFORM DOMAIN AND PARTICLE SWARM OPTIMIZATION (PSO)",
+   "year": 2026,
+   "venue": "International Journal of Convergent and Informatics Science Research",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1016/j.patcog.2024.110453",
+   "title": "Graph embedding orthogonal decomposition: A synchronous feature selection technique based on collaborative particle swarm optimization",
+   "year": 2024,
+   "venue": "Pattern Recognition",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/aisp.2012.6313773",
+   "title": "Image steganography based on pixel ranking and Particle Swarm Optimization",
+   "year": 2012,
+   "venue": "The 16th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP 2012)",
+   "queries": [
+    "Q2",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/cec45853.2021.9504703",
+   "title": "Knowledge Embedding-Assisted Multi-Exemplar Learning Particle Swarm Optimization for Traffic Signal Timing Optimization",
+   "year": 2021,
+   "venue": "2021 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1145/2905055.2905059",
+   "title": "Increase of Capacity and Quality of Frequency Based Image Steganography Using Particle Swarm Optimization",
+   "year": 2016,
+   "venue": "Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/blackseacom58138.2023.10299780",
+   "title": "Particle Swarm Optimization-Enhanced Virtual Multicast Trees Embedding in SDNs",
+   "year": 2023,
+   "venue": "2023 IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1049/cp.2013.2568",
+   "title": "An efficient data embedding scheme for digital images based on particle swarm optimization with LSBMR",
+   "year": 2013,
+   "venue": "Third International Conference on Computational Intelligence and Information Technology (CIIT 2013)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1007/s12553-018-00289-x",
+   "title": "Secure medical image steganography through optimal pixel selection by EH-MB pipelined optimization technique",
+   "year": 2019,
+   "venue": "Health and Technology",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.47392/irjash.2025.034",
+   "title": "Efficient Net with Adaptive Siberian Tiger Optimization Based Image Steganography and Steganalysis for Biometric Image",
+   "year": 2025,
+   "venue": "International Research Journal on Advanced Science Hub",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.asoc.2022.109847",
+   "title": "Comparative study of metaheuristic optimization algorithms for image steganography based on discrete Fourier transform domain",
+   "year": 2023,
+   "venue": "Applied Soft Computing",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.58496/mjcsc/2025/027",
+   "title": "A Review of Image Steganography Based on Metaheuristic Optimization Algorithms",
+   "year": 2025,
+   "venue": "Mesopotamian Journal of Computer Science",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.12785/ijcds/050505",
+   "title": "Apply Bee Colony Optimization for Image Steganography with Optical Pixel Adjustment",
+   "year": 2016,
+   "venue": "International Journal of Computing and Digital Systems",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/tmm.2010.2051243",
+   "title": "A Framework of Enhancing Image Steganography With Picture Quality Optimization and Anti-Steganalysis Based on Simulated Annealing Algorithm",
+   "year": 2010,
+   "venue": "IEEE Transactions on Multimedia",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2025.3539089",
+   "title": "Mutual Information-Optimized Steganalysis for Generative Steganography",
+   "year": 2025,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q3",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icssit53264.2022.9716314",
+   "title": "Image Steganography using Pixel Value Differencing with Modulus Function and Optimization",
+   "year": 2022,
+   "venue": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/redundancy52534.2021.9606459",
+   "title": "On the Efficiency of Metaheuristic Optimization for Adaptive Image Steganography in the DFT Domain",
+   "year": 2021,
+   "venue": "2021 XVII International Symposium \"Problems of Redundancy in Information and Control Systems\" (REDUNDANCY)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icscsa64454.2024.00080",
+   "title": "Pixel Similarity-Based Steganography in Bit Planes: An Optimization-Driven Approach",
+   "year": 2024,
+   "venue": "2024 4th International Conference on Soft Computing for Security Applications (ICSCSA)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.14569/ijacsa.2017.080843",
+   "title": "A Hybrid Curvelet Transform and Genetic Algorithm for Image Steganography",
+   "year": 2017,
+   "venue": "International Journal of Advanced Computer Science and Applications",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/dt.2017.8012137",
+   "title": "A hybrid image steganography method based on genetic algorithm",
+   "year": 2017,
+   "venue": "2017 International Conference on Information and Digital Technologies (IDT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/acit68900.2025.11510668",
+   "title": "A Hybrid Multimedia Steganography Framework with Genetic Algorithm Optimization and Machine Learning-Based Packet Manipulation Detection",
+   "year": 2025,
+   "venue": "2025 26th International Arab Conference on Information Technology (ACIT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/setit.2016.7939903",
+   "title": "A Hybrid Image steganography method based on genetic algorithm",
+   "year": 2016,
+   "venue": "2016 7th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications (SETIT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/iccinda.2011.6146670",
+   "title": "A Genetic Algorithm based steganography in frequency domain (GASFD)",
+   "year": 2011,
+   "venue": "2011 International Conference on Communication and Industrial Application",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.14445/22315381/ijett-v71i11p229",
+   "title": "Digital Image Steganography and Steganalysis: A Comprehensive Review of Evolution of Advanced Techniques",
+   "year": 2023,
+   "venue": "International Journal of Engineering Trends and Technology",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/iccmc56507.2023.10083698",
+   "title": "A Competent Medical Image Steganography using Improved Optimization Algorithm with Huffman Encoding Techniques",
+   "year": 2023,
+   "venue": "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5220/0012366800003636",
+   "title": "A Novel Image Steganography Method Based on Spatial Domain with War Strategy Optimization and Reed Solomon Model",
+   "year": 2024,
+   "venue": "Proceedings of the 16th International Conference on Agents and Artificial Intelligence",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5220/0014195000004932",
+   "title": "Medical Image Steganography with Cryptographic Encryption Optimized by Using Double Huffman Algorithm",
+   "year": 2025,
+   "venue": "Proceedings of the 1st International Conference on Intelligent Methods and Advanced Computer Scientific Innovations",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icoa66896.2025.11236921",
+   "title": "Genetic-Firefly Algorithm Based Approach in Image Steganography",
+   "year": 2025,
+   "venue": "2025 11th International Conference on Optimization and Applications (ICOA)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.47974/jdmsc-2751",
+   "title": "Optimized image steganography using heterogeneous image embedding techniques",
+   "year": 2026,
+   "venue": "Journal of Discrete Mathematical Sciences &amp; Cryptography",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1080/1206212x.2026.2754351",
+   "title": "ABC optimized adaptive fuzzy PVD steganography",
+   "year": 2026,
+   "venue": "International Journal of Computers and Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icsintesa68165.2025.11413645",
+   "title": "Security Analysis Of Optimized Modern Steganography With The Use Of Encryption, Compression, And Anti-Steganalysis",
+   "year": 2025,
+   "venue": "2025 5th International Conference of Science and Information Technology in Smart Administration (ICSINTESA)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/mosicom67153.2025.11398291",
+   "title": "Cuckoo-Optimized Chaos Embedding for Secure Image Steganography",
+   "year": 2025,
+   "venue": "2025 International Conference on Modeling, Simulation &amp;amp; Intelligent Computing (MoSICom)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/cec48606.2020.9185758",
+   "title": "Atrributed Graph Embedding Based on Multiobjective Evolutionary Algorithm for Overlapping Community Detection",
+   "year": 2020,
+   "venue": "2020 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec.2016.7744109",
+   "title": "Entropy determined hybrid two-stage multi-objective evolutionary algorithm combining locally linear embedding",
+   "year": 2016,
+   "venue": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec48606.2020.9185832",
+   "title": "A Novel Multi-objective Cultural Algorithm Embedding Five-Element Cycle Optimization",
+   "year": 2020,
+   "venue": "2020 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  }
+ ],
+ "B": [
+  {
+   "doi": "10.15373/22778179/oct2013/158",
+   "title": "Impact of the Nibble Substitution for Image Steganography - An Enhanced Lsb Algorithm",
+   "year": 2012,
+   "venue": "International Journal of Scientific Research",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1145/2998476.2998495",
+   "title": "Selection of Image Blocks using Genetic Algorithm and Effective Embedding with DCT for Steganography",
+   "year": 2016,
+   "venue": "Proceedings of the 9th Annual ACM India Conference",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/kam.2010.5646209",
+   "title": "Protect fragile regions in steganography LSB embedding",
+   "year": 2010,
+   "venue": "2010 Third International Symposium on Knowledge Acquisition and Modeling",
+   "queries": [
+    "Q1",
+    "Q2",
+    "Q4",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1007/s00521-022-07830-0",
+   "title": "A robust medical image steganography approach based on particle swarm optimization algorithm and quantum walks",
+   "year": 2022,
+   "venue": "Neural Computing and Applications",
+   "queries": [
+    "Q2",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/ickecs65700.2025.11035683",
+   "title": "MediCrypt: NROI-based LSB and DCT Embedding for Medical Image Steganography",
+   "year": 2025,
+   "venue": "2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1007/s12553-018-00289-x",
+   "title": "Secure medical image steganography through optimal pixel selection by EH-MB pipelined optimization technique",
+   "year": 2019,
+   "venue": "Health and Technology",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icerect65215.2025.11377957",
+   "title": "Hybrid Statistical and Deep Feature-Based Detection of Steganography in DCT and LSB Domains",
+   "year": 2025,
+   "venue": "2025 5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/mi-sta61267.2024.10599686",
+   "title": "An Effect of Huffman Encoding with Hybrid Edge Detection in LSB Image Steganography",
+   "year": 2024,
+   "venue": "2024 IEEE 4th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/ism.2020.00026",
+   "title": "Audio Steganography Algorithm Based on Genetic Algorithm for MDCT Coefficient Adjustment for AAC",
+   "year": 2020,
+   "venue": "2020 IEEE International Symposium on Multimedia (ISM)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/iccmc56507.2023.10083698",
+   "title": "A Competent Medical Image Steganography using Improved Optimization Algorithm with Huffman Encoding Techniques",
+   "year": 2023,
+   "venue": "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/iwbf.2017.7935103",
+   "title": "Compact image steganalysis for LSB-matching steganography",
+   "year": 2017,
+   "venue": "2017 5th International Workshop on Biometrics and Forensics (IWBF)",
+   "queries": [
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.5220/0014195000004932",
+   "title": "Medical Image Steganography with Cryptographic Encryption Optimized by Using Double Huffman Algorithm",
+   "year": 2025,
+   "venue": "Proceedings of the 1st International Conference on Intelligent Methods and Advanced Computer Scientific Innovations",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3390/engproc2023059176",
+   "title": "Deep Learning-Based Coverless Image Steganography on Medical Images Shared via Cloud",
+   "year": 2024,
+   "venue": "RAiSE-2023",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/conit59222.2023.10205855",
+   "title": "Securing Medical Images using Compression techniques with encryption and Image Steganography",
+   "year": 2023,
+   "venue": "2023 3rd International Conference on Intelligent Technologies (CONIT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3837/tiis.2015.12.026",
+   "title": "Steganalysis of Adaptive JPEG Steganography by Selecting DCT Coefficients According to Embedding Distortion",
+   "year": 2015,
+   "venue": "KSII Transactions on Internet and Information Systems",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.5573/ieie.2015.52.8.097",
+   "title": "Steganalysis of Content-Adaptive Steganography using Markov Features for DCT Coefficients",
+   "year": 2015,
+   "venue": "Journal of the Institute of Electronics and Information Engineers",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icassp.2010.5495440",
+   "title": "A content-adaptive approach for reducing embedding impact in steganography",
+   "year": 2010,
+   "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2017.8296334",
+   "title": "Improving spatial image adaptive steganalysis incorporating the embedding impact on the feature",
+   "year": 2017,
+   "venue": "2017 IEEE International Conference on Image Processing (ICIP)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/acit68900.2025.11510636",
+   "title": "Medical Image Steganography Through Learning-Based Selection of Embedding Location",
+   "year": 2025,
+   "venue": "2025 26th International Arab Conference on Information Technology (ACIT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.14778/3654621.3654630",
+   "title": "Efficient Exact Subgraph Matching via GNN-Based Path Dominance Embedding",
+   "year": 2024,
+   "venue": "Proceedings of the VLDB Endowment",
+   "queries": [
+    "Q8"
+   ]
+  }
+ ]
+}

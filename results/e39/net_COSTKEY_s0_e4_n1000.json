@@ -1,0 +1,21 @@
+{
+ "best_val_auc": 0.7179,
+ "best_epoch": 3,
+ "epochs_run": 4,
+ "minutes": 0.8,
+ "params": 602482,
+ "val_auc_history": [
+  0.519,
+  0.5249,
+  0.4849,
+  0.7179
+ ],
+ "net": "net",
+ "scheme": "COSTKEY",
+ "seed": 0,
+ "bpp": 0.01,
+ "n_train_pairs": 1000,
+ "max_epochs": 4,
+ "test_auc": 0.7228,
+ "valid_run": true
+}

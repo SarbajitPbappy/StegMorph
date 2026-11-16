@@ -1,0 +1,325 @@
+{
+ "seed": 0,
+ "n_train": 800,
+ "n_test": 200,
+ "results": {
+  "IABI|A|0.01": {
+   "auc": {
+    "RAND": 0.7291,
+    "GA": 0.7419,
+    "GA_RANDMIX": 0.7365,
+    "RAND_GAMIX": 0.7339
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 283.1,
+     "low_share": 0.961,
+     "mse": 0.0451
+    },
+    "GA": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.018
+    },
+    "GA_RANDMIX": {
+     "pairs": 285.8,
+     "low_share": 0.952,
+     "mse": 0.0225
+    },
+    "RAND_GAMIX": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.0197
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0128,
+     "ci90": [
+      -0.0068,
+      0.0333
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0074,
+     "ci90": [
+      -0.0147,
+      0.0292
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.008,
+     "ci90": [
+      -0.015,
+      0.0307
+     ]
+    }
+   }
+  },
+  "IABI|B|0.01": {
+   "auc": {
+    "RAND": 0.6783,
+    "GA": 0.6568,
+    "GA_RANDMIX": 0.6815,
+    "RAND_GAMIX": 0.6724
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 283.1,
+     "low_share": 0.961,
+     "mse": 0.0451
+    },
+    "GA": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.018
+    },
+    "GA_RANDMIX": {
+     "pairs": 285.8,
+     "low_share": 0.952,
+     "mse": 0.0225
+    },
+    "RAND_GAMIX": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.0197
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0215,
+     "ci90": [
+      -0.0517,
+      0.0109
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0032,
+     "ci90": [
+      -0.0316,
+      0.0397
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.0156,
+     "ci90": [
+      -0.0496,
+      0.0175
+     ]
+    }
+   }
+  },
+  "IABI|C|0.01": {
+   "auc": {
+    "RAND": 0.5374,
+    "GA": 0.5353,
+    "GA_RANDMIX": 0.5379,
+    "RAND_GAMIX": 0.5422
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 283.1,
+     "low_share": 0.961,
+     "mse": 0.0451
+    },
+    "GA": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.018
+    },
+    "GA_RANDMIX": {
+     "pairs": 285.8,
+     "low_share": 0.952,
+     "mse": 0.0225
+    },
+    "RAND_GAMIX": {
+     "pairs": 292.5,
+     "low_share": 0.998,
+     "mse": 0.0197
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0021,
+     "ci90": [
+      -0.0135,
+      0.0081
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0005,
+     "ci90": [
+      -0.0096,
+      0.011
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.0069,
+     "ci90": [
+      -0.0168,
+      0.0025
+     ]
+    }
+   }
+  },
+  "IABI|A|0.02": {
+   "auc": {
+    "RAND": 0.8918,
+    "GA": 0.8944,
+    "GA_RANDMIX": 0.897,
+    "RAND_GAMIX": 0.9092
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 520.4,
+     "low_share": 0.96,
+     "mse": 0.0845
+    },
+    "GA": {
+     "pairs": 537.9,
+     "low_share": 0.997,
+     "mse": 0.0334
+    },
+    "GA_RANDMIX": {
+     "pairs": 525.0,
+     "low_share": 0.952,
+     "mse": 0.0438
+    },
+    "RAND_GAMIX": {
+     "pairs": 537.7,
+     "low_share": 0.997,
+     "mse": 0.0365
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0026,
+     "ci90": [
+      -0.0139,
+      0.0193
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0052,
+     "ci90": [
+      -0.012,
+      0.0237
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.0148,
+     "ci90": [
+      -0.0301,
+      0.0004
+     ]
+    }
+   }
+  },
+  "IABI|B|0.02": {
+   "auc": {
+    "RAND": 0.8161,
+    "GA": 0.8179,
+    "GA_RANDMIX": 0.8009,
+    "RAND_GAMIX": 0.8059
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 520.4,
+     "low_share": 0.96,
+     "mse": 0.0845
+    },
+    "GA": {
+     "pairs": 537.9,
+     "low_share": 0.997,
+     "mse": 0.0334
+    },
+    "GA_RANDMIX": {
+     "pairs": 525.0,
+     "low_share": 0.952,
+     "mse": 0.0438
+    },
+    "RAND_GAMIX": {
+     "pairs": 537.7,
+     "low_share": 0.997,
+     "mse": 0.0365
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0018,
+     "ci90": [
+      -0.0247,
+      0.0303
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": -0.0152,
+     "ci90": [
+      -0.0455,
+      0.0145
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.012,
+     "ci90": [
+      -0.0129,
+      0.0393
+     ]
+    }
+   }
+  },
+  "IABI|C|0.02": {
+   "auc": {
+    "RAND": 0.567,
+    "GA": 0.5862,
+    "GA_RANDMIX": 0.5711,
+    "RAND_GAMIX": 0.5761
+   },
+   "stats_test": {
+    "RAND": {
+     "pairs": 520.4,
+     "low_share": 0.96,
+     "mse": 0.0845
+    },
+    "GA": {
+     "pairs": 537.9,
+     "low_share": 0.997,
+     "mse": 0.0334
+    },
+    "GA_RANDMIX": {
+     "pairs": 525.0,
+     "low_share": 0.952,
+     "mse": 0.0438
+    },
+    "RAND_GAMIX": {
+     "pairs": 537.7,
+     "low_share": 0.997,
+     "mse": 0.0365
+    }
+   },
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0192,
+     "ci90": [
+      0.0074,
+      0.0316
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0041,
+     "ci90": [
+      -0.0064,
+      0.0165
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0101,
+     "ci90": [
+      -0.002,
+      0.0221
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "net": "yedroudj",
+ "tag": "",
+ "n_seeds": 2,
+ "seeds": [
+  {
+   "seed": 0,
+   "auc_random": 0.8203,
+   "auc_costkey": 0.8014,
+   "q1": -0.0188,
+   "ci": [
+    -0.0409,
+    0.0053
+   ],
+   "val_auc_random": 0.8281,
+   "val_auc_costkey": 0.8269,
+   "plateau_random": false,
+   "plateau_costkey": false,
+   "competent": false
+  },
+  {
+   "seed": 1,
+   "auc_random": 0.818,
+   "auc_costkey": 0.8117,
+   "q1": -0.0063,
+   "ci": [
+    -0.024,
+    0.0131
+   ],
+   "val_auc_random": 0.8273,
+   "val_auc_costkey": 0.828,
+   "plateau_random": true,
+   "plateau_costkey": false,
+   "competent": false
+  }
+ ],
+ "mean_q1": -0.0126,
+ "range_q1": [
+  -0.0188,
+  -0.0063
+ ],
+ "mean_random_auc": 0.8192,
+ "valid_contrast": false,
+ "H21_met": false
+}

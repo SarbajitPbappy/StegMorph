@@ -1,0 +1,9 @@
+seed 2 ds oasis: train 2522 slices (194 subjects), test 689 (53 subjects); cover features 6s
+  bpp 0.002 RANDSEQ: 16s fails 0,0 stats {'pvd_pairs': 0.2, 'lsb_pairs': 59.5, 'mse': 0.00372, 'changed_frac': 0.00364}
+  bpp 0.002 ORIG: 16s fails 0,0 stats {'pvd_pairs': 0.5, 'lsb_pairs': 59.1, 'mse': 0.00383, 'changed_frac': 0.00368}
+A 0.002 AUC {'RANDSEQ': 0.732, 'ORIG': 0.7323}
+    {'ORIG-RANDSEQ': (0.0003, [-0.0108, 0.0123])}
+D 0.002 AUC {'RANDSEQ': 0.7547, 'ORIG': 0.7555}
+    {'ORIG-RANDSEQ': (0.0008, [-0.0121, 0.0147])}
+payload 0.002 done 36s
+DONE 2

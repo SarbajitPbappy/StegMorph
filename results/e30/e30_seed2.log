@@ -1,0 +1,151 @@
+seed 2 ds ixi: train 4186 slices (322 subjects), test 1131 (87 subjects); cover features 5s
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 RANDSEQ: 12s fails 0,0 stats {'pvd_pairs': 20.0, 'lsb_pairs': 200.1, 'mse': 0.02048, 'changed_frac': 0.01396}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 ORIG: 12s fails 0,0 stats {'pvd_pairs': 27.0, 'lsb_pairs': 186.1, 'mse': 0.02258, 'changed_frac': 0.01376}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 GAMIN: 12s fails 0,0 stats {'pvd_pairs': 19.2, 'lsb_pairs': 201.6, 'mse': 0.02012, 'changed_frac': 0.01399}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 GAMINS: 12s fails 0,0 stats {'pvd_pairs': 19.4, 'lsb_pairs': 201.2, 'mse': 0.0202, 'changed_frac': 0.01404}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 COSTKEY: 13s fails 0,0 stats {'pvd_pairs': 28.2, 'lsb_pairs': 183.8, 'mse': 0.02266, 'changed_frac': 0.01375}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 LSBK:R: 12s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01465, 'changed_frac': 0.01465}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 LSBK:C: 13s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01466, 'changed_frac': 0.01466}
+  bpp 0.01 LSBK:A: 13s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01465, 'changed_frac': 0.01465}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 LSBM:R: 12s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01465, 'changed_frac': 0.01465}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 LSBM:C: 12s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01466, 'changed_frac': 0.01466}
+  bpp 0.01 LSBM:A: 15s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.01465, 'changed_frac': 0.01465}
+A 0.01 AUC {'RANDSEQ': 0.7658, 'ORIG': 0.7743, 'GAMIN': 0.7448, 'GAMINS': 0.7164, 'COSTKEY': 0.6205, 'LSBK:R': 0.8149, 'LSBK:C': 0.6652, 'LSBK:A': 0.9113, 'LSBM:R': 0.8133, 'LSBM:C': 0.6606, 'LSBM:A': 0.9104}
+    {'ORIG-RANDSEQ': (0.0085, [-0.0008, 0.0186]), 'GAMIN-RANDSEQ': (-0.021, [-0.032, -0.0096]), 'GAMINS-RANDSEQ': (-0.0494, [-0.0608, -0.0382]), 'COSTKEY-RANDSEQ': (-0.1453, [-0.1626, -0.1282]), 'LSBK:C-LSBK:R': (-0.1497, [-0.1664, -0.1329]), 'LSBK:A-LSBK:R': (0.0964, [0.0863, 0.1071]), 'LSBM:C-LSBM:R': (-0.1527, [-0.1697, -0.1354]), 'LSBM:A-LSBM:R': (0.0971, [0.087, 0.1072])}
+D 0.01 AUC {'RANDSEQ': 0.798, 'ORIG': 0.8114, 'GAMIN': 0.7628, 'GAMINS': 0.7402, 'COSTKEY': 0.6098, 'LSBK:R': 0.8416, 'LSBK:C': 0.6728, 'LSBK:A': 0.9318, 'LSBM:R': 0.8414, 'LSBM:C': 0.6703, 'LSBM:A': 0.9276}
+    {'ORIG-RANDSEQ': (0.0134, [0.0017, 0.026]), 'GAMIN-RANDSEQ': (-0.0352, [-0.0451, -0.0241]), 'GAMINS-RANDSEQ': (-0.0578, [-0.0699, -0.0448]), 'COSTKEY-RANDSEQ': (-0.1882, [-0.2077, -0.1674]), 'LSBK:C-LSBK:R': (-0.1688, [-0.188, -0.1503]), 'LSBK:A-LSBK:R': (0.0902, [0.0792, 0.1023]), 'LSBM:C-LSBM:R': (-0.1711, [-0.19, -0.1528]), 'LSBM:A-LSBM:R': (0.0862, [0.0762, 0.0978])}
+payload 0.01 done 159s
+  bpp 0.02 RANDSEQ: 12s fails 0,0 stats {'pvd_pairs': 39.9, 'lsb_pairs': 400.3, 'mse': 0.04059, 'changed_frac': 0.02794}
+  bpp 0.02 ORIG: 12s fails 0,0 stats {'pvd_pairs': 53.4, 'lsb_pairs': 373.4, 'mse': 0.04463, 'changed_frac': 0.02756}
+  bpp 0.02 GAMIN: 12s fails 0,0 stats {'pvd_pairs': 38.8, 'lsb_pairs': 402.6, 'mse': 0.0401, 'changed_frac': 0.028}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 GAMINS: 12s fails 0,0 stats {'pvd_pairs': 38.7, 'lsb_pairs': 402.6, 'mse': 0.0401, 'changed_frac': 0.02802}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 COSTKEY: 13s fails 0,0 stats {'pvd_pairs': 56.1, 'lsb_pairs': 367.9, 'mse': 0.04506, 'changed_frac': 0.02748}
+  bpp 0.02 LSBK:R: 11s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02924, 'changed_frac': 0.02924}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 LSBK:C: 13s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02928, 'changed_frac': 0.02928}
+  bpp 0.02 LSBK:A: 12s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02927, 'changed_frac': 0.02927}
+  bpp 0.02 LSBM:R: 11s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02924, 'changed_frac': 0.02924}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 LSBM:C: 13s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02928, 'changed_frac': 0.02928}
+  bpp 0.02 LSBM:A: 12s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.02927, 'changed_frac': 0.02927}
+A 0.02 AUC {'RANDSEQ': 0.901, 'ORIG': 0.912, 'GAMIN': 0.8894, 'GAMINS': 0.8591, 'COSTKEY': 0.7236, 'LSBK:R': 0.924, 'LSBK:C': 0.7634, 'LSBK:A': 0.9771, 'LSBM:R': 0.9224, 'LSBM:C': 0.7627, 'LSBM:A': 0.9737}
+    {'ORIG-RANDSEQ': (0.011, [0.0035, 0.0185]), 'GAMIN-RANDSEQ': (-0.0116, [-0.0216, -0.0023]), 'GAMINS-RANDSEQ': (-0.0419, [-0.051, -0.0325]), 'COSTKEY-RANDSEQ': (-0.1774, [-0.1921, -0.1617]), 'LSBK:C-LSBK:R': (-0.1606, [-0.1739, -0.1485]), 'LSBK:A-LSBK:R': (0.0531, [0.0445, 0.0619]), 'LSBM:C-LSBM:R': (-0.1597, [-0.1737, -0.1461]), 'LSBM:A-LSBM:R': (0.0513, [0.0431, 0.0597])}
+D 0.02 AUC {'RANDSEQ': 0.9173, 'ORIG': 0.9281, 'GAMIN': 0.8988, 'GAMINS': 0.8847, 'COSTKEY': 0.7262, 'LSBK:R': 0.9395, 'LSBK:C': 0.7902, 'LSBK:A': 0.9788, 'LSBM:R': 0.9416, 'LSBM:C': 0.7918, 'LSBM:A': 0.9804}
+    {'ORIG-RANDSEQ': (0.0108, [0.0046, 0.0167]), 'GAMIN-RANDSEQ': (-0.0185, [-0.0276, -0.0086]), 'GAMINS-RANDSEQ': (-0.0326, [-0.0441, -0.0231]), 'COSTKEY-RANDSEQ': (-0.1911, [-0.2079, -0.1737]), 'LSBK:C-LSBK:R': (-0.1493, [-0.1645, -0.1334]), 'LSBK:A-LSBK:R': (0.0393, [0.0311, 0.0474]), 'LSBM:C-LSBM:R': (-0.1498, [-0.1665, -0.1339]), 'LSBM:A-LSBM:R': (0.0388, [0.0316, 0.0461])}
+payload 0.02 done 157s
+DONE 2

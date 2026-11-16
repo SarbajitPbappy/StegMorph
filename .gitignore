@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv*/
+cache/
+data/raw/
+*.aux
+*.log.tex
+Overleaf/article/*.aux
+Overleaf/article/*.out
+Overleaf/article/*.bbl
+Overleaf/article/*.blg

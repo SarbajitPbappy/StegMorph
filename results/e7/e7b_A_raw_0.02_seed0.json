@@ -1,0 +1,44 @@
+{
+ "seed": 0,
+ "ds": "A_raw",
+ "bpp": 0.02,
+ "n_test": 120,
+ "auc": {
+  "RAND|srm": 1.0,
+  "RAND|sca": 0.9847,
+  "GA_MSE|srm": 1.0,
+  "GA_MSE|sca": 0.9736,
+  "GREEDY_TEX|srm": 0.7581,
+  "GREEDY_TEX|sca": 0.8099
+ },
+ "diffs": {
+  "GA_MSE|srm": {
+   "diff": 0.0,
+   "ci95": [
+    -0.0,
+    0.0
+   ]
+  },
+  "GREEDY_TEX|srm": {
+   "diff": -0.2419,
+   "ci95": [
+    -0.2717,
+    -0.2036
+   ]
+  },
+  "GA_MSE|sca": {
+   "diff": -0.0111,
+   "ci95": [
+    -0.0196,
+    -0.0033
+   ]
+  },
+  "GREEDY_TEX|sca": {
+   "diff": -0.1748,
+   "ci95": [
+    -0.2091,
+    -0.139
+   ]
+  }
+ }
+}

@@ -1,0 +1,8 @@
+seed 0: train 4186 test 1131
+  bpp 0.01 SUNIR F: AUC 0.6000 (165s)
+  bpp 0.01 SUNIR M: AUC 0.6808 (846s)
+F 0.01 AUC {'SUNIR': 0.6}
+    {}
+M 0.01 AUC {'SUNIR': 0.6808}
+    {}
+DONE 0 846s

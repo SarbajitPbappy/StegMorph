@@ -1,0 +1,13 @@
+{
+ "dataset": "msdt2",
+ "detector": "A",
+ "seed": 0,
+ "validation_auc_randseq": {
+  "0.0027": 0.9879,
+  "0.005": 0.9985,
+  "0.01": 0.9999,
+  "0.02": 1.0
+ },
+ "rule": "closest to 0.75 within 0.60..0.85",
+ "chosen_bpp": null
+}

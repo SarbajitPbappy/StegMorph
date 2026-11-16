@@ -1,0 +1,90 @@
+{
+ "e24|A|0.01": {
+  "per_seed": [
+   0.0055,
+   0.0096,
+   0.0085
+  ],
+  "mean": 0.0079,
+  "worst_lower": -0.0047,
+  "worst_upper": 0.0198,
+  "max_gain_bound": 0.0047
+ },
+ "e24|A|0.02": {
+  "per_seed": [
+   0.0056,
+   0.0077,
+   0.011
+  ],
+  "mean": 0.0081,
+  "worst_lower": -0.0026,
+  "worst_upper": 0.0185,
+  "max_gain_bound": 0.0026
+ },
+ "e24|D|0.01": {
+  "per_seed": [
+   0.0066,
+   0.0172,
+   0.0134
+  ],
+  "mean": 0.0124,
+  "worst_lower": -0.0044,
+  "worst_upper": 0.0286,
+  "max_gain_bound": 0.0044
+ },
+ "e24|D|0.02": {
+  "per_seed": [
+   0.009,
+   0.0083,
+   0.0108
+  ],
+  "mean": 0.0094,
+  "worst_lower": 0.0014,
+  "worst_upper": 0.0167,
+  "max_gain_bound": 0
+ },
+ "e37|F|0.01": {
+  "per_seed": [
+   0.005,
+   0.0165,
+   0.0136
+  ],
+  "mean": 0.0117,
+  "worst_lower": -0.0028,
+  "worst_upper": 0.023,
+  "max_gain_bound": 0.0028
+ },
+ "e37|F|0.02": {
+  "per_seed": [
+   0.0051,
+   0.0044,
+   0.0093
+  ],
+  "mean": 0.0063,
+  "worst_lower": 0.0007,
+  "worst_upper": 0.0126,
+  "max_gain_bound": 0
+ },
+ "e37|M|0.01": {
+  "per_seed": [
+   0.005,
+   0.0165,
+   0.0136
+  ],
+  "mean": 0.0117,
+  "worst_lower": -0.0028,
+  "worst_upper": 0.023,
+  "max_gain_bound": 0.0028
+ },
+ "e37|M|0.02": {
+  "per_seed": [
+   0.0051,
+   0.0044,
+   0.0093
+  ],
+  "mean": 0.0063,
+  "worst_lower": 0.0007,
+  "worst_upper": 0.0126,
+  "max_gain_bound": 0
+ }
+}

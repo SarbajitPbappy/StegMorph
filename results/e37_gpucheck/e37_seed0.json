@@ -1,0 +1,24 @@
+{
+ "seed": 0,
+ "n_train": 4186,
+ "n_test": 1131,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "ixi|F|0.01": {
+   "auc": {
+    "RANDSEQ": 0.8524,
+    "COSTKEY": 0.7114
+   },
+   "contrasts": {
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.141,
+     "ci95_subject_bootstrap": [
+      -0.1583,
+      -0.1245
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+seed 2 ds oasis: train 2522 slices (194 subjects), test 689 (53 subjects); cover features 4s
+  bpp 0.002 RANDSEQ: 10s fails 0,0 stats {'pvd_pairs': 0.2, 'lsb_pairs': 59.5, 'mse': 0.00372, 'changed_frac': 0.00364}
+  bpp 0.002 COSTKEY: 13s fails 0,0 stats {'pvd_pairs': 0.6, 'lsb_pairs': 58.7, 'mse': 0.00383, 'changed_frac': 0.00364}
+  bpp 0.002 COSTMIX: 16s fails 0,0 stats {'pvd_pairs': 0.6, 'lsb_pairs': 58.7, 'mse': 0.00383, 'changed_frac': 0.00364}
+  bpp 0.002 ANTIKEY: 12s fails 0,0 stats {'pvd_pairs': 0.0, 'lsb_pairs': 59.9, 'mse': 0.00368, 'changed_frac': 0.00367}
+A 0.002 AUC {'RANDSEQ': 0.732, 'COSTKEY': 0.7124, 'COSTMIX': 0.7318, 'ANTIKEY': 0.7773}
+    {'COSTKEY-RANDSEQ': (-0.0196, [-0.0319, -0.0064]), 'COSTMIX-RANDSEQ': (-0.0002, [-0.0107, 0.012]), 'ANTIKEY-RANDSEQ': (0.0453, [0.0343, 0.0563]), 'COSTKEY-COSTMIX': (-0.0194, [-0.0327, -0.0049])}
+D 0.002 AUC {'RANDSEQ': 0.7547, 'COSTKEY': 0.7217, 'COSTMIX': 0.747, 'ANTIKEY': 0.7892}
+    {'COSTKEY-RANDSEQ': (-0.033, [-0.045, -0.02]), 'COSTMIX-RANDSEQ': (-0.0077, [-0.0206, 0.0064]), 'ANTIKEY-RANDSEQ': (0.0345, [0.02, 0.0493]), 'COSTKEY-COSTMIX': (-0.0253, [-0.0422, -0.0098])}
+payload 0.002 done 62s
+DONE 2

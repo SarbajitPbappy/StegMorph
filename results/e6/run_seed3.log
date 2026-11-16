@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/sessions/rcw-013jecknrtzjmbh1uriscaxh/mnt/Fernaz Ma'am/code/exp6.py", line 4, in <module>
+    from sklearn.linear_model import LogisticRegression
+ModuleNotFoundError: No module named 'sklearn'

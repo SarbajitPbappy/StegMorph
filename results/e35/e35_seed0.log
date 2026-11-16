@@ -1,0 +1,105 @@
+seed 0 ds ixi256: train 2254 slices (322 subjects), test 609 (87 subjects); cover features 29s
+  bpp 0.0025 RANDSEQ: 76s fails 0,0 stats {'pvd_pairs': 19.4, 'lsb_pairs': 201.3, 'mse': 0.0051, 'changed_frac': 0.00348}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.0025 RANDFG: 40s fails 0,0 stats {'pvd_pairs': 21.1, 'lsb_pairs': 197.9, 'mse': 0.00516, 'changed_frac': 0.00348}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.0025 COSTFG: 32s fails 0,0 stats {'pvd_pairs': 29.5, 'lsb_pairs': 181.1, 'mse': 0.00573, 'changed_frac': 0.00343}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.0025 ANTIFG: 125s fails 0,0 stats {'pvd_pairs': 14.8, 'lsb_pairs': 210.4, 'mse': 0.00475, 'changed_frac': 0.00353}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.0025 M:COSTFG: 40s fails 0,0 stats {'pvd_pairs': 29.5, 'lsb_pairs': 180.9, 'mse': 0.00579, 'changed_frac': 0.00342}
+  bpp 0.0025 HILLR: 85s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00085, 'changed_frac': 0.00085}
+A 0.0025 AUC {'RANDSEQ': 0.9981, 'RANDFG': 0.6308, 'COSTFG': 0.5521, 'ANTIFG': 0.7314, 'M:COSTFG': 0.6402, 'HILLR': 0.5061}
+    {'RANDFG-RANDSEQ': (-0.3673, [-0.3799, -0.3543]), 'COSTFG-RANDFG': (-0.0787, [-0.0904, -0.0677]), 'ANTIFG-RANDFG': (0.1006, [0.0876, 0.1153]), 'M:COSTFG-RANDFG': (0.0094, [0.0015, 0.0177]), 'HILLR-RANDSEQ': (-0.492, [-0.4952, -0.4887]), 'COSTFG-M:COSTFG': (-0.0881, [-0.099, -0.077])}
+D 0.0025 AUC {'RANDSEQ': 0.9994, 'RANDFG': 0.5792, 'COSTFG': 0.5406, 'ANTIFG': 0.6947, 'M:COSTFG': 0.608, 'HILLR': 0.4933}
+    {'RANDFG-RANDSEQ': (-0.4202, [-0.4375, -0.4035]), 'COSTFG-RANDFG': (-0.0386, [-0.0662, -0.0105]), 'ANTIFG-RANDFG': (0.1155, [0.0943, 0.1361]), 'M:COSTFG-RANDFG': (0.0288, [0.0053, 0.0515]), 'HILLR-RANDSEQ': (-0.5061, [-0.527, -0.4859]), 'COSTFG-M:COSTFG': (-0.0674, [-0.0968, -0.0381])}
+payload 0.0025 done 428s
+  bpp 0.005 RANDSEQ: 118s fails 0,0 stats {'pvd_pairs': 38.7, 'lsb_pairs': 402.7, 'mse': 0.01017, 'changed_frac': 0.00698}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 RANDFG: 116s fails 0,0 stats {'pvd_pairs': 42.4, 'lsb_pairs': 395.3, 'mse': 0.01031, 'changed_frac': 0.00699}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 COSTFG: 112s fails 0,0 stats {'pvd_pairs': 59.0, 'lsb_pairs': 362.0, 'mse': 0.01139, 'changed_frac': 0.00685}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 ANTIFG: 136s fails 0,0 stats {'pvd_pairs': 29.9, 'lsb_pairs': 420.3, 'mse': 0.00952, 'changed_frac': 0.00706}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 M:COSTFG: 133s fails 0,0 stats {'pvd_pairs': 59.0, 'lsb_pairs': 361.9, 'mse': 0.01145, 'changed_frac': 0.00684}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.005 HILLR: 107s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00186, 'changed_frac': 0.00186}
+A 0.005 AUC {'RANDSEQ': 1.0, 'RANDFG': 0.7599, 'COSTFG': 0.6111, 'ANTIFG': 0.8749, 'M:COSTFG': 0.7571, 'HILLR': 0.5126}
+    {'RANDFG-RANDSEQ': (-0.2401, [-0.2598, -0.2219]), 'COSTFG-RANDFG': (-0.1488, [-0.1654, -0.1301]), 'ANTIFG-RANDFG': (0.115, [0.101, 0.1284]), 'M:COSTFG-RANDFG': (-0.0028, [-0.0177, 0.0107]), 'HILLR-RANDSEQ': (-0.4874, [-0.4918, -0.4825]), 'COSTFG-M:COSTFG': (-0.146, [-0.1624, -0.1288])}
+D 0.005 AUC {'RANDSEQ': 1.0, 'RANDFG': 0.7325, 'COSTFG': 0.566, 'ANTIFG': 0.8455, 'M:COSTFG': 0.7227, 'HILLR': 0.5114}
+    {'RANDFG-RANDSEQ': (-0.2675, [-0.2891, -0.2443]), 'COSTFG-RANDFG': (-0.1665, [-0.196, -0.136]), 'ANTIFG-RANDFG': (0.113, [0.0954, 0.1308]), 'M:COSTFG-RANDFG': (-0.0098, [-0.0306, 0.0096]), 'HILLR-RANDSEQ': (-0.4886, [-0.5102, -0.4657]), 'COSTFG-M:COSTFG': (-0.1567, [-0.1854, -0.1273])}
+payload 0.005 done 748s
+DONE 0

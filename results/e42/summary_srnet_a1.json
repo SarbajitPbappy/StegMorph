@@ -1,0 +1,30 @@
+{
+ "net": "srnet",
+ "tag": "a1",
+ "n_seeds": 1,
+ "seeds": [
+  {
+   "seed": 0,
+   "auc_random": 0.9402,
+   "auc_costkey": 0.9769,
+   "q1": 0.0367,
+   "ci": [
+    0.0245,
+    0.0495
+   ],
+   "val_auc_random": 0.9366,
+   "val_auc_costkey": 0.9783,
+   "plateau_random": true,
+   "plateau_costkey": false,
+   "competent": false
+  }
+ ],
+ "mean_q1": 0.0367,
+ "range_q1": [
+  0.0367,
+  0.0367
+ ],
+ "mean_random_auc": 0.9402,
+ "valid_contrast": false,
+ "H21_met": null
+}

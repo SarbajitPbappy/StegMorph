@@ -1,0 +1,73 @@
+cover features 33 s
+stego built 421 s; stats(test) {'ORIG': {'pvd_pairs': 26.9, 'lsb_pairs': 186.3, 'mse': 0.0224}, 'RANDSEQ': {'pvd_pairs': 20.0, 'lsb_pairs': 200.0, 'mse': 0.0205}, 'ANTIKEY': {'pvd_pairs': 14.5, 'lsb_pairs': 211.0, 'mse': 0.0191}, 'ANTIMIX': {'pvd_pairs': 14.5, 'lsb_pairs': 210.9, 'mse': 0.019}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0036}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.01 {'RANDSEQ': 0.7686, 'ORIG': 0.783, 'ANTIKEY': 0.8924, 'ANTIMIX': 0.7852, 'HILL': 0.5322} {'P1_ORIG-RANDSEQ': (0.0144, [0.0046, 0.0237]), 'Q1_ANTIKEY-RANDSEQ': (0.1238, [0.1139, 0.1338]), 'Q2_ANTIKEY-ANTIMIX': (0.1072, [0.0974, 0.1169]), 'Q3_ANTIMIX-RANDSEQ': (0.0166, [0.0061, 0.0274]), 'B1_HILL-RANDSEQ': (-0.2364, [-0.2559, -0.216])}
+D 0.01 {'RANDSEQ': 0.7849, 'ORIG': 0.7942, 'ANTIKEY': 0.915, 'ANTIMIX': 0.7981, 'HILL': 0.514} {'P1_ORIG-RANDSEQ': (0.0093, [0.0004, 0.0187]), 'Q1_ANTIKEY-RANDSEQ': (0.1301, [0.1185, 0.1416]), 'Q2_ANTIKEY-ANTIMIX': (0.1169, [0.1051, 0.1274]), 'Q3_ANTIMIX-RANDSEQ': (0.0132, [0.0026, 0.0244]), 'B1_HILL-RANDSEQ': (-0.2709, [-0.2979, -0.2453])}
+done 0.01 622 s
+stego built 133 s; stats(test) {'ORIG': {'pvd_pairs': 52.8, 'lsb_pairs': 374.4, 'mse': 0.0444}, 'RANDSEQ': {'pvd_pairs': 40.0, 'lsb_pairs': 400.2, 'mse': 0.0407}, 'ANTIKEY': {'pvd_pairs': 28.9, 'lsb_pairs': 422.3, 'mse': 0.038}, 'ANTIMIX': {'pvd_pairs': 28.9, 'lsb_pairs': 422.2, 'mse': 0.0378}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.008}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.02 {'RANDSEQ': 0.9086, 'ORIG': 0.9146, 'ANTIKEY': 0.977, 'ANTIMIX': 0.9072, 'HILL': 0.5643} {'P1_ORIG-RANDSEQ': (0.006, [-0.001, 0.0131]), 'Q1_ANTIKEY-RANDSEQ': (0.0684, [0.0582, 0.0784]), 'Q2_ANTIKEY-ANTIMIX': (0.0698, [0.0584, 0.0813]), 'Q3_ANTIMIX-RANDSEQ': (-0.0014, [-0.0088, 0.0058]), 'B1_HILL-RANDSEQ': (-0.3443, [-0.3583, -0.3293])}
+D 0.02 {'RANDSEQ': 0.9195, 'ORIG': 0.9261, 'ANTIKEY': 0.9786, 'ANTIMIX': 0.9183, 'HILL': 0.5389} {'P1_ORIG-RANDSEQ': (0.0066, [-0.0005, 0.014]), 'Q1_ANTIKEY-RANDSEQ': (0.0591, [0.0479, 0.0705]), 'Q2_ANTIKEY-ANTIMIX': (0.0603, [0.049, 0.0719]), 'Q3_ANTIMIX-RANDSEQ': (-0.0012, [-0.0073, 0.0047]), 'B1_HILL-RANDSEQ': (-0.3806, [-0.4, -0.3597])}
+done 0.02 337 s
+DONE 0

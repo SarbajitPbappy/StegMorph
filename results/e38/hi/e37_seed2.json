@@ -1,0 +1,23 @@
+{
+ "seed": 2,
+ "n_train": 4186,
+ "n_test": 1131,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "ixi|F|0.032": {
+   "auc": {
+    "HILLR": 0.6981,
+    "SUNIR": 0.7454
+   },
+   "contrasts": {}
+  },
+  "ixi|M|0.032": {
+   "auc": {
+    "HILLR": 0.8052,
+    "SUNIR": 0.8324
+   },
+   "contrasts": {}
+  }
+ }
+}

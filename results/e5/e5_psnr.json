@@ -1,0 +1,35 @@
+{
+ "n_crops": 150,
+ "res": {
+  "0.005": {
+   "GA": {
+    "psnr": 67.63,
+    "low_branch_frac": 0.958
+   },
+   "RAND": {
+    "psnr": 64.49,
+    "low_branch_frac": 0.885
+   }
+  },
+  "0.01": {
+   "GA": {
+    "psnr": 65.02,
+    "low_branch_frac": 0.948
+   },
+   "RAND": {
+    "psnr": 62.0,
+    "low_branch_frac": 0.884
+   }
+  },
+  "0.02": {
+   "GA": {
+    "psnr": 62.11,
+    "low_branch_frac": 0.936
+   },
+   "RAND": {
+    "psnr": 59.27,
+    "low_branch_frac": 0.886
+   }
+  }
+ }
+}

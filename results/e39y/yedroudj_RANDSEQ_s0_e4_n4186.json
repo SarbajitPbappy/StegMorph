@@ -1,0 +1,21 @@
+{
+ "best_val_auc": 0.6773,
+ "best_epoch": 3,
+ "epochs_run": 4,
+ "minutes": 2.8,
+ "params": 444610,
+ "val_auc_history": [
+  0.5618,
+  0.5307,
+  0.6173,
+  0.6773
+ ],
+ "net": "yedroudj",
+ "scheme": "RANDSEQ",
+ "seed": 0,
+ "bpp": 0.01,
+ "n_train_pairs": 4186,
+ "max_epochs": 4,
+ "test_auc": 0.672,
+ "valid_run": true
+}

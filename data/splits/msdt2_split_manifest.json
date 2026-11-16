@@ -1,0 +1,18 @@
+{
+ "train": {
+  "n_images": 4394,
+  "n_subjects": 338,
+  "sha256": "8e6f04a2c92968a8f1fddc55e789d1e7232df0f528f78dae3ba2096c65084c1a"
+ },
+ "val": {
+  "n_images": 949,
+  "n_subjects": 73,
+  "sha256": "dc0151fa09429dfeb28b496e81e1901f0f95de09da06d5b99420d1ea9779636c"
+ },
+ "test": {
+  "n_images": 949,
+  "n_subjects": 73,
+  "sha256": "8af30f02ebe890eaddeb9de15e2b2d43bce54a81036b412a1cf0e054daddedc4"
+ },
+ "source": "Medical Segmentation Decathlon Task01_BrainTumour (imagesTr), CC BY-SA 4.0, https://registry.opendata.aws/msd/ ; T2-weighted channel; skull-stripped, co-registered, resampled to 1 mm (as distributed)"
+}

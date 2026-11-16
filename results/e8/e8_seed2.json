@@ -1,0 +1,58 @@
+{
+ "seed": 2,
+ "psnr": {
+  "A_raw|RAND|0.02": 54.55,
+  "A_raw|GREEDY_TEX|0.02": 62.71,
+  "A_raw|HILL_SIM|0.02": 68.81
+ },
+ "res": {
+  "A_raw|A|0.02": {
+   "n_test": 120,
+   "auc": {
+    "RAND": 1.0,
+    "GREEDY_TEX": 0.8006,
+    "HILL_SIM": 0.5476
+   },
+   "diff_vs_RAND": {
+    "GREEDY_TEX": {
+     "diff": -0.1994,
+     "ci95": [
+      -0.2361,
+      -0.1648
+     ]
+    },
+    "HILL_SIM": {
+     "diff": -0.4524,
+     "ci95": [
+      -0.4752,
+      -0.4278
+     ]
+    }
+   }
+  },
+  "A_raw|B|0.02": {
+   "n_test": 120,
+   "auc": {
+    "RAND": 1.0,
+    "GREEDY_TEX": 0.6812,
+    "HILL_SIM": 0.5622
+   },
+   "diff_vs_RAND": {
+    "GREEDY_TEX": {
+     "diff": -0.3188,
+     "ci95": [
+      -0.3615,
+      -0.2737
+     ]
+    },
+    "HILL_SIM": {
+     "diff": -0.4378,
+     "ci95": [
+      -0.48,
+      -0.3951
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+cover features 17 s
+stego built 422 s; stats(test) {'ORIG': {'pvd_pairs': 26.9, 'lsb_pairs': 186.3, 'mse': 0.0224}, 'RANDSEQ': {'pvd_pairs': 20.0, 'lsb_pairs': 200.0, 'mse': 0.0205}, 'COSTKEY': {'pvd_pairs': 28.2, 'lsb_pairs': 183.7, 'mse': 0.0226}, 'COSTMIX': {'pvd_pairs': 28.2, 'lsb_pairs': 183.6, 'mse': 0.0227}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0037}} mix_infeasible 0 0
+D 0.01 {'RANDSEQ': 0.7849, 'ORIG': 0.7942, 'COSTKEY': 0.5799, 'COSTMIX': 0.7989, 'HILL': 0.5049} {'P1_ORIG-RANDSEQ': (0.0093, [0.0004, 0.0187]), 'Q1_COSTKEY-RANDSEQ': (-0.205, [-0.2237, -0.1857]), 'Q2_COSTKEY-COSTMIX': (-0.219, [-0.2369, -0.1989]), 'Q3_COSTMIX-RANDSEQ': (0.014, [0.0017, 0.0263]), 'B1_HILL-RANDSEQ': (-0.28, [-0.3038, -0.2567])}
+done 0.01 522 s
+stego built 133 s; stats(test) {'ORIG': {'pvd_pairs': 52.8, 'lsb_pairs': 374.4, 'mse': 0.0444}, 'RANDSEQ': {'pvd_pairs': 40.0, 'lsb_pairs': 400.2, 'mse': 0.0407}, 'COSTKEY': {'pvd_pairs': 56.4, 'lsb_pairs': 367.3, 'mse': 0.0449}, 'COSTMIX': {'pvd_pairs': 56.4, 'lsb_pairs': 367.2, 'mse': 0.0452}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.008}} mix_infeasible 0 0
+D 0.02 {'RANDSEQ': 0.9195, 'ORIG': 0.9261, 'COSTKEY': 0.7026, 'COSTMIX': 0.9249, 'HILL': 0.5378} {'P1_ORIG-RANDSEQ': (0.0066, [-0.0005, 0.014]), 'Q1_COSTKEY-RANDSEQ': (-0.2169, [-0.2338, -0.1991]), 'Q2_COSTKEY-COSTMIX': (-0.2223, [-0.239, -0.2039]), 'Q3_COSTMIX-RANDSEQ': (0.0054, [-0.0014, 0.0123]), 'B1_HILL-RANDSEQ': (-0.3817, [-0.4022, -0.3628])}
+done 0.02 238 s
+DONE 0

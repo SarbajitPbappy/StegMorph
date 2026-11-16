@@ -1,0 +1,146 @@
+seed 2 ds ixi: train 4186 slices (322 subjects), test 1131 (87 subjects); cover features 5s
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 RANDSEQ: 32s fails 0,0 stats {'pvd_pairs': 20.0, 'lsb_pairs': 200.1, 'mse': 0.02048, 'changed_frac': 0.01396}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 ORIG: 34s fails 0,0 stats {'pvd_pairs': 27.0, 'lsb_pairs': 186.1, 'mse': 0.02258, 'changed_frac': 0.01376}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 COSTKEY: 36s fails 0,0 stats {'pvd_pairs': 28.2, 'lsb_pairs': 183.8, 'mse': 0.02266, 'changed_frac': 0.01375}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 COSTMIX: 41s fails 0,0 stats {'pvd_pairs': 28.2, 'lsb_pairs': 183.7, 'mse': 0.02275, 'changed_frac': 0.0137}
+  bpp 0.01 ANTIKEY: 38s fails 0,0 stats {'pvd_pairs': 14.6, 'lsb_pairs': 210.9, 'mse': 0.01909, 'changed_frac': 0.01411}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 ANTIMIX: 41s fails 0,0 stats {'pvd_pairs': 14.6, 'lsb_pairs': 210.9, 'mse': 0.01898, 'changed_frac': 0.01415}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 HILLSIM: 107s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00367, 'changed_frac': 0.00367}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 HILLR: 141s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00366, 'changed_frac': 0.00366}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.01 SUNIR: 254s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.0035, 'changed_frac': 0.0035}
+A 0.01 AUC {'RANDSEQ': 0.7658, 'ORIG': 0.7743, 'COSTKEY': 0.6205, 'COSTMIX': 0.7625, 'ANTIKEY': 0.8893, 'ANTIMIX': 0.7747, 'HILLSIM': 0.5282, 'HILLR': 0.5302, 'SUNIR': 0.546}
+    {'ORIG-RANDSEQ': (0.0085, [-0.0008, 0.0186]), 'COSTKEY-RANDSEQ': (-0.1453, [-0.1626, -0.1282]), 'COSTMIX-RANDSEQ': (-0.0033, [-0.0118, 0.0053]), 'ANTIKEY-RANDSEQ': (0.1235, [0.1132, 0.1348]), 'ANTIMIX-RANDSEQ': (0.0089, [-0.0008, 0.019]), 'HILLSIM-RANDSEQ': (-0.2376, [-0.2541, -0.2199]), 'HILLR-RANDSEQ': (-0.2356, [-0.2532, -0.2185]), 'SUNIR-RANDSEQ': (-0.2198, [-0.2368, -0.2022]), 'COSTKEY-COSTMIX': (-0.142, [-0.1577, -0.125]), 'ANTIKEY-ANTIMIX': (0.1146, [0.1041, 0.1251])}
+B 0.01 AUC {'RANDSEQ': 0.5926, 'ORIG': 0.6064, 'COSTKEY': 0.5723, 'COSTMIX': 0.6092, 'ANTIKEY': 0.658, 'ANTIMIX': 0.5971, 'HILLSIM': 0.5407, 'HILLR': 0.5473, 'SUNIR': 0.5705}
+    {'ORIG-RANDSEQ': (0.0138, [-0.01, 0.0346]), 'COSTKEY-RANDSEQ': (-0.0203, [-0.0439, 0.002]), 'COSTMIX-RANDSEQ': (0.0166, [-0.0052, 0.0354]), 'ANTIKEY-RANDSEQ': (0.0654, [0.0429, 0.0862]), 'ANTIMIX-RANDSEQ': (0.0045, [-0.0163, 0.0243]), 'HILLSIM-RANDSEQ': (-0.0519, [-0.0701, -0.0335]), 'HILLR-RANDSEQ': (-0.0453, [-0.0651, -0.0283]), 'SUNIR-RANDSEQ': (-0.0221, [-0.0421, -0.0048]), 'COSTKEY-COSTMIX': (-0.0369, [-0.06, -0.0143]), 'ANTIKEY-ANTIMIX': (0.0609, [0.0395, 0.0835])}
+D 0.01 AUC {'RANDSEQ': 0.798, 'ORIG': 0.8114, 'COSTKEY': 0.6098, 'COSTMIX': 0.7963, 'ANTIKEY': 0.913, 'ANTIMIX': 0.7986, 'HILLSIM': 0.5255, 'HILLR': 0.5085, 'SUNIR': 0.5382}
+    {'ORIG-RANDSEQ': (0.0134, [0.0017, 0.026]), 'COSTKEY-RANDSEQ': (-0.1882, [-0.2077, -0.1674]), 'COSTMIX-RANDSEQ': (-0.0017, [-0.0124, 0.0094]), 'ANTIKEY-RANDSEQ': (0.115, [0.103, 0.1273]), 'ANTIMIX-RANDSEQ': (0.0006, [-0.0105, 0.0122]), 'HILLSIM-RANDSEQ': (-0.2725, [-0.3003, -0.2436]), 'HILLR-RANDSEQ': (-0.2895, [-0.317, -0.2615]), 'SUNIR-RANDSEQ': (-0.2598, [-0.2868, -0.2336]), 'COSTKEY-COSTMIX': (-0.1865, [-0.2049, -0.1685]), 'ANTIKEY-ANTIMIX': (0.1144, [0.102, 0.1275])}
+S 0.01 AUC {'RANDSEQ': 0.798, 'ORIG': 0.8114, 'COSTKEY': 0.7221, 'COSTMIX': 0.7963, 'ANTIKEY': 0.9347, 'ANTIMIX': 0.7986, 'HILLSIM': 0.6083, 'HILLR': 0.6053, 'SUNIR': 0.631}
+    {'ORIG-RANDSEQ': (0.0134, [0.0017, 0.026]), 'COSTKEY-RANDSEQ': (-0.0759, [-0.097, -0.0537]), 'COSTMIX-RANDSEQ': (-0.0017, [-0.0124, 0.0094]), 'ANTIKEY-RANDSEQ': (0.1367, [0.1248, 0.1501]), 'ANTIMIX-RANDSEQ': (0.0006, [-0.0105, 0.0122]), 'HILLSIM-RANDSEQ': (-0.1897, [-0.2169, -0.1643]), 'HILLR-RANDSEQ': (-0.1927, [-0.2192, -0.1681]), 'SUNIR-RANDSEQ': (-0.167, [-0.1914, -0.1425]), 'COSTKEY-COSTMIX': (-0.0742, [-0.0921, -0.054]), 'ANTIKEY-ANTIMIX': (0.1361, [0.1219, 0.1504])}
+payload 0.01 done 781s
+  bpp 0.02 RANDSEQ: 33s fails 0,0 stats {'pvd_pairs': 39.9, 'lsb_pairs': 400.3, 'mse': 0.04059, 'changed_frac': 0.02794}
+  bpp 0.02 ORIG: 35s fails 0,0 stats {'pvd_pairs': 53.4, 'lsb_pairs': 373.4, 'mse': 0.04463, 'changed_frac': 0.02756}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 COSTKEY: 38s fails 0,0 stats {'pvd_pairs': 56.1, 'lsb_pairs': 367.9, 'mse': 0.04506, 'changed_frac': 0.02748}
+  bpp 0.02 COSTMIX: 41s fails 0,0 stats {'pvd_pairs': 56.1, 'lsb_pairs': 367.8, 'mse': 0.04513, 'changed_frac': 0.02742}
+  bpp 0.02 ANTIKEY: 37s fails 0,0 stats {'pvd_pairs': 29.0, 'lsb_pairs': 422.0, 'mse': 0.03804, 'changed_frac': 0.02818}
+  bpp 0.02 ANTIMIX: 41s fails 0,0 stats {'pvd_pairs': 29.0, 'lsb_pairs': 422.0, 'mse': 0.03773, 'changed_frac': 0.0283}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 HILLSIM: 108s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00805, 'changed_frac': 0.00805}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 HILLR: 145s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00801, 'changed_frac': 0.00801}
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+  bpp 0.02 SUNIR: 263s fails 0,0 stats {'pvd_pairs': -1.0, 'lsb_pairs': -1.0, 'mse': 0.00757, 'changed_frac': 0.00757}
+A 0.02 AUC {'RANDSEQ': 0.901, 'ORIG': 0.912, 'COSTKEY': 0.7236, 'COSTMIX': 0.9015, 'ANTIKEY': 0.9726, 'ANTIMIX': 0.8971, 'HILLSIM': 0.5642, 'HILLR': 0.5661, 'SUNIR': 0.5915}
+    {'ORIG-RANDSEQ': (0.011, [0.0035, 0.0185]), 'COSTKEY-RANDSEQ': (-0.1774, [-0.1921, -0.1617]), 'COSTMIX-RANDSEQ': (0.0005, [-0.0073, 0.0095]), 'ANTIKEY-RANDSEQ': (0.0716, [0.0609, 0.0833]), 'ANTIMIX-RANDSEQ': (-0.0039, [-0.0121, 0.0043]), 'HILLSIM-RANDSEQ': (-0.3368, [-0.3519, -0.3203]), 'HILLR-RANDSEQ': (-0.3349, [-0.3517, -0.3174]), 'SUNIR-RANDSEQ': (-0.3095, [-0.3253, -0.293]), 'COSTKEY-COSTMIX': (-0.1779, [-0.1921, -0.1643]), 'ANTIKEY-ANTIMIX': (0.0755, [0.0637, 0.0886])}
+B 0.02 AUC {'RANDSEQ': 0.6676, 'ORIG': 0.7254, 'COSTKEY': 0.6507, 'COSTMIX': 0.6783, 'ANTIKEY': 0.732, 'ANTIMIX': 0.683, 'HILLSIM': 0.588, 'HILLR': 0.5881, 'SUNIR': 0.6288}
+    {'ORIG-RANDSEQ': (0.0578, [0.0382, 0.0756]), 'COSTKEY-RANDSEQ': (-0.0169, [-0.0407, 0.0063]), 'COSTMIX-RANDSEQ': (0.0107, [-0.009, 0.0288]), 'ANTIKEY-RANDSEQ': (0.0644, [0.0465, 0.0807]), 'ANTIMIX-RANDSEQ': (0.0154, [-0.0033, 0.0352]), 'HILLSIM-RANDSEQ': (-0.0796, [-0.1062, -0.0559]), 'HILLR-RANDSEQ': (-0.0795, [-0.1056, -0.0561]), 'SUNIR-RANDSEQ': (-0.0388, [-0.0618, -0.0165]), 'COSTKEY-COSTMIX': (-0.0276, [-0.049, -0.0079]), 'ANTIKEY-ANTIMIX': (0.049, [0.0285, 0.0683])}
+D 0.02 AUC {'RANDSEQ': 0.9173, 'ORIG': 0.9281, 'COSTKEY': 0.7262, 'COSTMIX': 0.9216, 'ANTIKEY': 0.9771, 'ANTIMIX': 0.9103, 'HILLSIM': 0.5457, 'HILLR': 0.5328, 'SUNIR': 0.6029}
+    {'ORIG-RANDSEQ': (0.0108, [0.0046, 0.0167]), 'COSTKEY-RANDSEQ': (-0.1911, [-0.2079, -0.1737]), 'COSTMIX-RANDSEQ': (0.0043, [-0.0018, 0.0102]), 'ANTIKEY-RANDSEQ': (0.0598, [0.0492, 0.0701]), 'ANTIMIX-RANDSEQ': (-0.007, [-0.0139, -0.0007]), 'HILLSIM-RANDSEQ': (-0.3716, [-0.3921, -0.3526]), 'HILLR-RANDSEQ': (-0.3845, [-0.4038, -0.3641]), 'SUNIR-RANDSEQ': (-0.3144, [-0.3341, -0.2964]), 'COSTKEY-COSTMIX': (-0.1954, [-0.2118, -0.1784]), 'ANTIKEY-ANTIMIX': (0.0668, [0.0553, 0.079])}
+S 0.02 AUC {'RANDSEQ': 0.9173, 'ORIG': 0.9281, 'COSTKEY': 0.8497, 'COSTMIX': 0.9216, 'ANTIKEY': 0.9876, 'ANTIMIX': 0.9103, 'HILLSIM': 0.6871, 'HILLR': 0.6856, 'SUNIR': 0.7185}
+    {'ORIG-RANDSEQ': (0.0108, [0.0046, 0.0167]), 'COSTKEY-RANDSEQ': (-0.0676, [-0.082, -0.0532]), 'COSTMIX-RANDSEQ': (0.0043, [-0.0018, 0.0102]), 'ANTIKEY-RANDSEQ': (0.0703, [0.0568, 0.0833]), 'ANTIMIX-RANDSEQ': (-0.007, [-0.0139, -0.0007]), 'HILLSIM-RANDSEQ': (-0.2302, [-0.2592, -0.2063]), 'HILLR-RANDSEQ': (-0.2317, [-0.2557, -0.209]), 'SUNIR-RANDSEQ': (-0.1988, [-0.2246, -0.1753]), 'COSTKEY-COSTMIX': (-0.0719, [-0.0858, -0.058]), 'ANTIKEY-ANTIMIX': (0.0773, [0.0632, 0.0928])}
+payload 0.02 done 799s
+DONE 2

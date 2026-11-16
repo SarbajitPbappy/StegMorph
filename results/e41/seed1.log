@@ -1,0 +1,14 @@
+seed 1: train 4186 test 1131
+  bpp 0.01 GAMINX F: AUC 0.7845 (195s)
+  bpp 0.01 GAMINX M: AUC 0.7845 (431s)
+F 0.01 AUC {'GAMINX': 0.7845}
+    {}
+M 0.01 AUC {'GAMINX': 0.7845}
+    {}
+  bpp 0.02 GAMINX F: AUC 0.9192 (106s)
+  bpp 0.02 GAMINX M: AUC 0.9192 (335s)
+F 0.02 AUC {'GAMINX': 0.9192}
+    {}
+M 0.02 AUC {'GAMINX': 0.9192}
+    {}
+DONE 1 5545s

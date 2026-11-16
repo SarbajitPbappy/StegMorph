@@ -1,0 +1,290 @@
+{
+ "F|0.01": {
+  "contrasts": {
+   "COSTKEY-RANDSEQ": {
+    "mean": -0.1385,
+    "per_seed": [
+     -0.141,
+     -0.1372,
+     -0.1374
+    ],
+    "worst_lower": -0.1573,
+    "worst_upper": -0.1189
+   },
+   "ORIG-RANDSEQ": {
+    "mean": 0.0117,
+    "per_seed": [
+     0.005,
+     0.0165,
+     0.0136
+    ],
+    "worst_lower": -0.0028,
+    "worst_upper": 0.023
+   },
+   "COSTMIX-RANDSEQ": {
+    "mean": 0.0133,
+    "per_seed": [
+     0.0098,
+     0.0142,
+     0.016
+    ],
+    "worst_lower": 0.0023,
+    "worst_upper": 0.0229
+   },
+   "ANTIKEY-RANDSEQ": {
+    "mean": 0.0884,
+    "per_seed": [
+     0.0873,
+     0.091,
+     0.0869
+    ],
+    "worst_lower": 0.0782,
+    "worst_upper": 0.1004
+   },
+   "HILLR-RANDSEQ": {
+    "mean": -0.275,
+    "per_seed": [
+     -0.2743,
+     -0.2723,
+     -0.2783
+    ],
+    "worst_lower": -0.2969,
+    "worst_upper": -0.2521
+   },
+   "COSTKEY-COSTMIX": {
+    "mean": -0.1519,
+    "per_seed": [
+     -0.1508,
+     -0.1514,
+     -0.1534
+    ],
+    "worst_lower": -0.1688,
+    "worst_upper": -0.1337
+   }
+  },
+  "mean_auc": {
+   "RANDSEQ": 0.8483,
+   "ORIG": 0.86,
+   "COSTKEY": 0.7098,
+   "COSTMIX": 0.8616,
+   "ANTIKEY": 0.9367,
+   "HILLR": 0.5733
+  }
+ },
+ "F|0.02": {
+  "contrasts": {
+   "COSTKEY-RANDSEQ": {
+    "mean": -0.1127,
+    "per_seed": [
+     -0.1154,
+     -0.1165,
+     -0.1061
+    ],
+    "worst_lower": -0.1313,
+    "worst_upper": -0.0921
+   },
+   "ORIG-RANDSEQ": {
+    "mean": 0.0063,
+    "per_seed": [
+     0.0051,
+     0.0044,
+     0.0093
+    ],
+    "worst_lower": 0.0007,
+    "worst_upper": 0.0126
+   },
+   "COSTMIX-RANDSEQ": {
+    "mean": 0.0104,
+    "per_seed": [
+     0.0091,
+     0.0095,
+     0.0126
+    ],
+    "worst_lower": 0.0053,
+    "worst_upper": 0.0163
+   },
+   "ANTIKEY-RANDSEQ": {
+    "mean": 0.0355,
+    "per_seed": [
+     0.0343,
+     0.0349,
+     0.0373
+    ],
+    "worst_lower": 0.0274,
+    "worst_upper": 0.0453
+   },
+   "HILLR-RANDSEQ": {
+    "mean": -0.3116,
+    "per_seed": [
+     -0.3122,
+     -0.3083,
+     -0.3144
+    ],
+    "worst_lower": -0.3321,
+    "worst_upper": -0.2906
+   },
+   "COSTKEY-COSTMIX": {
+    "mean": -0.1231,
+    "per_seed": [
+     -0.1245,
+     -0.126,
+     -0.1187
+    ],
+    "worst_lower": -0.1411,
+    "worst_upper": -0.1055
+   }
+  },
+  "mean_auc": {
+   "RANDSEQ": 0.949,
+   "ORIG": 0.9552,
+   "COSTKEY": 0.8363,
+   "COSTMIX": 0.9594,
+   "ANTIKEY": 0.9845,
+   "HILLR": 0.6373
+  }
+ },
+ "M|0.01": {
+  "contrasts": {
+   "COSTKEY-RANDSEQ": {
+    "mean": -0.0042,
+    "per_seed": [
+     -0.0099,
+     0.0032,
+     -0.006
+    ],
+    "worst_lower": -0.0269,
+    "worst_upper": 0.0191
+   },
+   "ORIG-RANDSEQ": {
+    "mean": 0.0117,
+    "per_seed": [
+     0.005,
+     0.0165,
+     0.0136
+    ],
+    "worst_lower": -0.0028,
+    "worst_upper": 0.023
+   },
+   "COSTMIX-RANDSEQ": {
+    "mean": 0.0133,
+    "per_seed": [
+     0.0098,
+     0.0142,
+     0.016
+    ],
+    "worst_lower": 0.0023,
+    "worst_upper": 0.0229
+   },
+   "ANTIKEY-RANDSEQ": {
+    "mean": 0.115,
+    "per_seed": [
+     0.1139,
+     0.1168,
+     0.1144
+    ],
+    "worst_lower": 0.1012,
+    "worst_upper": 0.131
+   },
+   "HILLR-RANDSEQ": {
+    "mean": -0.2037,
+    "per_seed": [
+     -0.1992,
+     -0.2001,
+     -0.2117
+    ],
+    "worst_lower": -0.2358,
+    "worst_upper": -0.171
+   },
+   "COSTKEY-COSTMIX": {
+    "mean": -0.0176,
+    "per_seed": [
+     -0.0197,
+     -0.011,
+     -0.022
+    ],
+    "worst_lower": -0.0378,
+    "worst_upper": 0.0048
+   }
+  },
+  "mean_auc": {
+   "RANDSEQ": 0.8483,
+   "ORIG": 0.86,
+   "COSTKEY": 0.8441,
+   "COSTMIX": 0.8616,
+   "ANTIKEY": 0.9633,
+   "HILLR": 0.6446
+  }
+ },
+ "M|0.02": {
+  "contrasts": {
+   "COSTKEY-RANDSEQ": {
+    "mean": 0.0016,
+    "per_seed": [
+     -0.0019,
+     0.0026,
+     0.0042
+    ],
+    "worst_lower": -0.0127,
+    "worst_upper": 0.0158
+   },
+   "ORIG-RANDSEQ": {
+    "mean": 0.0063,
+    "per_seed": [
+     0.0051,
+     0.0044,
+     0.0093
+    ],
+    "worst_lower": 0.0007,
+    "worst_upper": 0.0126
+   },
+   "COSTMIX-RANDSEQ": {
+    "mean": 0.0104,
+    "per_seed": [
+     0.0091,
+     0.0095,
+     0.0126
+    ],
+    "worst_lower": 0.0053,
+    "worst_upper": 0.0163
+   },
+   "ANTIKEY-RANDSEQ": {
+    "mean": 0.0443,
+    "per_seed": [
+     0.0435,
+     0.0418,
+     0.0475
+    ],
+    "worst_lower": 0.0313,
+    "worst_upper": 0.0603
+   },
+   "HILLR-RANDSEQ": {
+    "mean": -0.2177,
+    "per_seed": [
+     -0.2287,
+     -0.2055,
+     -0.2188
+    ],
+    "worst_lower": -0.2528,
+    "worst_upper": -0.183
+   },
+   "COSTKEY-COSTMIX": {
+    "mean": -0.0088,
+    "per_seed": [
+     -0.011,
+     -0.0069,
+     -0.0084
+    ],
+    "worst_lower": -0.021,
+    "worst_upper": 0.0033
+   }
+  },
+  "mean_auc": {
+   "RANDSEQ": 0.949,
+   "ORIG": 0.9552,
+   "COSTKEY": 0.9506,
+   "COSTMIX": 0.9594,
+   "ANTIKEY": 0.9932,
+   "HILLR": 0.7313
+  }
+ }
+}

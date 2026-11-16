@@ -1,0 +1,758 @@
+{
+ "seed": 1,
+ "ds": "ixi",
+ "n_train": 4186,
+ "n_train_subjects": 322,
+ "n_test": 1131,
+ "n_test_subjects": 87,
+ "results": {
+  "ixi|A|0.01": {
+   "auc": {
+    "RANDSEQ": 0.766,
+    "ORIG": 0.7756,
+    "GAMIN": 0.7405,
+    "GAMINS": 0.7146,
+    "COSTKEY": 0.6164,
+    "LSBK:R": 0.8056,
+    "LSBK:C": 0.6666,
+    "LSBK:A": 0.905,
+    "LSBM:R": 0.8091,
+    "LSBM:C": 0.6663,
+    "LSBM:A": 0.9069
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 19.9,
+     "lsb_pairs": 200.3,
+     "mse": 0.02042,
+     "changed_frac": 0.01399
+    },
+    "ORIG": {
+     "pvd_pairs": 27.1,
+     "lsb_pairs": 186.0,
+     "mse": 0.02256,
+     "changed_frac": 0.01372
+    },
+    "GAMIN": {
+     "pvd_pairs": 19.1,
+     "lsb_pairs": 201.8,
+     "mse": 0.02014,
+     "changed_frac": 0.01402
+    },
+    "GAMINS": {
+     "pvd_pairs": 19.4,
+     "lsb_pairs": 201.2,
+     "mse": 0.02012,
+     "changed_frac": 0.01401
+    },
+    "COSTKEY": {
+     "pvd_pairs": 28.1,
+     "lsb_pairs": 183.9,
+     "mse": 0.0226,
+     "changed_frac": 0.01372
+    },
+    "LSBK:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01467,
+     "changed_frac": 0.01467
+    },
+    "LSBK:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01463,
+     "changed_frac": 0.01463
+    },
+    "LSBK:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01464,
+     "changed_frac": 0.01464
+    },
+    "LSBM:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01467,
+     "changed_frac": 0.01467
+    },
+    "LSBM:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01463,
+     "changed_frac": 0.01463
+    },
+    "LSBM:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01464,
+     "changed_frac": 0.01464
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "ORIG": [
+     0,
+     0
+    ],
+    "GAMIN": [
+     0,
+     0
+    ],
+    "GAMINS": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "LSBK:R": [
+     0,
+     0
+    ],
+    "LSBK:C": [
+     0,
+     0
+    ],
+    "LSBK:A": [
+     0,
+     0
+    ],
+    "LSBM:R": [
+     0,
+     0
+    ],
+    "LSBM:C": [
+     0,
+     0
+    ],
+    "LSBM:A": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0096,
+     "ci95_subject_bootstrap": [
+      -0.0009,
+      0.0198
+     ]
+    },
+    "GAMIN-RANDSEQ": {
+     "diff": -0.0255,
+     "ci95_subject_bootstrap": [
+      -0.0372,
+      -0.0149
+     ]
+    },
+    "GAMINS-RANDSEQ": {
+     "diff": -0.0514,
+     "ci95_subject_bootstrap": [
+      -0.0629,
+      -0.0407
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.1496,
+     "ci95_subject_bootstrap": [
+      -0.1667,
+      -0.1314
+     ]
+    },
+    "LSBK:C-LSBK:R": {
+     "diff": -0.139,
+     "ci95_subject_bootstrap": [
+      -0.1564,
+      -0.1216
+     ]
+    },
+    "LSBK:A-LSBK:R": {
+     "diff": 0.0994,
+     "ci95_subject_bootstrap": [
+      0.0896,
+      0.1084
+     ]
+    },
+    "LSBM:C-LSBM:R": {
+     "diff": -0.1428,
+     "ci95_subject_bootstrap": [
+      -0.1599,
+      -0.1257
+     ]
+    },
+    "LSBM:A-LSBM:R": {
+     "diff": 0.0978,
+     "ci95_subject_bootstrap": [
+      0.0871,
+      0.1076
+     ]
+    }
+   }
+  },
+  "ixi|D|0.01": {
+   "auc": {
+    "RANDSEQ": 0.7886,
+    "ORIG": 0.8058,
+    "GAMIN": 0.7673,
+    "GAMINS": 0.7369,
+    "COSTKEY": 0.6118,
+    "LSBK:R": 0.8313,
+    "LSBK:C": 0.6787,
+    "LSBK:A": 0.9279,
+    "LSBM:R": 0.8372,
+    "LSBM:C": 0.6784,
+    "LSBM:A": 0.9303
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 19.9,
+     "lsb_pairs": 200.3,
+     "mse": 0.02042,
+     "changed_frac": 0.01399
+    },
+    "ORIG": {
+     "pvd_pairs": 27.1,
+     "lsb_pairs": 186.0,
+     "mse": 0.02256,
+     "changed_frac": 0.01372
+    },
+    "GAMIN": {
+     "pvd_pairs": 19.1,
+     "lsb_pairs": 201.8,
+     "mse": 0.02014,
+     "changed_frac": 0.01402
+    },
+    "GAMINS": {
+     "pvd_pairs": 19.4,
+     "lsb_pairs": 201.2,
+     "mse": 0.02012,
+     "changed_frac": 0.01401
+    },
+    "COSTKEY": {
+     "pvd_pairs": 28.1,
+     "lsb_pairs": 183.9,
+     "mse": 0.0226,
+     "changed_frac": 0.01372
+    },
+    "LSBK:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01467,
+     "changed_frac": 0.01467
+    },
+    "LSBK:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01463,
+     "changed_frac": 0.01463
+    },
+    "LSBK:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01464,
+     "changed_frac": 0.01464
+    },
+    "LSBM:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01467,
+     "changed_frac": 0.01467
+    },
+    "LSBM:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01463,
+     "changed_frac": 0.01463
+    },
+    "LSBM:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.01464,
+     "changed_frac": 0.01464
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "ORIG": [
+     0,
+     0
+    ],
+    "GAMIN": [
+     0,
+     0
+    ],
+    "GAMINS": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "LSBK:R": [
+     0,
+     0
+    ],
+    "LSBK:C": [
+     0,
+     0
+    ],
+    "LSBK:A": [
+     0,
+     0
+    ],
+    "LSBM:R": [
+     0,
+     0
+    ],
+    "LSBM:C": [
+     0,
+     0
+    ],
+    "LSBM:A": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0172,
+     "ci95_subject_bootstrap": [
+      0.0059,
+      0.0286
+     ]
+    },
+    "GAMIN-RANDSEQ": {
+     "diff": -0.0213,
+     "ci95_subject_bootstrap": [
+      -0.0337,
+      -0.009
+     ]
+    },
+    "GAMINS-RANDSEQ": {
+     "diff": -0.0517,
+     "ci95_subject_bootstrap": [
+      -0.0655,
+      -0.0387
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.1768,
+     "ci95_subject_bootstrap": [
+      -0.1969,
+      -0.1578
+     ]
+    },
+    "LSBK:C-LSBK:R": {
+     "diff": -0.1526,
+     "ci95_subject_bootstrap": [
+      -0.1718,
+      -0.1328
+     ]
+    },
+    "LSBK:A-LSBK:R": {
+     "diff": 0.0966,
+     "ci95_subject_bootstrap": [
+      0.0843,
+      0.1087
+     ]
+    },
+    "LSBM:C-LSBM:R": {
+     "diff": -0.1588,
+     "ci95_subject_bootstrap": [
+      -0.1781,
+      -0.1399
+     ]
+    },
+    "LSBM:A-LSBM:R": {
+     "diff": 0.0931,
+     "ci95_subject_bootstrap": [
+      0.0811,
+      0.1067
+     ]
+    }
+   }
+  },
+  "ixi|A|0.02": {
+   "auc": {
+    "RANDSEQ": 0.9058,
+    "ORIG": 0.9135,
+    "GAMIN": 0.8815,
+    "GAMINS": 0.8631,
+    "COSTKEY": 0.7241,
+    "LSBK:R": 0.9267,
+    "LSBK:C": 0.7648,
+    "LSBK:A": 0.9778,
+    "LSBM:R": 0.9299,
+    "LSBM:C": 0.7645,
+    "LSBM:A": 0.978
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 39.8,
+     "lsb_pairs": 400.4,
+     "mse": 0.0406,
+     "changed_frac": 0.02794
+    },
+    "ORIG": {
+     "pvd_pairs": 53.1,
+     "lsb_pairs": 374.0,
+     "mse": 0.0445,
+     "changed_frac": 0.02751
+    },
+    "GAMIN": {
+     "pvd_pairs": 38.2,
+     "lsb_pairs": 403.7,
+     "mse": 0.04013,
+     "changed_frac": 0.02803
+    },
+    "GAMINS": {
+     "pvd_pairs": 38.8,
+     "lsb_pairs": 402.5,
+     "mse": 0.04015,
+     "changed_frac": 0.02799
+    },
+    "COSTKEY": {
+     "pvd_pairs": 56.7,
+     "lsb_pairs": 366.8,
+     "mse": 0.04516,
+     "changed_frac": 0.02741
+    },
+    "LSBK:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBK:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBK:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02934,
+     "changed_frac": 0.02934
+    },
+    "LSBM:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBM:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBM:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02934,
+     "changed_frac": 0.02934
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "ORIG": [
+     0,
+     0
+    ],
+    "GAMIN": [
+     0,
+     0
+    ],
+    "GAMINS": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "LSBK:R": [
+     0,
+     0
+    ],
+    "LSBK:C": [
+     0,
+     0
+    ],
+    "LSBK:A": [
+     0,
+     0
+    ],
+    "LSBM:R": [
+     0,
+     0
+    ],
+    "LSBM:C": [
+     0,
+     0
+    ],
+    "LSBM:A": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0077,
+     "ci95_subject_bootstrap": [
+      0.0004,
+      0.0149
+     ]
+    },
+    "GAMIN-RANDSEQ": {
+     "diff": -0.0243,
+     "ci95_subject_bootstrap": [
+      -0.0331,
+      -0.0162
+     ]
+    },
+    "GAMINS-RANDSEQ": {
+     "diff": -0.0427,
+     "ci95_subject_bootstrap": [
+      -0.0522,
+      -0.0347
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.1817,
+     "ci95_subject_bootstrap": [
+      -0.1972,
+      -0.1656
+     ]
+    },
+    "LSBK:C-LSBK:R": {
+     "diff": -0.1619,
+     "ci95_subject_bootstrap": [
+      -0.1772,
+      -0.1456
+     ]
+    },
+    "LSBK:A-LSBK:R": {
+     "diff": 0.0511,
+     "ci95_subject_bootstrap": [
+      0.043,
+      0.0588
+     ]
+    },
+    "LSBM:C-LSBM:R": {
+     "diff": -0.1654,
+     "ci95_subject_bootstrap": [
+      -0.1798,
+      -0.1496
+     ]
+    },
+    "LSBM:A-LSBM:R": {
+     "diff": 0.0481,
+     "ci95_subject_bootstrap": [
+      0.0406,
+      0.0553
+     ]
+    }
+   }
+  },
+  "ixi|D|0.02": {
+   "auc": {
+    "RANDSEQ": 0.921,
+    "ORIG": 0.9293,
+    "GAMIN": 0.9011,
+    "GAMINS": 0.8835,
+    "COSTKEY": 0.7203,
+    "LSBK:R": 0.9385,
+    "LSBK:C": 0.7889,
+    "LSBK:A": 0.9803,
+    "LSBM:R": 0.9391,
+    "LSBM:C": 0.7879,
+    "LSBM:A": 0.9797
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 39.8,
+     "lsb_pairs": 400.4,
+     "mse": 0.0406,
+     "changed_frac": 0.02794
+    },
+    "ORIG": {
+     "pvd_pairs": 53.1,
+     "lsb_pairs": 374.0,
+     "mse": 0.0445,
+     "changed_frac": 0.02751
+    },
+    "GAMIN": {
+     "pvd_pairs": 38.2,
+     "lsb_pairs": 403.7,
+     "mse": 0.04013,
+     "changed_frac": 0.02803
+    },
+    "GAMINS": {
+     "pvd_pairs": 38.8,
+     "lsb_pairs": 402.5,
+     "mse": 0.04015,
+     "changed_frac": 0.02799
+    },
+    "COSTKEY": {
+     "pvd_pairs": 56.7,
+     "lsb_pairs": 366.8,
+     "mse": 0.04516,
+     "changed_frac": 0.02741
+    },
+    "LSBK:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBK:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBK:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02934,
+     "changed_frac": 0.02934
+    },
+    "LSBM:R": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBM:C": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02931,
+     "changed_frac": 0.02931
+    },
+    "LSBM:A": {
+     "pvd_pairs": -1.0,
+     "lsb_pairs": -1.0,
+     "mse": 0.02934,
+     "changed_frac": 0.02934
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "ORIG": [
+     0,
+     0
+    ],
+    "GAMIN": [
+     0,
+     0
+    ],
+    "GAMINS": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "LSBK:R": [
+     0,
+     0
+    ],
+    "LSBK:C": [
+     0,
+     0
+    ],
+    "LSBK:A": [
+     0,
+     0
+    ],
+    "LSBM:R": [
+     0,
+     0
+    ],
+    "LSBM:C": [
+     0,
+     0
+    ],
+    "LSBM:A": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0083,
+     "ci95_subject_bootstrap": [
+      0.0014,
+      0.0148
+     ]
+    },
+    "GAMIN-RANDSEQ": {
+     "diff": -0.0199,
+     "ci95_subject_bootstrap": [
+      -0.0289,
+      -0.0116
+     ]
+    },
+    "GAMINS-RANDSEQ": {
+     "diff": -0.0375,
+     "ci95_subject_bootstrap": [
+      -0.0479,
+      -0.0281
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.2007,
+     "ci95_subject_bootstrap": [
+      -0.2197,
+      -0.1827
+     ]
+    },
+    "LSBK:C-LSBK:R": {
+     "diff": -0.1496,
+     "ci95_subject_bootstrap": [
+      -0.167,
+      -0.1307
+     ]
+    },
+    "LSBK:A-LSBK:R": {
+     "diff": 0.0418,
+     "ci95_subject_bootstrap": [
+      0.0345,
+      0.0495
+     ]
+    },
+    "LSBM:C-LSBM:R": {
+     "diff": -0.1512,
+     "ci95_subject_bootstrap": [
+      -0.1688,
+      -0.1348
+     ]
+    },
+    "LSBM:A-LSBM:R": {
+     "diff": 0.0406,
+     "ci95_subject_bootstrap": [
+      0.0328,
+      0.0485
+     ]
+    }
+   }
+  }
+ }
+}

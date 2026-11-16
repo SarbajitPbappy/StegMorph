@@ -1,0 +1,20 @@
+{
+ "train": {
+  "n_images": 3146,
+  "n_subjects": 242,
+  "sha256": "92db3e9c0143c8dffae2276049097d35492677292f4295962767a8d2cb2dc5d5",
+  "jpeg_origin": true
+ },
+ "val": {
+  "n_images": 676,
+  "n_subjects": 52,
+  "sha256": "0fa6c9837707098041d1a6f868eb2fbe65ecb47f88e5374edc70269a5611f2f3",
+  "jpeg_origin": true
+ },
+ "test": {
+  "n_images": 689,
+  "n_subjects": 53,
+  "sha256": "c622f51f57a7e96b8d6151cf1ce79d50ca313cb72a668992e50f82c4801e2f14",
+  "jpeg_origin": true
+ }
+}

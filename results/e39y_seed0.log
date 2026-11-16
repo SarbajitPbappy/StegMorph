@@ -1,0 +1,5 @@
+stego built
+yedroudj RANDSEQ s0 ep4 n4186: val 0.6773 test 0.672 (2.8 min)
+yedroudj COSTKEY s0 ep4 n4186: val 0.57 test 0.5561 (2.8 min)
+yedroudj RANDSEQ s0 ep60 n4186: val 0.8291 test 0.8206 (39.7 min)
+yedroudj COSTKEY s0 ep60 n4186: val 0.6624 test 0.6339 (38.9 min)

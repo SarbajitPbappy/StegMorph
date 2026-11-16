@@ -1,0 +1,4 @@
+ep 0 loss 0.641 val_auc 0.5766 (9s)
+ep 1 loss 0.580 val_auc 0.6288 (18s)
+ep 2 loss 0.612 val_auc 0.7838 (27s)
+ep 3 loss 0.490 val_auc 0.7952 (36s)

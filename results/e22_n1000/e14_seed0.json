@@ -1,0 +1,87 @@
+{
+ "seed": 0,
+ "n_train_feat": 5239,
+ "n_train_cnn": 1000,
+ "n_test": 1131,
+ "n_test_subjects": 87,
+ "epochs": 30,
+ "results": {
+  "IXI|C|0.01": {
+   "auc": {
+    "RANDSEQ": 0.85,
+    "ORIG": 0.8594,
+    "COSTKEY": 0.8667,
+    "COSTMIX": 0.8682,
+    "HILL": 0.5584
+   },
+   "stats_test": {
+    "ORIG": {
+     "pvd_pairs": 26.9,
+     "lsb_pairs": 186.3,
+     "mse": 0.0224
+    },
+    "RANDSEQ": {
+     "pvd_pairs": 20.0,
+     "lsb_pairs": 200.0,
+     "mse": 0.0205
+    },
+    "COSTKEY": {
+     "pvd_pairs": 28.2,
+     "lsb_pairs": 183.7,
+     "mse": 0.0226
+    },
+    "COSTMIX": {
+     "pvd_pairs": 28.2,
+     "lsb_pairs": 183.6,
+     "mse": 0.0227
+    },
+    "HILL": {
+     "pvd_pairs": 0.0,
+     "lsb_pairs": 0.0,
+     "mse": 0.0037
+    }
+   },
+   "mix_infeasible": [
+    0,
+    0
+   ],
+   "contrasts": {
+    "P1_ORIG-RANDSEQ": {
+     "diff": 0.0094,
+     "ci95_subject_bootstrap": [
+      -0.0013,
+      0.0203
+     ]
+    },
+    "Q1_COSTKEY-RANDSEQ": {
+     "diff": 0.0167,
+     "ci95_subject_bootstrap": [
+      -0.005,
+      0.0377
+     ]
+    },
+    "Q2_COSTKEY-COSTMIX": {
+     "diff": -0.0015,
+     "ci95_subject_bootstrap": [
+      -0.0227,
+      0.0209
+     ]
+    },
+    "Q3_COSTMIX-RANDSEQ": {
+     "diff": 0.0182,
+     "ci95_subject_bootstrap": [
+      0.0079,
+      0.0291
+     ]
+    },
+    "B1_HILL-RANDSEQ": {
+     "diff": -0.2916,
+     "ci95_subject_bootstrap": [
+      -0.3126,
+      -0.2706
+     ]
+    }
+   }
+  }
+ }
+}

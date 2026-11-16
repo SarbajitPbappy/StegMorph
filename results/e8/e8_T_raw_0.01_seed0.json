@@ -1,0 +1,61 @@
+{
+ "seed": 0,
+ "ds": "T_raw",
+ "bpp": 0.01,
+ "n_test": 131,
+ "auc": {
+  "RAND|srm": 0.8529,
+  "RAND|sca": 0.8036,
+  "RAND|spam": 0.672,
+  "GREEDY_TEX|srm": 0.68,
+  "GREEDY_TEX|sca": 0.7287,
+  "GREEDY_TEX|spam": 0.5215,
+  "HILL_SIM|srm": 0.5644,
+  "HILL_SIM|sca": 0.5693,
+  "HILL_SIM|spam": 0.4901
+ },
+ "diffs": {
+  "GREEDY_TEX|srm": {
+   "diff": -0.1729,
+   "ci95": [
+    -0.2168,
+    -0.1266
+   ]
+  },
+  "HILL_SIM|srm": {
+   "diff": -0.2885,
+   "ci95": [
+    -0.3235,
+    -0.2501
+   ]
+  },
+  "GREEDY_TEX|sca": {
+   "diff": -0.0749,
+   "ci95": [
+    -0.1198,
+    -0.0259
+   ]
+  },
+  "HILL_SIM|sca": {
+   "diff": -0.2343,
+   "ci95": [
+    -0.2718,
+    -0.1908
+   ]
+  },
+  "GREEDY_TEX|spam": {
+   "diff": -0.1505,
+   "ci95": [
+    -0.2059,
+    -0.0962
+   ]
+  },
+  "HILL_SIM|spam": {
+   "diff": -0.1819,
+   "ci95": [
+    -0.2367,
+    -0.1258
+   ]
+  }
+ }
+}

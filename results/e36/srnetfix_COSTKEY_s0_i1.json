@@ -1,0 +1,14 @@
+{
+ "net": "srnet_fixed",
+ "scheme": "COSTKEY",
+ "seed": 0,
+ "bpp": 0.01,
+ "best_val_auc": 0.5023,
+ "best_epoch": 56,
+ "epochs_phase2": 60,
+ "minutes": 74.1,
+ "test_auc": 0.5019,
+ "valid_run": false,
+ "attempt": "partner run, init 1",
+ "init": 1
+}

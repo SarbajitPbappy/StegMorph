@@ -1,0 +1,37 @@
+cover features 17 s
+stego built 294 s; stats(test) {'ORIG': {'pvd_pairs': 1.9, 'lsb_pairs': 236.3, 'mse': 0.0151}, 'RANDSEQ': {'pvd_pairs': 1.1, 'lsb_pairs': 237.9, 'mse': 0.0149}, 'RANDMIX': {'pvd_pairs': 1.9, 'lsb_pairs': 236.2, 'mse': 0.0151}} mix_infeasible 0 0
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+<PROJECT_ROOT>/.venv_py314/lib/python3.14/site-packages/sklearn/linear_model/_logistic.py:599: ConvergenceWarning: lbfgs failed to converge after 300 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=300).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+A 0.01 {'RANDSEQ': 0.835, 'ORIG': 0.8001, 'RANDMIX': 0.7909} {'P1_ORIG-RANDSEQ': (-0.0349, [-0.0467, -0.0222]), 'P4_RANDMIX-RANDSEQ': (-0.0441, [-0.061, -0.026]), 'P3_ORIG-RANDMIX': (0.0092, [-0.0048, 0.0216])}
+B 0.01 {'RANDSEQ': 0.518, 'ORIG': 0.5152, 'RANDMIX': 0.528} {'P1_ORIG-RANDSEQ': (-0.0028, [-0.0185, 0.0143]), 'P4_RANDMIX-RANDSEQ': (0.01, [-0.0106, 0.0315]), 'P3_ORIG-RANDMIX': (-0.0128, [-0.0294, 0.007])}
+  cnn RANDSEQ val_auc 0.8896
+  cnn ORIG val_auc 0.893
+  cnn RANDMIX val_auc 0.9026
+C 0.01 {'RANDSEQ': 0.516, 'ORIG': 0.4977, 'RANDMIX': 0.5138} {'P1_ORIG-RANDSEQ': (-0.0183, [-0.0238, -0.0133]), 'P4_RANDMIX-RANDSEQ': (-0.0022, [-0.0101, 0.006]), 'P3_ORIG-RANDMIX': (-0.0161, [-0.0234, -0.0098])}
+done 0.01 1468 s
+DONE 1

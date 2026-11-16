@@ -1,0 +1,13 @@
+{
+ "net": "srnet_fixed",
+ "scheme": "RANDSEQ",
+ "seed": 0,
+ "bpp": 0.01,
+ "best_val_auc": 0.9004,
+ "best_epoch": 52,
+ "epochs_phase2": 60,
+ "minutes": 73.5,
+ "test_auc": 0.904,
+ "valid_run": true,
+ "attempt": "V2-H4 single fixed attempt"
+}

@@ -1,0 +1,71 @@
+{
+ "seed": 1,
+ "n_train": 4186,
+ "n_test": 1131,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "ixi|K|0.01": {
+   "auc": {
+    "RANDSEQ": 0.9799,
+    "ORIG": 0.9836,
+    "COSTKEY": 0.9402,
+    "GAMINX": 0.9757
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0037,
+     "ci95_subject_bootstrap": [
+      -0.0007,
+      0.0085
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.0397,
+     "ci95_subject_bootstrap": [
+      -0.0508,
+      -0.029
+     ]
+    },
+    "GAMINX-RANDSEQ": {
+     "diff": -0.0042,
+     "ci95_subject_bootstrap": [
+      -0.0097,
+      0.0013
+     ]
+    }
+   }
+  },
+  "ixi|K|0.02": {
+   "auc": {
+    "RANDSEQ": 0.9902,
+    "ORIG": 0.9918,
+    "COSTKEY": 0.9758,
+    "GAMINX": 0.9905
+   },
+   "contrasts": {
+    "ORIG-RANDSEQ": {
+     "diff": 0.0016,
+     "ci95_subject_bootstrap": [
+      -0.0004,
+      0.004
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.0144,
+     "ci95_subject_bootstrap": [
+      -0.0225,
+      -0.0061
+     ]
+    },
+    "GAMINX-RANDSEQ": {
+     "diff": 0.0003,
+     "ci95_subject_bootstrap": [
+      -0.002,
+      0.0031
+     ]
+    }
+   }
+  }
+ }
+}

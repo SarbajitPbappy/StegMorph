@@ -1,0 +1,10 @@
+cover features 21 s
+stego built 311 s; stats(test) {'ORIG': {'pvd_pairs': 1.9, 'lsb_pairs': 236.2, 'mse': 0.0152}, 'RANDSEQ': {'pvd_pairs': 1.0, 'lsb_pairs': 237.9, 'mse': 0.0149}, 'ANTIKEY': {'pvd_pairs': 0.1, 'lsb_pairs': 239.8, 'mse': 0.0147}, 'ANTIMIX': {'pvd_pairs': 0.1, 'lsb_pairs': 239.8, 'mse': 0.0146}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0033}} mix_infeasible 0 0
+A 0.01 {'RANDSEQ': 0.9964, 'ORIG': 0.997, 'ANTIKEY': 0.9994, 'ANTIMIX': 0.9968, 'HILL': 0.6642} {'P1_ORIG-RANDSEQ': (0.0006, [-0.0012, 0.0022]), 'Q1_ANTIKEY-RANDSEQ': (0.003, [0.0015, 0.0047]), 'Q2_ANTIKEY-ANTIMIX': (0.0026, [0.0015, 0.0039]), 'Q3_ANTIMIX-RANDSEQ': (0.0004, [-0.0008, 0.0018]), 'B1_HILL-RANDSEQ': (-0.3322, [-0.3427, -0.3207])}
+D 0.01 {'RANDSEQ': 0.9917, 'ORIG': 0.9922, 'ANTIKEY': 0.9972, 'ANTIMIX': 0.9925, 'HILL': 0.6693} {'P1_ORIG-RANDSEQ': (0.0005, [-0.0015, 0.0026]), 'Q1_ANTIKEY-RANDSEQ': (0.0055, [0.0031, 0.0086]), 'Q2_ANTIKEY-ANTIMIX': (0.0047, [0.0025, 0.0071]), 'Q3_ANTIMIX-RANDSEQ': (0.0008, [-0.0012, 0.0033]), 'B1_HILL-RANDSEQ': (-0.3224, [-0.3369, -0.3092])}
+done 0.01 457 s
+stego built 89 s; stats(test) {'ORIG': {'pvd_pairs': 3.6, 'lsb_pairs': 472.8, 'mse': 0.0304}, 'RANDSEQ': {'pvd_pairs': 2.1, 'lsb_pairs': 475.8, 'mse': 0.0298}, 'ANTIKEY': {'pvd_pairs': 0.3, 'lsb_pairs': 479.4, 'mse': 0.0294}, 'ANTIMIX': {'pvd_pairs': 0.3, 'lsb_pairs': 479.4, 'mse': 0.0294}, 'HILL': {'pvd_pairs': 0.0, 'lsb_pairs': 0.0, 'mse': 0.0071}} mix_infeasible 0 0
+A 0.02 {'RANDSEQ': 1.0, 'ORIG': 1.0, 'ANTIKEY': 1.0, 'ANTIMIX': 1.0, 'HILL': 0.8409} {'P1_ORIG-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q1_ANTIKEY-RANDSEQ': (0.0, [-0.0, 0.0]), 'Q2_ANTIKEY-ANTIMIX': (0.0, [-0.0, 0.0]), 'Q3_ANTIMIX-RANDSEQ': (0.0, [-0.0, 0.0]), 'B1_HILL-RANDSEQ': (-0.1591, [-0.1739, -0.1443])}
+D 0.02 {'RANDSEQ': 0.9999, 'ORIG': 1.0, 'ANTIKEY': 1.0, 'ANTIMIX': 0.9999, 'HILL': 0.8392} {'P1_ORIG-RANDSEQ': (0.0001, [-0.0001, 0.0001]), 'Q1_ANTIKEY-RANDSEQ': (0.0001, [0.0, 0.0002]), 'Q2_ANTIKEY-ANTIMIX': (0.0001, [0.0, 0.0003]), 'Q3_ANTIMIX-RANDSEQ': (0.0, [-0.0002, 0.0]), 'B1_HILL-RANDSEQ': (-0.1607, [-0.1806, -0.1428])}
+done 0.02 233 s
+DONE 0

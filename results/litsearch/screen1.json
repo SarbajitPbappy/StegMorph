@@ -1,0 +1,3282 @@
+{
+ "unique": 739,
+ "stego": 555,
+ "retained": [
+  {
+   "doi": "10.15373/22778179/oct2013/158",
+   "title": "Impact of the Nibble Substitution for Image Steganography - An Enhanced Lsb Algorithm",
+   "year": 2012,
+   "venue": "International Journal of Scientific Research",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.47709/cnahpc.v8i2.7930",
+   "title": "THE DESIGN OF A HYBRID LSB STEGANOGRAPHY FRAMEWORK WITH ADAPTIVE PIXEL SELECTION AND CHAOS ENCRYPTION FOR SOCIAL MEDIA IMAGES",
+   "year": 2026,
+   "venue": "Journal of Computer Networks, Architecture and High Performance Computing",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1155/2010/876946",
+   "title": "Improved Adaptive LSB Steganography Based on Chaos and Genetic Algorithm",
+   "year": 2010,
+   "venue": "EURASIP Journal on Advances in Signal Processing",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.5373/jardcs/v11/20192605",
+   "title": "Development of Optimized and Secure Routing Algorithm Using AODV, ACO and LSB Steganography for Mobile Ad-Hoc Network",
+   "year": 2019,
+   "venue": "Journal of Advanced Research in Dynamical and Control Systems",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1080/01611194.2019.1579122",
+   "title": "An adaptive color image steganography method using adjacent pixel value differencing and LSB substitution technique",
+   "year": 2019,
+   "venue": "Cryptologia",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.52866/2788-7421.1349",
+   "title": "Retraction Notice: A Novel Scheme to Optimize LSB Steganography Based on a Logistic Chaotic Map and Genetic Algorithm",
+   "year": 2026,
+   "venue": "Iraqi Journal for Computer Science and Mathematics",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.54097/ajst.v5i3.8017",
+   "title": "Research on the Improvement of LSB-based Image Steganography Algorithm",
+   "year": 2023,
+   "venue": "Academic Journal of Science and Technology",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-023-14420-2",
+   "title": "A novel encryption with bacterial foraging optimization algorithm based pixel selection scheme for video steganography",
+   "year": 2023,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1016/j.socl.2021.100021",
+   "title": "Image steganography using genetic algorithm for cover image selection and embedding",
+   "year": 2021,
+   "venue": "Soft Computing Letters",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/ecs.2015.7124769",
+   "title": "Ensemble of logistic maps with genetic algorithm for optimal pixel selection in image steganography",
+   "year": 2015,
+   "venue": "2015 2nd International Conference on Electronics and Communication Systems (ICECS)",
+   "queries": [
+    "Q1",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icnc.2013.6818208",
+   "title": "Steganalysis of AE-LSB steganography based on pixel value differencing",
+   "year": 2013,
+   "venue": "2013 Ninth International Conference on Natural Computation (ICNC)",
+   "queries": [
+    "Q1",
+    "Q3",
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/2998476.2998495",
+   "title": "Selection of Image Blocks using Genetic Algorithm and Effective Embedding with DCT for Steganography",
+   "year": 2016,
+   "venue": "Proceedings of the 9th Annual ACM India Conference",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/pic.2015.7489923",
+   "title": "Adaptive image steganography based on pixel selection",
+   "year": 2015,
+   "venue": "2015 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+   "queries": [
+    "Q1",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icriset64803.2025.11251896",
+   "title": "Beta Elliptic Modeling with Optimal Pixel Selection for Image Steganography Technique using Genetic and Type-2 Fuzzy Logic System",
+   "year": 2025,
+   "venue": "2025 International Conference on Recent Innovation in Science Engineering and Technology (ICRISET)",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/iciaai68486.2026.11762009",
+   "title": "Multi-Objective vs Single-Objective Genetic Algorithms for LSB Steganography: A Comparative Analysis",
+   "year": 2026,
+   "venue": "2026 1st International Conference on Innovations and Applications of Artificial Intelligence (ICIAAI)",
+   "queries": [
+    "Q1",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/kam.2010.5646209",
+   "title": "Protect fragile regions in steganography LSB embedding",
+   "year": 2010,
+   "venue": "2010 Third International Symposium on Knowledge Acquisition and Modeling",
+   "queries": [
+    "Q1",
+    "Q2",
+    "Q4",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/iciscois56541.2023.10100500",
+   "title": "Improving security using Swarm intelligence based optimal pixel selection in Image steganography-A Study",
+   "year": 2023,
+   "venue": "2023 International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)",
+   "queries": [
+    "Q1",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icecce47252.2019.8940677",
+   "title": "An Adaptive Pixel Selection Method based on Block-Complexity Estimation for Quality Enhanced Steganography",
+   "year": 2019,
+   "venue": "2019 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.1109/aisp.2012.6313713",
+   "title": "A more secure steganography method based on pair-wise LSB matching via a quantum gravitational search algorithm",
+   "year": 2012,
+   "venue": "The 16th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP 2012)",
+   "queries": [
+    "Q1",
+    "Q4",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/1741906.1742139",
+   "title": "Adaptive enhanced digital audio steganography using wavelets with secure optimum pixel adjustment algorithm",
+   "year": 2010,
+   "venue": "Proceedings of the International Conference and Workshop on Emerging Trends in Technology",
+   "queries": [
+    "Q1"
+   ]
+  },
+  {
+   "doi": "10.22266/ijies2024.0229.67",
+   "title": "Image Steganography Based on Hybrid Salp Swarm Algorithm and Particle Swarm Optimization",
+   "year": 2024,
+   "venue": "International Journal of Intelligent Engineering and Systems",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.14419/ijet.v7i2.24.12139",
+   "title": "An Image Steganography using Particle Swarm Optimization and Transform Domain",
+   "year": 2018,
+   "venue": "International Journal of Engineering &amp; Technology",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.24237/djps.1403.443a",
+   "title": "Internet Protocol (IP) Steganography Using Modified Particle Swarm Optimization (MPSO) Algorithm",
+   "year": 2018,
+   "venue": "Diyala Journal For Pure Science",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.5120/ijca2017913686",
+   "title": "Optimizing Image Steganography using Particle Swarm Optimization Algorithm",
+   "year": 2017,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1016/j.swevo.2022.101069",
+   "title": "Single-particle optimization for network embedding preserving both local and global information",
+   "year": 2022,
+   "venue": "Swarm and Evolutionary Computation",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.5120/8727-2602",
+   "title": "Least Significant Bit Image Steganography using Particle Swarm Optimization and Optical Pixel Adjustment",
+   "year": 2012,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q2",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1007/s42452-026-08602-4",
+   "title": "Parameter optimized edge guided image steganography using variable bit LSB embedding for high capacity and visual fidelity",
+   "year": 2026,
+   "venue": "Discover Applied Sciences",
+   "queries": [
+    "Q2",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.5121/ijci.2026.150121",
+   "title": "LIGHTWEIGHT CNN AND LSB STEGANOGRAPHY FOR SECURE METADATA EMBEDDING IN UAV COMMUNICATION",
+   "year": 2026,
+   "venue": "International Journal on Cybernetics &amp; Informatics",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1016/j.aej.2017.09.005",
+   "title": "A sparse representation based image steganography using Particle Swarm Optimization and wavelet transform",
+   "year": 2018,
+   "venue": "Alexandria Engineering Journal",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1515/phys-2016-0052",
+   "title": "Application of Genetic Algorithm and Particle Swarm Optimization techniques for improved image steganography systems",
+   "year": 2016,
+   "venue": "Open Physics",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1002/cpe.5448",
+   "title": "JPEG steganography with particle swarm optimization accelerated by AVX",
+   "year": 2019,
+   "venue": "Concurrency and Computation: Practice and Experience",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2020.3040335",
+   "title": "VNE-HPSO: Virtual Network Embedding Algorithm Based on Hybrid Particle Swarm Optimization",
+   "year": 2020,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.14569/ijacsa.2015.060405",
+   "title": "Memetic Multi-Objective Particle Swarm Optimization-Based Energy-Aware Virtual Network Embedding",
+   "year": 2015,
+   "venue": "International Journal of Advanced Computer Science and Applications",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1155/2021/6679284",
+   "title": "A High-Capacity Image Steganography Method Using Chaotic Particle Swarm Optimization",
+   "year": 2021,
+   "venue": "Security and Communication Networks",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2019.2949622",
+   "title": "New Method of Image Steganography Based on Particle Swarm Optimization Algorithm in Spatial Domain for High Embedding Capacity",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.63180/jcsra.thestap.2026.2.1",
+   "title": "Robust Image Steganography against Differential Attacks Using GA-Optimized LSB Embedding",
+   "year": 2026,
+   "venue": "Journal of Cyber Security and Risk Auditing",
+   "queries": [
+    "Q2",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s00521-022-07830-0",
+   "title": "A robust medical image steganography approach based on particle swarm optimization algorithm and quantum walks",
+   "year": 2022,
+   "venue": "Neural Computing and Applications",
+   "queries": [
+    "Q2",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.70382/hijcisr.v11i9.052",
+   "title": "A REVIEW ON IMAGE STEGANOGRAPHY FOR DATA SECURITY USING TRANSFORM DOMAIN AND PARTICLE SWARM OPTIMIZATION (PSO)",
+   "year": 2026,
+   "venue": "International Journal of Convergent and Informatics Science Research",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1016/j.patcog.2024.110453",
+   "title": "Graph embedding orthogonal decomposition: A synchronous feature selection technique based on collaborative particle swarm optimization",
+   "year": 2024,
+   "venue": "Pattern Recognition",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/anti-cybercrime.2017.7905277",
+   "title": "Application of wavelet and particle swarm optimization in steganography",
+   "year": 2017,
+   "venue": "2017 2nd International Conference on Anti-Cyber Crimes (ICACC)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/aisp.2012.6313773",
+   "title": "Image steganography based on pixel ranking and Particle Swarm Optimization",
+   "year": 2012,
+   "venue": "The 16th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP 2012)",
+   "queries": [
+    "Q2",
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1063/5.0136064",
+   "title": "Image steganography using LSB embedding and edge adaptive approach",
+   "year": 2023,
+   "venue": "AIP Conference Proceedings",
+   "queries": [
+    "Q2",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/cec45853.2021.9504703",
+   "title": "Knowledge Embedding-Assisted Multi-Exemplar Learning Particle Swarm Optimization for Traffic Signal Timing Optimization",
+   "year": 2021,
+   "venue": "2021 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/cec48606.2020.9185524",
+   "title": "One-stage and Dual-heuristic Particle Swarm optimization for Virtual Network Embedding",
+   "year": 2020,
+   "venue": "2020 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/ickecs65700.2025.11035683",
+   "title": "MediCrypt: NROI-based LSB and DCT Embedding for Medical Image Steganography",
+   "year": 2025,
+   "venue": "2025 International Conference on Knowledge Engineering and Communication Systems (ICKECS)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1145/2905055.2905059",
+   "title": "Increase of Capacity and Quality of Frequency Based Image Steganography Using Particle Swarm Optimization",
+   "year": 2016,
+   "venue": "Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/inm.2015.7140379",
+   "title": "Particle swarm optimization based multi-domain virtual network embedding",
+   "year": 2015,
+   "venue": "2015 IFIP/IEEE International Symposium on Integrated Network Management (IM)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/blackseacom58138.2023.10299780",
+   "title": "Particle Swarm Optimization-Enhanced Virtual Multicast Trees Embedding in SDNs",
+   "year": 2023,
+   "venue": "2023 IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1049/cp.2013.2568",
+   "title": "An efficient data embedding scheme for digital images based on particle swarm optimization with LSBMR",
+   "year": 2013,
+   "venue": "Third International Conference on Computational Intelligence and Information Technology (CIIT 2013)",
+   "queries": [
+    "Q2"
+   ]
+  },
+  {
+   "doi": "10.1109/iccnct68477.2026.11590142",
+   "title": "Perceptually Guided and Security-Enhanced Image Steganography using Adaptive LSB Embedding and Hybrid Chaotic Encryption",
+   "year": 2026,
+   "venue": "2026 International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT)",
+   "queries": [
+    "Q2",
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/lsp.2023.3300792",
+   "title": "Image Steganalysis Against Adversarial Steganography by Combining Confidence and Pixel Artifacts",
+   "year": 2023,
+   "venue": "IEEE Signal Processing Letters",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1007/s12553-018-00289-x",
+   "title": "Secure medical image steganography through optimal pixel selection by EH-MB pipelined optimization technique",
+   "year": 2019,
+   "venue": "Health and Technology",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2017.2682703",
+   "title": "Pixel-Decimation-Assisted Steganalysis of Synchronize-Embedding-Changes Steganography",
+   "year": 2017,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q3",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jisa.2024.103835",
+   "title": "Improving image steganography security via ensemble steganalysis and adversarial perturbation minimization",
+   "year": 2024,
+   "venue": "Journal of Information Security and Applications",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1080/23742917.2024.2304441",
+   "title": "Steganography and steganalysis for digital image enhanced Forensic analysis and recommendations",
+   "year": 2024,
+   "venue": "Journal of Cyber Security Technology",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2012.2229987",
+   "title": "Pixel Group Trace Model-Based Quantitative Steganalysis for Multiple Least-Significant Bits Steganography",
+   "year": 2013,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1016/j.compeleceng.2023.108725",
+   "title": "An adversarial learning based image steganography with security improvement against neural network steganalysis",
+   "year": 2023,
+   "venue": "Computers and Electrical Engineering",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1186/s42400-025-00423-z",
+   "title": "On improving steganalysis against cover selection steganography",
+   "year": 2025,
+   "venue": "Cybersecurity",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.69490/j-2026-0120.2026.120",
+   "title": "An Extensive Analysis of Statistical Steganalysis Methods for LSB Image Steganography and Their Developments and Uses",
+   "year": 2026,
+   "venue": "NFSU Journal of Cyber Security Digital Forensic",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.56726/irjmets84250",
+   "title": "IMAGE ENCRYPTION USING STEGANOGRAPHY AND STEGANALYSIS",
+   "year": 2026,
+   "venue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.47392/irjash.2025.034",
+   "title": "Efficient Net with Adaptive Siberian Tiger Optimization Based Image Steganography and Steganalysis for Biometric Image",
+   "year": 2025,
+   "venue": "International Research Journal on Advanced Science Hub",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jisa.2016.04.001",
+   "title": "Steganalysis based on steganography pattern discovery",
+   "year": 2016,
+   "venue": "Journal of Information Security and Applications",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1016/j.asoc.2022.109847",
+   "title": "Comparative study of metaheuristic optimization algorithms for image steganography based on discrete Fourier transform domain",
+   "year": 2023,
+   "venue": "Applied Soft Computing",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.3233/ifs-131111",
+   "title": "A new metaheuristic feature subset selection approach for image steganalysis",
+   "year": 2014,
+   "venue": "Journal of Intelligent &amp; Fuzzy Systems",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2019.2955113",
+   "title": "Towards Improved Steganalysis: When Cover Selection is Used in Steganography",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1002/wics.152",
+   "title": "Image steganography and steganalysis",
+   "year": 2011,
+   "venue": "WIREs Computational Statistics",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.14232/actacyb.279174",
+   "title": "An Information Theoretic Image Steganalysis for LSB Steganography",
+   "year": 2020,
+   "venue": "Acta Cybernetica",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.58496/mjcsc/2025/027",
+   "title": "A Review of Image Steganography Based on Metaheuristic Optimization Algorithms",
+   "year": 2025,
+   "venue": "Mesopotamian Journal of Computer Science",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.12785/ijcds/050505",
+   "title": "Apply Bee Colony Optimization for Image Steganography with Optical Pixel Adjustment",
+   "year": 2016,
+   "venue": "International Journal of Computing and Digital Systems",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1007/s10489-017-0989-x",
+   "title": "Image steganalysis using improved particle swarm optimization based feature selection",
+   "year": 2017,
+   "venue": "Applied Intelligence",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1504/ijahuc.2025.10074591",
+   "title": "Biometric image-based Image Steganography and Steganalysis using EQC-Net",
+   "year": 2025,
+   "venue": "International Journal of Ad Hoc and Ubiquitous Computing",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1186/s13634-021-00797-5",
+   "title": "Statistical feature-based steganalysis for pixel-value differencing steganography",
+   "year": 2021,
+   "venue": "EURASIP Journal on Advances in Signal Processing",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2024.3486027",
+   "title": "Color Image Steganalysis Based on Pixel Difference Convolution and Enhanced Transformer With Selective Pooling",
+   "year": 2024,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1016/j.procs.2016.03.042",
+   "title": "Statistical Steganalysis of High Capacity Image Steganography with Cryptography",
+   "year": 2016,
+   "venue": "Procedia Computer Science",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5120/8171-1484",
+   "title": "Image Steganography and Steganalysis: A Survey",
+   "year": 2012,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.4015/s1016237224500479",
+   "title": "AN APPROACH FOR IMAGE STEGANOGRAPHY AND STEGANALYSIS USING REGRESSIVE STUDENT PSYCHOLOGY OPTIMIZATION-ENABLED DEEP MAX-OUT NETWORK",
+   "year": 2024,
+   "venue": "Biomedical Engineering: Applications, Basis and Communications",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3837/tiis.2020.03.017",
+   "title": "A Survey on Deep Convolutional Neural Networks for Image Steganography and Steganalysis",
+   "year": 2020,
+   "venue": "KSII Transactions on Internet and Information Systems",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1016/j.aej.2023.05.051",
+   "title": "Image steganography technique based on bald eagle search optimal pixel selection with chaotic encryption",
+   "year": 2023,
+   "venue": "Alexandria Engineering Journal",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1515/comp-2020-0136",
+   "title": "Digital image steganography and steganalysis: A journey of the past three decades",
+   "year": 2020,
+   "venue": "Open Computer Science",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tmm.2010.2051243",
+   "title": "A Framework of Enhancing Image Steganography With Picture Quality Optimization and Anti-Steganalysis Based on Simulated Annealing Algorithm",
+   "year": 2010,
+   "venue": "IEEE Transactions on Multimedia",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.12733/jics20102403",
+   "title": "On Optimal Feature Selection Using Intelligent Optimization Methods for Image Steganalysis",
+   "year": 2013,
+   "venue": "Journal of Information and Computational Science",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1016/j.cose.2012.11.005",
+   "title": "LSB matching steganalysis based on patterns of pixel differences and random embedding",
+   "year": 2013,
+   "venue": "Computers &amp; Security",
+   "queries": [
+    "Q3",
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1016/j.displa.2026.103597",
+   "title": "Image steganography against generalization-attack-based steganalysis",
+   "year": 2026,
+   "venue": "Displays",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1504/ijahuc.2025.150221",
+   "title": "Biometric image-based Image steganography and steganalysis using EQC-Net",
+   "year": 2025,
+   "venue": "International Journal of Ad Hoc and Ubiquitous Computing",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3390/app122110793",
+   "title": "Steganalysis of Context-Aware Image Steganography Techniques Using Convolutional Neural Network",
+   "year": 2022,
+   "venue": "Applied Sciences",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2025.3539089",
+   "title": "Mutual Information-Optimized Steganalysis for Generative Steganography",
+   "year": 2025,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q3",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jvcir.2023.104024",
+   "title": "Chronological Gazelle Optimization with Deep Learning-Based pixel prediction for video steganography in H.264 video for defence applications",
+   "year": 2024,
+   "venue": "Journal of Visual Communication and Image Representation",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1049/iet-ifs.2009.0080",
+   "title": "Steganalysis of JPEG steganography with complementary embedding strategy",
+   "year": 2011,
+   "venue": "IET Information Security",
+   "queries": [
+    "Q3",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1002/sec.1094",
+   "title": "Digital image steganalysis based on local textural features and double dimensionality reduction",
+   "year": 2014,
+   "venue": "Security and Communication Networks",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jvcir.2014.10.003",
+   "title": "Binary image steganalysis based on pixel mesh Markov transition matrix",
+   "year": 2015,
+   "venue": "Journal of Visual Communication and Image Representation",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1117/1.3463021",
+   "title": "Histogram estimation-scheme-based steganalysis defeating the steganography using pixel-value differencing and modulus function",
+   "year": 2010,
+   "venue": "Optical Engineering",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1007/s13369-021-05554-2",
+   "title": "Chi-square-based steganalysis method against modified pixel-value differencing steganography",
+   "year": 2021,
+   "venue": "Arabian Journal for Science and Engineering",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1002/sec.1676",
+   "title": "Adaptive block\u2010based pixel value differencing steganography",
+   "year": 2016,
+   "venue": "Security and Communication Networks",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-022-13931-8",
+   "title": "Information theoretic steganalysis of processed image LSB steganography",
+   "year": 2022,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2012.6467063",
+   "title": "Targeted steganalysis of adaptive pixel-value differencing steganography",
+   "year": 2012,
+   "venue": "2012 19th IEEE International Conference on Image Processing",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/ares.2010.66",
+   "title": "Blind Steganalysis: A Countermeasure for Binary Image Steganography",
+   "year": 2010,
+   "venue": "2010 International Conference on Availability, Reliability and Security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/comnetsat53002.2021.9530784",
+   "title": "Steganalysis of Adaptive Image Steganography using Convolution Neural Network and Blocks Selection",
+   "year": 2021,
+   "venue": "2021 IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icitcom70739.2026.11714395",
+   "title": "Security Evaluation of U-Net-Based Image Steganography Against SRNet Steganalysis Attacks",
+   "year": 2026,
+   "venue": "2026 International Conference on Information Technology and Computing (ICITCOM)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3252057",
+   "title": "Session details: Steganography and steganalysis",
+   "year": 2010,
+   "venue": "Proceedings of the 12th ACM workshop on Multimedia and security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/cis52066.2020.00025",
+   "title": "Technology of Image Steganography and Steganalysis Based on Adversarial Training",
+   "year": 2020,
+   "venue": "2020 16th International Conference on Computational Intelligence and Security (CIS)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3344340",
+   "title": "Session: Methods for Steganography and Steganalysis",
+   "year": 2019,
+   "venue": "Proceedings of the ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/cisp.2011.6099953",
+   "title": "Steganography and steganalysis based on digital image",
+   "year": 2011,
+   "venue": "2011 4th International Congress on Image and Signal Processing",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1145/3252238",
+   "title": "Session details: Media Steganography and Steganalysis",
+   "year": 2015,
+   "venue": "Proceedings of the 3rd ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1145/3285941",
+   "title": "Session details: Steganography, Steganalysis, and Watermarking",
+   "year": 2018,
+   "venue": "Proceedings of the 2nd International Workshop on Multimedia Privacy and Security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icdh.2012.28",
+   "title": "Particle Swarm Optimization Feature Selection for Image Steganalysis",
+   "year": 2012,
+   "venue": "2012 Fourth International Conference on Digital Home",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icssit53264.2022.9716314",
+   "title": "Image Steganography using Pixel Value Differencing with Modulus Function and Optimization",
+   "year": 2022,
+   "venue": "2022 4th International Conference on Smart Systems and Inventive Technology (ICSSIT)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/rios.2016.7529499",
+   "title": "Particle Swarm Optimization based feature selection with novel fitness function for image steganalysis",
+   "year": 2016,
+   "venue": "2016 Artificial Intelligence and Robotics (IRANOPEN)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/redundancy52534.2021.9606459",
+   "title": "On the Efficiency of Metaheuristic Optimization for Adaptive Image Steganography in the DFT Domain",
+   "year": 2021,
+   "venue": "2021 XVII International Symposium \"Problems of Redundancy in Information and Control Systems\" (REDUNDANCY)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1145/2037252.2037267",
+   "title": "Steganalysis of DCT-embedding based adaptive steganography and YASS",
+   "year": 2011,
+   "venue": "Proceedings of the thirteenth ACM multimedia workshop on Multimedia and security",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/3267357.3285941",
+   "title": "Session details: Steganography, Steganalysis, and Watermarking",
+   "year": 2018,
+   "venue": "Proceedings of the 2nd International Workshop on Multimedia Privacy and Security  - MPS '18",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icrito.2018.8748522",
+   "title": "Feature Selection using Mutual Information and Adaptive Particle Swarm Optimization for Image Steganalysis",
+   "year": 2018,
+   "venue": "2018 7th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/imns67862.2026.11655295",
+   "title": "Evaluating Multimodal Steganalysis for Split-Payload Audiovisual Steganography",
+   "year": 2026,
+   "venue": "2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/punecon67554.2025.11378501",
+   "title": "Decoding Hidden Communication: Image Steganography and Steganalysis via Feature Extraction",
+   "year": 2025,
+   "venue": "2025 IEEE Pune Section International Conference (PuneCon)",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/ic2e365635.2025.11167861",
+   "title": "Steganalysis of Image Steganography using Machine Learning",
+   "year": 2025,
+   "venue": "2025 IEEE International Conference on Computer, Electronics, Electrical Engineering &amp;amp; their Applications (IC2E3)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3335203.3344340",
+   "title": "Session details: Session: Methods for Steganography and Steganalysis",
+   "year": 2019,
+   "venue": "Proceedings of the ACM Workshop on Information Hiding and Multimedia Security  - IH&amp;MMSec'19",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/cerma.2010.115",
+   "title": "A New Methodology of Image Steganalysis Including for JPEG Steganography",
+   "year": 2010,
+   "venue": "2010 IEEE Electronics, Robotics and Automotive Mechanics Conference",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3245189",
+   "title": "Session details: Moving steganography and steganalysis from the laboratory to the real world",
+   "year": 2013,
+   "venue": "Proceedings of the first ACM workshop on Information hiding and multimedia security",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3531536.3532951",
+   "title": "Detector-Informed Batch Steganography and Pooled Steganalysis",
+   "year": 2022,
+   "venue": "Proceedings of the 2022 ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2014.7026115",
+   "title": "Improved steganalysis algorithm against motion vector based video steganography",
+   "year": 2014,
+   "venue": "2014 IEEE International Conference on Image Processing (ICIP)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icscsa64454.2024.00080",
+   "title": "Pixel Similarity-Based Steganography in Bit Planes: An Optimization-Driven Approach",
+   "year": 2024,
+   "venue": "2024 4th International Conference on Soft Computing for Security Applications (ICSCSA)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/iccpct61902.2024.10673401",
+   "title": "Deep Convolutional Q-Learning system and VGG-16 steganalysis detector for image Steganography",
+   "year": 2024,
+   "venue": "2024 7th International Conference on Circuit Power and Computing Technologies (ICCPCT)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3658664.3659645",
+   "title": "Exploring Diffusion-Inspired Pixel Predictors for WS Steganalysis",
+   "year": 2024,
+   "venue": "Proceedings of the 2024 ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/icsip57908.2023.10271038",
+   "title": "Steganalysis by Codeword Error Bits Run-length against Coding Channel Steganography",
+   "year": 2023,
+   "venue": "2023 8th International Conference on Signal and Image Processing (ICSIP)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2017.8296333",
+   "title": "Rethinking the high capacity 3D steganography: Increasing its resistance to steganalysis",
+   "year": 2017,
+   "venue": "2017 IEEE International Conference on Image Processing (ICIP)",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/ncetacs.2012.6203297",
+   "title": "A short survey on image steganography and steganalysis techniques",
+   "year": 2012,
+   "venue": "2012 3rd National Conference on Emerging Trends and Applications in Computer Science",
+   "queries": [
+    "Q3",
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/2499788.2499821",
+   "title": "Steganalysis of F5-like steganography based on selection of joint distribution features",
+   "year": 2013,
+   "venue": "Proceedings of the Fifth International Conference on Internet Multimedia Computing and Service",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1145/3577163.3595100",
+   "title": "Calibration-based Steganalysis for Neural Network Steganography",
+   "year": 2023,
+   "venue": "Proceedings of the 2023 ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1145/2756601.2756608",
+   "title": "Steganalysis of Adaptive JPEG Steganography Using 2D Gabor Filters",
+   "year": 2015,
+   "venue": "Proceedings of the 3rd ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q3",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/iciip.2017.8313750",
+   "title": "Steganalysis of videos using energy associated with each pixel",
+   "year": 2017,
+   "venue": "2017 Fourth International Conference on Image Information Processing (ICIIP)",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/ccnc.2010.5421805",
+   "title": "Towards Genetic Feature Selection in Image Steganalysis",
+   "year": 2010,
+   "venue": "2010 7th IEEE Consumer Communications and Networking Conference",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1117/12.905753",
+   "title": "Optimizing pixel predictors for steganalysis",
+   "year": 2012,
+   "venue": "SPIE Proceedings",
+   "queries": [
+    "Q3"
+   ]
+  },
+  {
+   "doi": "10.1109/tsp.2016.7760925",
+   "title": "Image-adaptive steganalysis for LSB Matching steganography",
+   "year": 2016,
+   "venue": "2016 39th International Conference on Telecommunications and Signal Processing (TSP)",
+   "queries": [
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2019.2960254",
+   "title": "An Adaptive Image Steganography Method Based on Histogram of Oriented Gradient and PVD-LSB Techniques",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1038/s41598-025-33920-9",
+   "title": "Content-adaptive LSB steganography with saliency fusion, ACO dispersion, and hybrid encryption with ablation study",
+   "year": 2025,
+   "venue": "Scientific Reports",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.3390/asi8040107",
+   "title": "Hybrid CNN-NLP Model for Detecting LSB Steganography in Digital Images",
+   "year": 2025,
+   "venue": "Applied System Innovation",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.14569/ijacsa.2017.080843",
+   "title": "A Hybrid Curvelet Transform and Genetic Algorithm for Image Steganography",
+   "year": 2017,
+   "venue": "International Journal of Advanced Computer Science and Applications",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.33330/jurteksi.v12i4.4625",
+   "title": "HYBRID SECURE STEGANOGRAPHY: CHACHA20-POLY1305, EDGE-ADAPTIVE LSB, AND INTEGRITY VERIFICATION",
+   "year": 2026,
+   "venue": "JURTEKSI (jurnal Teknologi dan Sistem Informasi)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/icoei.2019.8862579",
+   "title": "Adaptive LSB substitution Steganography technique based on PVD",
+   "year": 2019,
+   "venue": "2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/dt.2017.8012137",
+   "title": "A hybrid image steganography method based on genetic algorithm",
+   "year": 2017,
+   "venue": "2017 International Conference on Information and Digital Technologies (IDT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/acit68900.2025.11510668",
+   "title": "A Hybrid Multimedia Steganography Framework with Genetic Algorithm Optimization and Machine Learning-Based Packet Manipulation Detection",
+   "year": 2025,
+   "venue": "2025 26th International Arab Conference on Information Technology (ACIT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/setit.2016.7939903",
+   "title": "A Hybrid Image steganography method based on genetic algorithm",
+   "year": 2016,
+   "venue": "2016 7th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications (SETIT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1117/12.3091484",
+   "title": "ECC-enhanced hybrid texture-adaptive LSB steganography for secure image transmission",
+   "year": 2025,
+   "venue": "International Workshop on Automation, Control, and Communication Engineering (IWACCE 2025)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/cscita.2017.8066539",
+   "title": "Role of genetic algorithm in performance improvement of image steganography combined with transform and its hybrid wavelet",
+   "year": 2017,
+   "venue": "2017 2nd International Conference on Communication Systems, Computing and IT Applications (CSCITA)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/icerect65215.2025.11377957",
+   "title": "Hybrid Statistical and Deep Feature-Based Detection of Steganography in DCT and LSB Domains",
+   "year": 2025,
+   "venue": "2025 5th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/tqcebt67648.2026.11681016",
+   "title": "A Hybrid Method for Secure Image Steganography and Detection Using Encryption, LSB, and CNN",
+   "year": 2026,
+   "venue": "2026 International Conference on Trends in Quantum Computing and Emerging Business Technologies (TQCEBT)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/mi-sta61267.2024.10599686",
+   "title": "An Effect of Huffman Encoding with Hybrid Edge Detection in LSB Image Steganography",
+   "year": 2024,
+   "venue": "2024 IEEE 4th International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/ism.2020.00026",
+   "title": "Audio Steganography Algorithm Based on Genetic Algorithm for MDCT Coefficient Adjustment for AAC",
+   "year": 2020,
+   "venue": "2020 IEEE International Symposium on Multimedia (ISM)",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1109/iccinda.2011.6146670",
+   "title": "A Genetic Algorithm based steganography in frequency domain (GASFD)",
+   "year": 2011,
+   "venue": "2011 International Conference on Communication and Industrial Application",
+   "queries": [
+    "Q4"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-018-6473-8",
+   "title": "Revisiting weighted Stego-image Steganalysis for PVD steganography",
+   "year": 2018,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1016/j.heliyon.2024.e40511",
+   "title": "WITHDRAWN: High Capacity Adaptive Block-Based Color Image Steganography and Human Perception-Guided Steganalysis",
+   "year": 2024,
+   "venue": "Heliyon",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.sigpro.2013.03.029",
+   "title": "Steganalysis of a PVD-based content adaptive image steganography",
+   "year": 2013,
+   "venue": "Signal Processing",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.sigpro.2020.107920",
+   "title": "Adversarial batch image steganography against CNN-based pooled steganalysis",
+   "year": 2021,
+   "venue": "Signal Processing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2020.3033814",
+   "title": "A Preprocessing by Using Multiple Steganography for Intentional Image Downsampling on CNN-Based Steganalysis",
+   "year": 2020,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1504/ijict.2015.070300",
+   "title": "A comprehensive study on image steganography and steganalysis techniques",
+   "year": 2015,
+   "venue": "International Journal of Information and Communication Technology",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3923/itj.2012.566.576",
+   "title": "Random Image Steganography and Steganalysis: Present Status and Future Directions",
+   "year": 2012,
+   "venue": "Information Technology Journal",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3724/sp.j.1087.2011.00956",
+   "title": "Steganalysis for JPEG MB2 steganography based on histogram differentiation random sequence",
+   "year": 2011,
+   "venue": "Journal of Computer Applications",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s10773-016-3001-3",
+   "title": "Quantum Image Steganography and Steganalysis Based On LSQu-Blocks Image Information Concealing Algorithm",
+   "year": 2016,
+   "venue": "International Journal of Theoretical Physics",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.14445/22315381/ijett-v71i11p229",
+   "title": "Digital Image Steganography and Steganalysis: A Comprehensive Review of Evolution of Advanced Techniques",
+   "year": 2023,
+   "venue": "International Journal of Engineering Trends and Technology",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.9790/2834-0815660",
+   "title": "A Survey on Digital Image Steganography and Steganalysis",
+   "year": 2013,
+   "venue": "IOSR Journal of Electronics and Communication Engineering",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1117/1.jei.21.3.033015",
+   "title": "Image textural features for steganalysis of spatial domain steganography",
+   "year": 2012,
+   "venue": "Journal of Electronic Imaging",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jvcir.2026.105012",
+   "title": "Semantic-invariant steganalysis for generative steganography via trace disentanglement and prototype-guided meta-learning",
+   "year": 2027,
+   "venue": "Journal of Visual Communication and Image Representation",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1117/1.jei.33.1.011001",
+   "title": "Special Section Guest Editorial: Real-Time Image Steganography and Steganalysis",
+   "year": 2024,
+   "venue": "Journal of Electronic Imaging",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.11591/ijict.v10i3.pp188-197",
+   "title": "Forensic steganalysis for identification of steganography software tools using multiple format image",
+   "year": 2021,
+   "venue": "International Journal of Informatics and Communication Technology (IJ-ICT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jvcir.2023.103995",
+   "title": "An anti-steganalysis adaptive steganography for HEVC video based on PU partition modes",
+   "year": 2024,
+   "venue": "Journal of Visual Communication and Image Representation",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1371/journal.pone.0308807",
+   "title": "Image steganography techniques for resisting statistical steganalysis attacks: A systematic literature review",
+   "year": 2024,
+   "venue": "PLOS ONE",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/lsp.2012.2194702",
+   "title": "Targeted Steganalysis of Edge Adaptive Image Steganography Based on LSB Matching Revisited Using B-Spline Fitting",
+   "year": 2012,
+   "venue": "IEEE Signal Processing Letters",
+   "queries": [
+    "Q5",
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-010-0663-3",
+   "title": "Steganalysis of adaptive image steganography in multiple gray code bit-planes",
+   "year": 2010,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.46253/j.mr.v2i3.a3",
+   "title": "Enhanced Whale Optimization Algorithm and Wavelet Transform for Image Steganography",
+   "year": 2019,
+   "venue": "Multimedia Research",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5120/ijca2019918917",
+   "title": "Steganography and Steganalysis through XMP",
+   "year": 2019,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1166/jctn.2020.9170",
+   "title": "A Survey on Digital Image Steganography and Steganalysis",
+   "year": 2020,
+   "venue": "Journal of Computational and Theoretical Nanoscience",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2020.2978110",
+   "title": "A New Convolutional Neural Network-Based Steganalysis Method for Content-Adaptive Image Steganography in the Spatial Domain",
+   "year": 2020,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.53508/ijiam.1243912",
+   "title": "Steganalysis of Chat Based Steganography",
+   "year": 2023,
+   "venue": "International Journal of Informatics and Applied Mathematics",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2022.3165031",
+   "title": "Quantized Gaussian JPEG Steganography and Pool Steganalysis",
+   "year": 2022,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1561/116.20240038",
+   "title": "A Comprehensive Survey of Digital Image Steganography and Steganalysis",
+   "year": 2024,
+   "venue": "APSIPA Transactions on Signal and Information Processing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/tdsc.2024.3521424",
+   "title": "Highly Robust and Diverse Coverless Image Steganography Against Passive and Active Steganalysis",
+   "year": 2025,
+   "venue": "IEEE Transactions on Dependable and Secure Computing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3837/tiis.2017.01.029",
+   "title": "Optimal Gabor Filters for Steganalysis of Content-Adaptive JPEG Steganography",
+   "year": 2016,
+   "venue": "KSII Transactions on Internet and Information Systems",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.sigpro.2019.107422",
+   "title": "Towards feature representation for steganalysis of spatial steganography",
+   "year": 2020,
+   "venue": "Signal Processing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.47893/ijess.2012.1032",
+   "title": "Steganography and Steganalysis : Different Approaches",
+   "year": 2012,
+   "venue": "International Journal of Electronics Signals and Systems",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.3390/s21041032",
+   "title": "Steganography and Steganalysis in Voice over IP: A Review",
+   "year": 2021,
+   "venue": "Sensors",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.9734/jamcs/2019/v31i530124",
+   "title": "Scrutiny of Steganalysis for Flipping Steganography Method",
+   "year": 2019,
+   "venue": "Journal of Advances in Mathematics and Computer Science",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5573/ieiespc.2016.5.4.250",
+   "title": "An Image Steganography Scheme based on LSB++ and RHTF for Resisting Statistical Steganalysis",
+   "year": 2016,
+   "venue": "IEIE Transactions on Smart Processing and Computing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.21090/ijaerd.030313",
+   "title": "IMPLEMENTATION OF VARIOUS TECHNIQUES IN STEGANOGRAPHY AND STEGANALYSIS",
+   "year": 2016,
+   "venue": "International Journal of Advance Engineering and Research Development",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.4028/www.scientific.net/amr.998-999.1138",
+   "title": "Domain Adaptation for Video Steganalysis against Motion Vector Based Steganography",
+   "year": 2014,
+   "venue": "Advanced Materials Research",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1016/j.neucom.2018.06.005",
+   "title": "Steganalysis of joint codeword quantization index modulation steganography based on codeword Bayesian network",
+   "year": 2018,
+   "venue": "Neurocomputing",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/iccmc56507.2023.10083698",
+   "title": "A Competent Medical Image Steganography using Improved Optimization Algorithm with Huffman Encoding Techniques",
+   "year": 2023,
+   "venue": "2023 7th International Conference on Computing Methodologies and Communication (ICCMC)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/snpd.2016.7515970",
+   "title": "Steganalysis of JPEG image-based steganography with support vector machine",
+   "year": 2016,
+   "venue": "2016 17th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/iwbf.2017.7935103",
+   "title": "Compact image steganalysis for LSB-matching steganography",
+   "year": 2017,
+   "venue": "2017 5th International Workshop on Biometrics and Forensics (IWBF)",
+   "queries": [
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/iciteics64870.2025.11341325",
+   "title": "Use-Case-Oriented Hybrid Encoding Pipelines for Robust Image Steganography Under AI-Based Steganalysis",
+   "year": 2025,
+   "venue": "2025 IEEE 2nd International Conference on Information Technology, Electronics and Intelligent Communication Systems (ICITEICS)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5220/0012366800003636",
+   "title": "A Novel Image Steganography Method Based on Spatial Domain with War Strategy Optimization and Reed Solomon Model",
+   "year": 2024,
+   "venue": "Proceedings of the 16th International Conference on Agents and Artificial Intelligence",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.5220/0014195000004932",
+   "title": "Medical Image Steganography with Cryptographic Encryption Optimized by Using Double Huffman Algorithm",
+   "year": 2025,
+   "venue": "Proceedings of the 1st International Conference on Intelligent Methods and Advanced Computer Scientific Innovations",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/radioelek.2013.6530948",
+   "title": "Performance evaluation of feature-based steganalysis in steganography",
+   "year": 2013,
+   "venue": "2013 23rd International Conference Radioelektronika (RADIOELEKTRONIKA)",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/jcsse.2018.8457337",
+   "title": "Content-independent steganography and steganalysis of JPEG images",
+   "year": 2018,
+   "venue": "2018 15th International Joint Conference on Computer Science and Software Engineering (JCSSE)",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/eecs.2017.9",
+   "title": "Deep Learning-Based Steganalysis Against Spatial Domain Steganography",
+   "year": 2017,
+   "venue": "2017 European Conference on Electrical Engineering and Computer Science (EECS)",
+   "queries": [
+    "Q5",
+    "Q6",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3390/engproc2023059176",
+   "title": "Deep Learning-Based Coverless Image Steganography on Medical Images Shared via Cloud",
+   "year": 2024,
+   "venue": "RAiSE-2023",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/i-coste63786.2024.11025038",
+   "title": "Steganalysis for Still Images with LSB Steganography Using Machine Learning Algorithms",
+   "year": 2024,
+   "venue": "2024 International Conference on Sustainable Technology and Engineering (i-COSTE)",
+   "queries": [
+    "Q5",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/globecom42002.2020.9322594",
+   "title": "A Preprocessing Methodology by Using Additional Steganography on CNN-based Steganalysis",
+   "year": 2020,
+   "venue": "GLOBECOM 2020 - 2020 IEEE Global Communications Conference",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/ic-etite47903.2020.416",
+   "title": "Spatial Domain Steganography Techniques and Neural Network based Steganalysis with Differential Storage",
+   "year": 2020,
+   "venue": "2020 International Conference on Emerging Trends in Information Technology and Engineering (ic-ETITE)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icatcct.2016.7912025",
+   "title": "Network steganography and steganalysis - a concise review",
+   "year": 2016,
+   "venue": "2016 2nd International Conference on Applied and Theoretical Computing and Communication Technology (iCATccT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icassp.2017.7952531",
+   "title": "Practical strategies for content-adaptive batch steganography and pooled steganalysis",
+   "year": 2017,
+   "venue": "2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.2991/icmt-13.2013.68",
+   "title": "Key Technical Analysis on Steganography and Steganalysis",
+   "year": 2013,
+   "venue": "Advances in Intelligent Systems Research",
+   "queries": [
+    "Q5",
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/ictc46691.2019.8939763",
+   "title": "A Study on Improved JPEG Steganography Algorithm to Prevent Steganalysis",
+   "year": 2019,
+   "venue": "2019 International Conference on Information and Communication Technology Convergence (ICTC)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icoa66896.2025.11236921",
+   "title": "Genetic-Firefly Algorithm Based Approach in Image Steganography",
+   "year": 2025,
+   "venue": "2025 11th International Conference on Optimization and Applications (ICOA)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1145/3384544.3384571",
+   "title": "New Approach on Steganalysis",
+   "year": 2020,
+   "venue": "Proceedings of the 2020 9th International Conference on Software and Computer Applications",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icumt.2013.6798398",
+   "title": "Network steganalysis: Detection of steganography in IEEE 802.11 wireless networks",
+   "year": 2013,
+   "venue": "2013 5th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icaci.2018.8377604",
+   "title": "Optimization of rich model based on fisher criterion for image steganalysis",
+   "year": 2018,
+   "venue": "2018 Tenth International Conference on Advanced Computational Intelligence (ICACI)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/icassp43922.2022.9747638",
+   "title": "Patch Steganalysis: A Sampling Based Defense Against Adversarial Steganography",
+   "year": 2022,
+   "venue": "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/conit59222.2023.10205855",
+   "title": "Securing Medical Images using Compression techniques with encryption and Image Steganography",
+   "year": 2023,
+   "venue": "2023 3rd International Conference on Intelligent Technologies (CONIT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.1109/ngct.2015.7375269",
+   "title": "Image steganography using Discrete Wavelet Transformation and Artificial Bee Colony Optimization",
+   "year": 2015,
+   "venue": "2015 1st International Conference on Next Generation Computing Technologies (NGCT)",
+   "queries": [
+    "Q5"
+   ]
+  },
+  {
+   "doi": "10.32438/wpe.182021",
+   "title": "Feature extraction-based image steganalysis using deep learning",
+   "year": 2021,
+   "venue": "WEENTECH Proceedings in Energy",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.3837/tiis.2020.11.017",
+   "title": "Ensemble Deep Learning Features for Real-World Image Steganalysis",
+   "year": 2020,
+   "venue": "KSII Transactions on Internet and Information Systems",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.35940/ijitee.d1004.0394s220",
+   "title": "Deep Learning based Effective Steganalysis",
+   "year": 2020,
+   "venue": "International Journal of Innovative Technology and Exploring Engineering",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.3389/frai.2025.1532895",
+   "title": "Deep learning for steganalysis: evaluating model robustness against image transformations",
+   "year": 2025,
+   "venue": "Frontiers in Artificial Intelligence",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.2352/issn.2470-1173.2018.07.mwsf-160",
+   "title": "Deep Learning Regressors for Quantitative Steganalysis",
+   "year": 2018,
+   "venue": "Electronic Imaging",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1016/j.array.2024.100353",
+   "title": "Comprehensive survey on image steganalysis using deep learning",
+   "year": 2024,
+   "venue": "Array",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1145/3344339",
+   "title": "Session: Deep Learning &amp; Audio Steganalysis",
+   "year": 2019,
+   "venue": "Proceedings of the ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1109/iwecai50956.2020.00030",
+   "title": "Unsupervised Deep Learning for Text Steganalysis",
+   "year": 2020,
+   "venue": "2020 International Workshop on Electronic Communication and Artificial Intelligence (IWECAI)",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1109/icnsoc66817.2025.00096",
+   "title": "Steganalysis Using Deep Learning",
+   "year": 2025,
+   "venue": "2025 Second International Conference on Networks and Soft Computing (ICNSoC)",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1063/5.0235246",
+   "title": "Deep learning-based image Steganalysis",
+   "year": 2024,
+   "venue": "AIP Conference Proceedings",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1145/3664647.3685646",
+   "title": "Practical Deep Learning Models for QIM-based VoIP Steganalysis",
+   "year": 2024,
+   "venue": "Proceedings of the 32nd ACM International Conference on Multimedia",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1109/icees67011.2025.11213352",
+   "title": "Steganalysis Using ResNet50V2 for Deep Learning Based Hidden Data Detection",
+   "year": 2025,
+   "venue": "2025 11th International Conference on Electrical Energy Systems (ICEES)",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.23919/eusipco55093.2022.9909553",
+   "title": "The Cover Source Mismatch Problem in Deep-Learning Steganalysis",
+   "year": 2022,
+   "venue": "2022 30th European Signal Processing Conference (EUSIPCO)",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.1109/ic2e365635.2025.11167314",
+   "title": "Adaptive Channel Recalibration for Deep Learning-Driven Steganalysis",
+   "year": 2025,
+   "venue": "2025 IEEE International Conference on Computer, Electronics, Electrical Engineering &amp;amp; their Applications (IC2E3)",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.67535/tsp.000002.022",
+   "title": "A Comprehensive Review of Multimedia Steganalysis Using Hybrid CNN\u2013Transformer Deep Learning Models",
+   "year": 2026,
+   "venue": "ISAISS 2026 Proceedings",
+   "queries": [
+    "Q6"
+   ]
+  },
+  {
+   "doi": "10.3837/tiis.2015.12.026",
+   "title": "Steganalysis of Adaptive JPEG Steganography by Selecting DCT Coefficients According to Embedding Distortion",
+   "year": 2015,
+   "venue": "KSII Transactions on Internet and Information Systems",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2016.2555281",
+   "title": "Steganalysis Features for Content-Adaptive JPEG Steganography",
+   "year": 2016,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2019.2896781",
+   "title": "Steganalysis of Content-Adaptive Steganography Based on Massive Datasets Pre-Classification and Feature Selection",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3724/sp.j.1087.2011.01280",
+   "title": "Double-layered embedding based wet-paper-code adaptive steganography",
+   "year": 2011,
+   "venue": "Journal of Computer Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-025-21136-y",
+   "title": "Downward recompression robust JPEG steganography via efficient content-adaptive embedding",
+   "year": 2025,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1117/1.jei.26.1.013011",
+   "title": "Steganalysis of content-adaptive JPEG steganography based on Gauss partial derivative filter bank",
+   "year": 2017,
+   "venue": "Journal of Electronic Imaging",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-016-4157-9",
+   "title": "2D Gabor filters-based steganalysis of content-adaptive JPEG steganography",
+   "year": 2016,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.5120/2949-3951",
+   "title": "Message Guided Adaptive Random Steganography using Countingout Embedding",
+   "year": 2011,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1117/1.jei.27.6.063004",
+   "title": "Steganalysis of content-adaptive JPEG steganography based on scale co-occurrence matrix with diverse quantization",
+   "year": 2018,
+   "venue": "Journal of Electronic Imaging",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1117/1.jei.28.5.053029",
+   "title": "Deep convolutional neural network-based feature extraction for steganalysis of content-adaptive JPEG steganography",
+   "year": 2019,
+   "venue": "Journal of Electronic Imaging",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2018.2878273",
+   "title": "A Word-Embedding-Based Steganalysis Method for Linguistic Steganography via Synonym Substitution",
+   "year": 2018,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s00034-020-01345-6",
+   "title": "A Novel Quantum Audio Steganography\u2013Steganalysis Approach Using LSFQ-Based Embedding and QKNN-Based Classifier",
+   "year": 2020,
+   "venue": "Circuits, Systems, and Signal Processing",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.17485/ijst/2016/v9i10/88900",
+   "title": "Adaptive Image Steganalysis for LSB Embedding Technique using Enhanced Canny Operator",
+   "year": 2016,
+   "venue": "Indian Journal of Science and Technology",
+   "queries": [
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.4156/jdcta.vol5.issue5.35",
+   "title": "Steganalysis of Syntactic Transformation based Steganography",
+   "year": 2011,
+   "venue": "International Journal of Digital Content Technology and its Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.47974/jdmsc-2751",
+   "title": "Optimized image steganography using heterogeneous image embedding techniques",
+   "year": 2026,
+   "venue": "Journal of Discrete Mathematical Sciences &amp; Cryptography",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.4156/jdcta.vol7.issue10.6",
+   "title": "Estimation of Payload of Histogram Shift-Based Steganography Using Two-Stage Steganalysis",
+   "year": 2013,
+   "venue": "International Journal of Digital Content Technology and its Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.5573/ieie.2015.52.8.097",
+   "title": "Steganalysis of Content-Adaptive Steganography using Markov Features for DCT Coefficients",
+   "year": 2015,
+   "venue": "Journal of the Institute of Electronics and Information Engineers",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3390/math11204322",
+   "title": "High-Pass-Kernel-Driven Content-Adaptive Image Steganalysis Using Deep Learning",
+   "year": 2023,
+   "venue": "Mathematics",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2015.2507159",
+   "title": "Adaptive Steganalysis Based on Embedding Probabilities of Pixels",
+   "year": 2016,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3923/itj.2011.1285.1294",
+   "title": "Adaptive Image Steganography Based on Optimal Embedding and Robust Against Chi-square Attack",
+   "year": 2011,
+   "venue": "Information Technology Journal",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.11591/ijece.v4i4.6307",
+   "title": "An Adaptive Steganography Scheme Based on Visual Quality and Embedding Capacity Improvement",
+   "year": 2014,
+   "venue": "International Journal of Electrical and Computer Engineering (IJECE)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.5120/14995-2634",
+   "title": "Message Guided Adaptive Random Audio Steganography using LSB Modification",
+   "year": 2014,
+   "venue": "International Journal of Computer Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s00530-013-0313-5",
+   "title": "Adaptive steganography based on block complexity and matrix embedding",
+   "year": 2013,
+   "venue": "Multimedia Systems",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1002/sec.1734",
+   "title": "Content\u2010adaptive steganalysis for color images",
+   "year": 2016,
+   "venue": "Security and Communication Networks",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.47059/revistageintec.v11i2.1763",
+   "title": "Optimized Multirate Wideband Speech Steganography for Improving Embedding Capacity Compared with Neighbor-Index-Division Codebook Division Algorithm",
+   "year": 2021,
+   "venue": "Revista Gest\u00e3o Inova\u00e7\u00e3o e Tecnologias",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1007/s10791-026-10306-7",
+   "title": "Reinforcement learning-based adaptive multi-tier bit-plane embedding for high-capacity, robust, and secure image steganography",
+   "year": 2026,
+   "venue": "Discover Computing",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.2352/ei.2024.36.4.mwsf-336",
+   "title": "Analyzing Quantitative Detectors for Content-Adaptive Steganography",
+   "year": 2024,
+   "venue": "Electronic Imaging",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/access.2020.2982073",
+   "title": "Energy Optimized Virtual Network Embedding With Location Constraint in the Enterprise Network",
+   "year": 2020,
+   "venue": "IEEE Access",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1016/j.jvcir.2021.103066",
+   "title": "Steganalytic feature based adversarial embedding for adaptive JPEG steganography",
+   "year": 2021,
+   "venue": "Journal of Visual Communication and Image Representation",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.33102/mjosht.v2i.43",
+   "title": "An Adaptive Multi Amplitude Thresholds Embedding Algorithm for Audio Steganography",
+   "year": 2018,
+   "venue": "Malaysian Journal of Science Health &amp; Technology",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1080/1206212x.2026.2754351",
+   "title": "ABC optimized adaptive fuzzy PVD steganography",
+   "year": 2026,
+   "venue": "International Journal of Computers and Applications",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/lsp.2020.3032875",
+   "title": "An Adaptive Double-Layered Embedding Scheme for MP3 Steganography",
+   "year": 2020,
+   "venue": "IEEE Signal Processing Letters",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3390/computers15030141",
+   "title": "Edge-Adaptive High-Capacity Image Steganography Using Hybrid Edge Detection and MSB Embedding",
+   "year": 2026,
+   "venue": "Computers",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/wifs.2012.6412648",
+   "title": "Weighted stego-image steganalysis for naive content-adaptive embedding",
+   "year": 2012,
+   "venue": "2012 IEEE International Workshop on Information Forensics and Security (WIFS)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1145/3297156.3297273",
+   "title": "Steganalysis of Content-Adaptive JPEG Steganography Based on CNN and 2D Gabor Filters",
+   "year": 2018,
+   "venue": "Proceedings of the 2018 2nd International Conference on Computer Science and Artificial Intelligence",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/iccsn.2017.8230321",
+   "title": "Steganalysis of content-adaptive JPEG steganography based on the weight allocation of filtered coefficients",
+   "year": 2017,
+   "venue": "2017 IEEE 9th International Conference on Communication Software and Networks (ICCSN)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icassp.2010.5495440",
+   "title": "A content-adaptive approach for reducing embedding impact in steganography",
+   "year": 2010,
+   "venue": "2010 IEEE International Conference on Acoustics, Speech and Signal Processing",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/asiancon66527.2025.11281126",
+   "title": "Lightweight and Interpretable SRM-Based Steganalysis via Residual Fusion and Adaptive Feature Pruning",
+   "year": 2025,
+   "venue": "2025 5th Asian Conference on Innovation in Technology (ASIANCON)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icicnis66685.2025.11315805",
+   "title": "Adaptive AES-Encrypted Image Steganography with Key-Driven Dynamic Pixel Embedding",
+   "year": 2025,
+   "venue": "2025 6th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icait61638.2024.10690541",
+   "title": "Retracted: An Optimized Hybrid Quantum Deep Neural Network Model For Quantum Audio Steganography and Steganalysis",
+   "year": 2024,
+   "venue": "2024 Second International Conference on Advances in Information Technology (ICAIT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icme55011.2023.00017",
+   "title": "Content-adaptive Adversarial Embedding for Image Steganography Using Deep Reinforcement Learning",
+   "year": 2023,
+   "venue": "2023 IEEE International Conference on Multimedia and Expo (ICME)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/ntict.2017.7976125",
+   "title": "Image steganography technique based on adaptive random key generator with suitable cover selection",
+   "year": 2017,
+   "venue": "2017 Annual Conference on New Trends in Information &amp; Communications Technology Applications (NTICT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/iciscois62701.2026.11448028",
+   "title": "Explainable Steganalysis Framework Using Csrnet with Adaptive SRM Filtering and Integration of XAI",
+   "year": 2026,
+   "venue": "2026 Second International Conference on Intelligent Systems for Communication, IoT and Security (ICISCoIS)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icsintesa68165.2025.11413645",
+   "title": "Security Analysis Of Optimized Modern Steganography With The Use Of Encryption, Compression, And Anti-Steganalysis",
+   "year": 2025,
+   "venue": "2025 5th International Conference of Science and Information Technology in Smart Administration (ICSINTESA)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icait61638.2024.11641480",
+   "title": "Retraction Notice: An Optimized Hybrid Quantum Deep Neural Network Model For Quantum Audio Steganography and Steganalysis",
+   "year": 2024,
+   "venue": "2024 Second International Conference on Advances in Information Technology (ICAIT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/iccit.2010.5711125",
+   "title": "Image steganography based on adaptive optimal embedding",
+   "year": 2010,
+   "venue": "5th International Conference on Computer Sciences and Convergence Information Technology",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1145/2600918.2600935",
+   "title": "Adaptive steganalysis against WOW embedding algorithm",
+   "year": 2014,
+   "venue": "Proceedings of the 2nd ACM workshop on Information hiding and multimedia security",
+   "queries": [
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/ccnc.2010.5421806",
+   "title": "Adaptive Image Steganography with Mod-4 Embedding Using Image Contrast",
+   "year": 2010,
+   "venue": "2010 7th IEEE Consumer Communications and Networking Conference",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/mosicom67153.2025.11398291",
+   "title": "Cuckoo-Optimized Chaos Embedding for Secure Image Steganography",
+   "year": 2025,
+   "venue": "2025 International Conference on Modeling, Simulation &amp;amp; Intelligent Computing (MoSICom)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.23919/apsipa.2018.8659600",
+   "title": "Steganalysis of Adaptive JPEG Steganography Based on ResDet",
+   "year": 2018,
+   "venue": "2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/isbast.2012.29",
+   "title": "Multi-bit Adaptive Embedding Algorithm for Anti-forensic Steganography",
+   "year": 2012,
+   "venue": "2012 International Symposium on Biometrics and Security Technologies",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icts67612.2025.11369665",
+   "title": "DHEAProtect: Adaptive Steganography for Secure Embedding of Data in Images via Random Forest Classifiers",
+   "year": 2025,
+   "venue": "2025 15th International Conference on Information &amp;amp; Communication Technology and System (ICTS)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/mines.2011.138",
+   "title": "An Adaptive Matrix Embedding for Image Steganography",
+   "year": 2011,
+   "venue": "2011 Third International Conference on Multimedia Information Networking and Security",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2017.8296334",
+   "title": "Improving spatial image adaptive steganalysis incorporating the embedding impact on the feature",
+   "year": 2017,
+   "venue": "2017 IEEE International Conference on Image Processing (ICIP)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/acit68900.2025.11510636",
+   "title": "Medical Image Steganography Through Learning-Based Selection of Embedding Location",
+   "year": 2025,
+   "venue": "2025 26th International Arab Conference on Information Technology (ACIT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icme.2017.8019304",
+   "title": "Residual convolution network based steganalysis with adaptive content suppression",
+   "year": 2017,
+   "venue": "2017 IEEE International Conference on Multimedia and Expo (ICME)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/mmsp48831.2020.9287075",
+   "title": "Defining Embedding Distortion for Sample Adaptive Offset-Based HEVC Video Steganography",
+   "year": 2020,
+   "venue": "2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/pic53636.2021.9687072",
+   "title": "A Lightweight Embedding Probability Estimation Algorithm Based on LBP for Adaptive Steganalysis",
+   "year": 2021,
+   "venue": "2021 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+   "queries": [
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icaica.2019.8873437",
+   "title": "Content Adaptive Image Steganalysis in Spatial Domain Using Selected Co-occurrence Features",
+   "year": 2019,
+   "venue": "2019 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.65286/icic.v21i1.14425",
+   "title": "Adaptive and High-security Image Steganography via Adversarial Embedding",
+   "year": 2025,
+   "venue": "Poster Volume \u2160  The 2025 Twenty-First International  Conference on Intelligent Computing July 26-29, 2025  Ningbo, China",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1145/3267357.3267364",
+   "title": "Double Embedding Steganalysis",
+   "year": 2018,
+   "venue": "Proceedings of the 2nd International Workshop on Multimedia Privacy and Security",
+   "queries": [
+    "Q7",
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/3335203.3335710",
+   "title": "Defining Joint Embedding Distortion for Adaptive MP3 Steganography",
+   "year": 2019,
+   "venue": "Proceedings of the ACM Workshop on Information Hiding and Multimedia Security",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.2991/iceeim-14.2014.11",
+   "title": "Embedding Suitability Adaptive Cover Selection for Image Steganography",
+   "year": 2014,
+   "venue": "Advances in Intelligent Systems Research",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/icoict.2016.7571946",
+   "title": "A symmetric key based secure communication framework using adaptive steganography",
+   "year": 2016,
+   "venue": "2016 4th International Conference on Information and Communication Technology (ICoICT)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/nmitcon70171.2026.11754429",
+   "title": "DeepStegAI: A High-Density Multi-File Steganography Architecture with Adaptive Visual Masking and XAI-Driven Steganalysis",
+   "year": 2026,
+   "venue": "2026 Forth International Conference on Networks, Multimedia and Information Technology (NMITCON)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/aidml70736.2026.11749337",
+   "title": "CNN-Based Adaptive Image-in-Image Steganography Using Learned Residual Embedding",
+   "year": 2026,
+   "venue": "2026 IEEE International Conference on Applied Intelligence Devices, Machine Learning, and Data Science (AIDML)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.1109/iciss67859.2026.11453926",
+   "title": "Secure and Robust Audio Steganography for Smart Electronic Systems using GAIE-based Frame Selection and MAS Adaptive Embedding",
+   "year": 2026,
+   "venue": "2026 8th International Conference on Intelligent Sustainable Systems (ICISS)",
+   "queries": [
+    "Q7"
+   ]
+  },
+  {
+   "doi": "10.3724/sp.j.1087.2012.03415",
+   "title": "LSB matching steganalysis based on second-order differential-based Markov feature",
+   "year": 2013,
+   "venue": "Journal of Computer Applications",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.3233/jcs-200123",
+   "title": "Securing LSB embedding against structural steganalysis",
+   "year": 2021,
+   "venue": "Journal of Computer Security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.4304/jmm.7.5.380-385",
+   "title": "Steganalysis for LSB Matching Based on the Dependences Between Neighboring Pixels",
+   "year": 2012,
+   "venue": "Journal of Multimedia",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.52661/j_ict.v3i1.69",
+   "title": "Steganalysis LSB Matching pada Grayscale Image menggunakan Machine Learning",
+   "year": 2021,
+   "venue": "Journal of Informatics and Communication Technology (JICT)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cc.2016.7559077",
+   "title": "Steganalysis of LSB matching using characteristic function moment of pixel differences",
+   "year": 2016,
+   "venue": "China Communications",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.26636/jtit.2011.2.1146",
+   "title": "Developing a Secure Image Steganographic System Using TPVD Adaptive LSB Matching Revisited Algorithm for Maximizing the Embedding Rate",
+   "year": 2011,
+   "venue": "Journal of Telecommunications and Information Technology",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.32604/cmc.2019.06154",
+   "title": "Locating Steganalysis of LSB Matching Based on Spatial and Wavelet Filter Fusion",
+   "year": 2019,
+   "venue": "Computers, Materials &amp; Continua",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.14429/dsj.67.10177",
+   "title": "A FPGA based Steganographic System Implementing a Modern Steganalysis Resistant LSB Algorithm",
+   "year": 2017,
+   "venue": "Defence Science Journal",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1016/j.ins.2010.07.037",
+   "title": "Steganalysis of LSB matching based on statistical modeling of pixel difference distributions",
+   "year": 2010,
+   "venue": "Information Sciences",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-014-2381-8",
+   "title": "Steganalysis of LSB matching using differences between nonadjacent pixels",
+   "year": 2014,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1049/cje.2017.09.026",
+   "title": "Steganalysis of Low Embedding Rates LSB Speech Based on Histogram Moments in Frequency Domain",
+   "year": 2017,
+   "venue": "Chinese Journal of Electronics",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.4156/jdcta.vol5.issue12.25",
+   "title": "Steganalysis of LSB matching for Images with High Noise",
+   "year": 2011,
+   "venue": "International Journal of Digital Content Technology and its Applications",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1080/19393555.2011.642063",
+   "title": "Developing a Secure Image Steganographic System Using TPVD Adaptive LSB Matching Revisited Algorithm for Maximizing the Embedding Rate",
+   "year": 2012,
+   "venue": "Information Security Journal: A Global Perspective",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1504/ijmis.2011.044763",
+   "title": "An adaptive matrix embedding based on LSB matching for grey-scale images",
+   "year": 2011,
+   "venue": "International Journal of Multimedia Intelligence and Security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.26438/ijcse/v10i4.15",
+   "title": "A Comparative Study of LSB based Statistical Steganalysis and Gray Level Co-Occurrence Matrix based Blind Image Steganalysis",
+   "year": 2022,
+   "venue": "International Journal of Computer Sciences and Engineering",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.32520/stmsi.v15i3.6002",
+   "title": "Improving DCT-based JPEG Steganography using Adaptive LSB Matching for Resistance to Entropy-based Detection",
+   "year": 2026,
+   "venue": "SISTEMASI",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1038/s41598-025-91390-5",
+   "title": "Digital image steganalysis network strengthening framework based on evolutionary algorithm",
+   "year": 2025,
+   "venue": "Scientific Reports",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2024.3383770",
+   "title": "Steganalysis of AI Models LSB Attacks",
+   "year": 2024,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1016/j.ins.2011.06.003",
+   "title": "LSB steganographic method based on reversible histogram transformation function for resisting statistical steganalysis",
+   "year": 2012,
+   "venue": "Information Sciences",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.51514/jstr.5.4.2023.17-25",
+   "title": "Image steganalysis using least significant bit (lsb) and cuckoo search optimisation",
+   "year": 2023,
+   "venue": "Journal of Science and Technological Researches",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1016/j.patrec.2017.08.016",
+   "title": "Quantitative steganalysis of spatial LSB based stego images using reduced instances and features",
+   "year": 2018,
+   "venue": "Pattern Recognition Letters",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.28925/2663-4023.2025.31.997",
+   "title": "METHOD OF HIDING INFORMATION USING THE AES ENCRYPTION ALGORITHM AND THE LSB STEGANOGRAPHIC METHOD WITH PROTECTION AGAINST CROPPING AND STEGANALYSIS",
+   "year": 2025,
+   "venue": "Cybersecurity: Education, Science, Technique",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.65521/ijacte.v15i1.2604",
+   "title": "Stego Secure: A CNN-Assisted Web Platform for Secure Image Steganography with AES-256 Encryption, LSB Embedding, and ML-Based Steganalysis Detection",
+   "year": 2026,
+   "venue": "International Journal on Advanced Computer Theory and Engineering",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1088/1742-6596/2182/1/012102",
+   "title": "Steganalysis for LSB inserts in low stego-payload artificial color images",
+   "year": 2022,
+   "venue": "Journal of Physics: Conference Series",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.5539/cis.v8n2p73",
+   "title": "Memetic Elitist Pareto Evolutionary Algorithm for Virtual Network Embedding",
+   "year": 2015,
+   "venue": "Computer and Information Science",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.14778/3654621.3654630",
+   "title": "Efficient Exact Subgraph Matching via GNN-Based Path Dominance Embedding",
+   "year": 2024,
+   "venue": "Proceedings of the VLDB Endowment",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.34028/iajit/21/2/6",
+   "title": "Low Dimensional Multi Class Steganalysis of Spatial LSB based Stego Images Using Textural Features",
+   "year": 2024,
+   "venue": "The International Arab Journal of Information Technology",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1007/s11042-016-4273-6",
+   "title": "PSW statistical LSB image steganalysis",
+   "year": 2017,
+   "venue": "Multimedia Tools and Applications",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.3233/ifs-151863",
+   "title": "The pair-wise LSB matching steganography with a discrete quantum behaved Gravitational Search Algorithm",
+   "year": 2015,
+   "venue": "Journal of Intelligent &amp; Fuzzy Systems",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/tifs.2025.3549692",
+   "title": "EIS-OBEA: Enhanced Image Steganalysis via Opposition-Based Evolutionary Algorithm",
+   "year": 2025,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icmecg.2012.30",
+   "title": "A Novel LSB Matching Steganalysis Detection Algorithm Based on Characteristics of the Second Order Difference Markov",
+   "year": 2012,
+   "venue": "2012 International Conference on Management of e-Commerce and e-Government",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/1854229.1854265",
+   "title": "Quantitative steganalysis of LSB embedding in JPEG domain",
+   "year": 2010,
+   "venue": "Proceedings of the 12th ACM workshop on Multimedia and security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icip.2010.5652894",
+   "title": "Steganalysis of LSB matching based on local variance histogram",
+   "year": 2010,
+   "venue": "2010 IEEE International Conference on Image Processing",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.2991/iccsee.2013.258",
+   "title": "Steganalysis of LSB Matching in WAV Audio",
+   "year": 2013,
+   "venue": "Proceedings of the 2nd International Conference on Computer Science and Electronics Engineering (ICCSEE 2013)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/tencon.2011.6129010",
+   "title": "Image steganalysis based on SVD and noise estimation: Improve sensitivity to spatial LSB embedding families",
+   "year": 2011,
+   "venue": "TENCON 2011 - 2011 IEEE Region 10 Conference",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/iih-msp.2014.125",
+   "title": "Steganalysis of LSB Matching Based on Local Binary Patterns",
+   "year": 2014,
+   "venue": "2014 Tenth International Conference on Intelligent Information Hiding and Multimedia Signal Processing",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/3163058.3163067",
+   "title": "Steganalysis of LSB Speech with Low Embedding Rates based on Joint Probability",
+   "year": 2017,
+   "venue": "Proceedings of the 2017 7th International Conference on Communication and Network Security",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/eesco.2015.7253776",
+   "title": "LSB matching steganalysis based on feature analysis approach",
+   "year": 2015,
+   "venue": "2015 International Conference on Electrical, Electronics, Signals, Communication and Optimization (EESCO)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icoeins69996.2026.11605829",
+   "title": "Robust and Lightweight Steganalysis for LSB Matching under Cover-Source Mismatch via Domain-Aware Augmentation",
+   "year": 2026,
+   "venue": "2026 International Conference on Enterprise and Industrial System (ICOEINS)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.55056/ceur-ws.org/vol-3513/paper7.pdf",
+   "title": "Steganalysis Method for Detecting LSB Embedding in Digital Video, Digital Image Sequence",
+   "year": 2023,
+   "venue": "CEUR Workshop Proceedings, Vol-3513: Proceedings of the 11-th International Conference \"Information Control Systems &amp; Technologies\"",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icosp.2010.5656907",
+   "title": "Steganalysis for LSB matching by counting image blocks with the same gray level",
+   "year": 2010,
+   "venue": "IEEE 10th INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING PROCEEDINGS",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.2495/icacc20130201",
+   "title": "Steganalysis of LSB matching in audio using multi-order Markov feature of noise sequence",
+   "year": 2014,
+   "venue": "WIT Transactions on Information and Communication Technologies",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.2495/icacc130201",
+   "title": "Steganalysis of LSB matching in audio using multi-order Markov feature of noise sequence",
+   "year": 2014,
+   "venue": "WIT Transactions on Information and Communication Technologies",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/1980022.1980113",
+   "title": "Improved steganalysis of LSB matching steganography based on counting alteration rate of the number of neighbourhood gray levels",
+   "year": 2011,
+   "venue": "Proceedings of the International Conference &amp; Workshop on Emerging Trends in Technology",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/3378065.3378073",
+   "title": "Research on Least Significant Bits (LSB) Image Information Hiding Based on Random Bit Selection Embedding Algorithm",
+   "year": 2019,
+   "venue": "Proceedings of the 2019 4th International Conference on Intelligent Information Processing",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec48606.2020.9185758",
+   "title": "Atrributed Graph Embedding Based on Multiobjective Evolutionary Algorithm for Overlapping Community Detection",
+   "year": 2020,
+   "venue": "2020 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/spin.2016.7566773",
+   "title": "LSB steganalysis using modified Weighted Stego-image method",
+   "year": 2016,
+   "venue": "2016 3rd International Conference on Signal Processing and Integrated Networks (SPIN)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/3pgcic.2014.109",
+   "title": "Virus-Evolutionary Genetic Algorithm Based Selective Ensemble for Steganalysis",
+   "year": 2014,
+   "venue": "2014 Ninth International Conference on P2P, Parallel, Grid, Cloud and Internet Computing",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/it4od.2016.7479313",
+   "title": "A new binary similiraty metric for two LSB steganalysis",
+   "year": 2016,
+   "venue": "2016 International Conference on Information Technology for Organizations Development (IT4OD)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/3102304.3109814",
+   "title": "Steganalysis Using LSB-Focused Statistical Features",
+   "year": 2017,
+   "venue": "Proceedings of the International Conference on Future Networks and Distributed Systems",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1145/2523514.2523561",
+   "title": "Visual steganalysis of LSB-encoded audio data based on frequency domain characteristics",
+   "year": 2013,
+   "venue": "Proceedings of the 6th International Conference on Security of Information and Networks",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/chinasip.2015.7230522",
+   "title": "Steganalysis of LSB replacement for multivariate Gaussian covers",
+   "year": 2015,
+   "venue": "2015 IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/incet64471.2025.11139851",
+   "title": "Robust Steganalysis of LSB-Embedded Malicious Content Using Deep CNN",
+   "year": 2025,
+   "venue": "2025 6th International Conference for Emerging Technology (INCET)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icesic67389.2026.11496530",
+   "title": "Multi-Directional SPAM Feature Extraction for Enhanced LSB Steganalysis using Random Forest Ensemble Learning",
+   "year": 2026,
+   "venue": "2026 International Conference on Electronic Systems and Intelligent Computing (ICESIC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec.2016.7744109",
+   "title": "Entropy determined hybrid two-stage multi-objective evolutionary algorithm combining locally linear embedding",
+   "year": 2016,
+   "venue": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/icnc57223.2023.10074545",
+   "title": "Evolutionary Algorithm with Phenotype Diversity for Virtual Network Embedding",
+   "year": 2023,
+   "venue": "2023 International Conference on Computing, Networking and Communications (ICNC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec.2016.7744409",
+   "title": "Speech steganalysis using evolutionary restricted Boltzmann machines",
+   "year": 2016,
+   "venue": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/iciem54221.2022.9853039",
+   "title": "Image Steganalysis with Image decoder using LSB and MSB Technique",
+   "year": 2022,
+   "venue": "2022 3rd International Conference on Intelligent Engineering and Management (ICIEM)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/cec48606.2020.9185832",
+   "title": "A Novel Multi-objective Cultural Algorithm Embedding Five-Element Cycle Optimization",
+   "year": 2020,
+   "venue": "2020 IEEE Congress on Evolutionary Computation (CEC)",
+   "queries": [
+    "Q8"
+   ]
+  },
+  {
+   "doi": "10.1109/esic68176.2026.11496286",
+   "title": "Speeding Up and Lowering Memory Footprint of Neural Networks by Decision Rules Extraction for LSB Steganalysis",
+   "year": 2026,
+   "venue": "2026 International Conference on Emerging Systems and Intelligent Computing (ESIC)",
+   "queries": [
+    "Q8"
+   ]
+  }
+ ]
+}

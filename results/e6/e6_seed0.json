@@ -1,0 +1,805 @@
+{
+ "seed": 0,
+ "cluster_info": {
+  "quantile": 0.1,
+  "n_clusters": 133,
+  "max_cluster": 22,
+  "mean_cluster": 4.51,
+  "n_images": 600
+ },
+ "smoke": false,
+ "results": {
+  "T_raw|A|0.005": {
+   "auc": {
+    "RAND": 0.7897,
+    "GA": 0.7784,
+    "GA_RANDMIX": 0.7928,
+    "RAND_GAMIX": 0.7773
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 156.0,
+     "low_share": 0.842,
+     "mse": 0.0314
+    },
+    "GA": {
+     "pairs": 165.3,
+     "low_share": 0.939,
+     "mse": 0.0126
+    },
+    "GA_RANDMIX": {
+     "pairs": 157.9,
+     "low_share": 0.833,
+     "mse": 0.0174
+    },
+    "RAND_GAMIX": {
+     "pairs": 165.1,
+     "low_share": 0.941,
+     "mse": 0.0163
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0113,
+     "ci95": [
+      -0.0268,
+      0.0041
+     ],
+     "ci90": [
+      -0.0237,
+      0.0027
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0031,
+     "ci95": [
+      -0.0108,
+      0.0177
+     ],
+     "ci90": [
+      -0.0082,
+      0.0148
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0011,
+     "ci95": [
+      -0.0142,
+      0.0168
+     ],
+     "ci90": [
+      -0.0111,
+      0.0142
+     ]
+    }
+   }
+  },
+  "T_raw|B|0.005": {
+   "auc": {
+    "RAND": 0.666,
+    "GA": 0.6511,
+    "GA_RANDMIX": 0.6392,
+    "RAND_GAMIX": 0.6541
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 156.0,
+     "low_share": 0.842,
+     "mse": 0.0314
+    },
+    "GA": {
+     "pairs": 165.3,
+     "low_share": 0.939,
+     "mse": 0.0126
+    },
+    "GA_RANDMIX": {
+     "pairs": 157.9,
+     "low_share": 0.833,
+     "mse": 0.0174
+    },
+    "RAND_GAMIX": {
+     "pairs": 165.1,
+     "low_share": 0.941,
+     "mse": 0.0163
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0149,
+     "ci95": [
+      -0.038,
+      0.0098
+     ],
+     "ci90": [
+      -0.0335,
+      0.0061
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": -0.0268,
+     "ci95": [
+      -0.0512,
+      -0.0024
+     ],
+     "ci90": [
+      -0.0474,
+      -0.0051
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.003,
+     "ci95": [
+      -0.0297,
+      0.0246
+     ],
+     "ci90": [
+      -0.0239,
+      0.0206
+     ]
+    }
+   }
+  },
+  "T_raw|A|0.01": {
+   "auc": {
+    "RAND": 0.8771,
+    "GA": 0.8693,
+    "GA_RANDMIX": 0.8766,
+    "RAND_GAMIX": 0.8704
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 269.3,
+     "low_share": 0.844,
+     "mse": 0.0538
+    },
+    "GA": {
+     "pairs": 283.2,
+     "low_share": 0.924,
+     "mse": 0.0234
+    },
+    "GA_RANDMIX": {
+     "pairs": 272.3,
+     "low_share": 0.835,
+     "mse": 0.0305
+    },
+    "RAND_GAMIX": {
+     "pairs": 282.4,
+     "low_share": 0.926,
+     "mse": 0.0313
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0078,
+     "ci95": [
+      -0.0187,
+      0.0043
+     ],
+     "ci90": [
+      -0.0171,
+      0.002
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": -0.0005,
+     "ci95": [
+      -0.0106,
+      0.0086
+     ],
+     "ci90": [
+      -0.0087,
+      0.0074
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.0011,
+     "ci95": [
+      -0.013,
+      0.0104
+     ],
+     "ci90": [
+      -0.0107,
+      0.0086
+     ]
+    }
+   }
+  },
+  "T_raw|B|0.01": {
+   "auc": {
+    "RAND": 0.7218,
+    "GA": 0.7319,
+    "GA_RANDMIX": 0.725,
+    "RAND_GAMIX": 0.7569
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 269.3,
+     "low_share": 0.844,
+     "mse": 0.0538
+    },
+    "GA": {
+     "pairs": 283.2,
+     "low_share": 0.924,
+     "mse": 0.0234
+    },
+    "GA_RANDMIX": {
+     "pairs": 272.3,
+     "low_share": 0.835,
+     "mse": 0.0305
+    },
+    "RAND_GAMIX": {
+     "pairs": 282.4,
+     "low_share": 0.926,
+     "mse": 0.0313
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0101,
+     "ci95": [
+      -0.0114,
+      0.0335
+     ],
+     "ci90": [
+      -0.009,
+      0.0301
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0032,
+     "ci95": [
+      -0.0177,
+      0.0252
+     ],
+     "ci90": [
+      -0.0147,
+      0.0221
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.025,
+     "ci95": [
+      -0.0457,
+      -0.0039
+     ],
+     "ci90": [
+      -0.0419,
+      -0.0066
+     ]
+    }
+   }
+  },
+  "T_raw|A|0.02": {
+   "auc": {
+    "RAND": 0.94,
+    "GA": 0.9385,
+    "GA_RANDMIX": 0.9385,
+    "RAND_GAMIX": 0.9321
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 494.8,
+     "low_share": 0.843,
+     "mse": 0.1036
+    },
+    "GA": {
+     "pairs": 516.2,
+     "low_share": 0.903,
+     "mse": 0.048
+    },
+    "GA_RANDMIX": {
+     "pairs": 500.0,
+     "low_share": 0.835,
+     "mse": 0.0599
+    },
+    "RAND_GAMIX": {
+     "pairs": 514.2,
+     "low_share": 0.906,
+     "mse": 0.0672
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0015,
+     "ci95": [
+      -0.0085,
+      0.0044
+     ],
+     "ci90": [
+      -0.0073,
+      0.0036
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": -0.0015,
+     "ci95": [
+      -0.0076,
+      0.0037
+     ],
+     "ci90": [
+      -0.0066,
+      0.003
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0064,
+     "ci95": [
+      0.0013,
+      0.0112
+     ],
+     "ci90": [
+      0.002,
+      0.0106
+     ]
+    }
+   }
+  },
+  "T_raw|B|0.02": {
+   "auc": {
+    "RAND": 0.8192,
+    "GA": 0.8169,
+    "GA_RANDMIX": 0.8327,
+    "RAND_GAMIX": 0.8309
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 494.8,
+     "low_share": 0.843,
+     "mse": 0.1036
+    },
+    "GA": {
+     "pairs": 516.2,
+     "low_share": 0.903,
+     "mse": 0.048
+    },
+    "GA_RANDMIX": {
+     "pairs": 500.0,
+     "low_share": 0.835,
+     "mse": 0.0599
+    },
+    "RAND_GAMIX": {
+     "pairs": 514.2,
+     "low_share": 0.906,
+     "mse": 0.0672
+    }
+   },
+   "n_images": 435,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": -0.0023,
+     "ci95": [
+      -0.0188,
+      0.0149
+     ],
+     "ci90": [
+      -0.0177,
+      0.0122
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0135,
+     "ci95": [
+      -0.0053,
+      0.031
+     ],
+     "ci90": [
+      -0.001,
+      0.0279
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.014,
+     "ci95": [
+      -0.031,
+      0.0034
+     ],
+     "ci90": [
+      -0.0286,
+      -0.0001
+     ]
+    }
+   }
+  },
+  "A_noise|A|0.005": {
+   "auc": {
+    "RAND": 0.6618,
+    "GA": 0.6892,
+    "GA_RANDMIX": 0.6714,
+    "RAND_GAMIX": 0.6784
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 141.5,
+     "low_share": 0.74,
+     "mse": 0.0714
+    },
+    "GA": {
+     "pairs": 164.3,
+     "low_share": 0.935,
+     "mse": 0.0125
+    },
+    "GA_RANDMIX": {
+     "pairs": 147.5,
+     "low_share": 0.71,
+     "mse": 0.0252
+    },
+    "RAND_GAMIX": {
+     "pairs": 163.1,
+     "low_share": 0.942,
+     "mse": 0.0252
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0274,
+     "ci95": [
+      0.0101,
+      0.0459
+     ],
+     "ci90": [
+      0.0137,
+      0.0419
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0096,
+     "ci95": [
+      -0.0014,
+      0.0221
+     ],
+     "ci90": [
+      0.0004,
+      0.0199
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0108,
+     "ci95": [
+      -0.0021,
+      0.0249
+     ],
+     "ci90": [
+      -0.0005,
+      0.0221
+     ]
+    }
+   }
+  },
+  "A_noise|B|0.005": {
+   "auc": {
+    "RAND": 0.5969,
+    "GA": 0.6791,
+    "GA_RANDMIX": 0.6209,
+    "RAND_GAMIX": 0.6704
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 141.5,
+     "low_share": 0.74,
+     "mse": 0.0714
+    },
+    "GA": {
+     "pairs": 164.3,
+     "low_share": 0.935,
+     "mse": 0.0125
+    },
+    "GA_RANDMIX": {
+     "pairs": 147.5,
+     "low_share": 0.71,
+     "mse": 0.0252
+    },
+    "RAND_GAMIX": {
+     "pairs": 163.1,
+     "low_share": 0.942,
+     "mse": 0.0252
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0822,
+     "ci95": [
+      0.0633,
+      0.0997
+     ],
+     "ci90": [
+      0.0673,
+      0.0977
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.024,
+     "ci95": [
+      0.0018,
+      0.0456
+     ],
+     "ci90": [
+      0.0054,
+      0.0428
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0087,
+     "ci95": [
+      -0.0067,
+      0.0257
+     ],
+     "ci90": [
+      -0.0043,
+      0.0233
+     ]
+    }
+   }
+  },
+  "A_noise|A|0.01": {
+   "auc": {
+    "RAND": 0.7611,
+    "GA": 0.8223,
+    "GA_RANDMIX": 0.7657,
+    "RAND_GAMIX": 0.819
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 243.9,
+     "low_share": 0.74,
+     "mse": 0.1276
+    },
+    "GA": {
+     "pairs": 275.6,
+     "low_share": 0.884,
+     "mse": 0.0288
+    },
+    "GA_RANDMIX": {
+     "pairs": 253.1,
+     "low_share": 0.713,
+     "mse": 0.0478
+    },
+    "RAND_GAMIX": {
+     "pairs": 271.8,
+     "low_share": 0.897,
+     "mse": 0.0668
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0612,
+     "ci95": [
+      0.0455,
+      0.0758
+     ],
+     "ci90": [
+      0.0489,
+      0.0735
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0046,
+     "ci95": [
+      -0.0093,
+      0.018
+     ],
+     "ci90": [
+      -0.0072,
+      0.0167
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0033,
+     "ci95": [
+      -0.0087,
+      0.016
+     ],
+     "ci90": [
+      -0.0072,
+      0.014
+     ]
+    }
+   }
+  },
+  "A_noise|B|0.01": {
+   "auc": {
+    "RAND": 0.7394,
+    "GA": 0.8263,
+    "GA_RANDMIX": 0.7553,
+    "RAND_GAMIX": 0.8323
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 243.9,
+     "low_share": 0.74,
+     "mse": 0.1276
+    },
+    "GA": {
+     "pairs": 275.6,
+     "low_share": 0.884,
+     "mse": 0.0288
+    },
+    "GA_RANDMIX": {
+     "pairs": 253.1,
+     "low_share": 0.713,
+     "mse": 0.0478
+    },
+    "RAND_GAMIX": {
+     "pairs": 271.8,
+     "low_share": 0.897,
+     "mse": 0.0668
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0869,
+     "ci95": [
+      0.0696,
+      0.1023
+     ],
+     "ci90": [
+      0.0712,
+      0.0996
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0159,
+     "ci95": [
+      -0.0022,
+      0.0331
+     ],
+     "ci90": [
+      0.0012,
+      0.0305
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": -0.006,
+     "ci95": [
+      -0.0237,
+      0.0107
+     ],
+     "ci90": [
+      -0.021,
+      0.009
+     ]
+    }
+   }
+  },
+  "A_noise|A|0.02": {
+   "auc": {
+    "RAND": 0.9461,
+    "GA": 0.9692,
+    "GA_RANDMIX": 0.9505,
+    "RAND_GAMIX": 0.9691
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 448.9,
+     "low_share": 0.741,
+     "mse": 0.236
+    },
+    "GA": {
+     "pairs": 492.2,
+     "low_share": 0.836,
+     "mse": 0.0736
+    },
+    "GA_RANDMIX": {
+     "pairs": 462.8,
+     "low_share": 0.718,
+     "mse": 0.1018
+    },
+    "RAND_GAMIX": {
+     "pairs": 483.6,
+     "low_share": 0.851,
+     "mse": 0.157
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0231,
+     "ci95": [
+      0.0163,
+      0.0305
+     ],
+     "ci90": [
+      0.0174,
+      0.0289
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0044,
+     "ci95": [
+      -0.0045,
+      0.0137
+     ],
+     "ci90": [
+      -0.0029,
+      0.0123
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0001,
+     "ci95": [
+      -0.0059,
+      0.0066
+     ],
+     "ci90": [
+      -0.0051,
+      0.0058
+     ]
+    }
+   }
+  },
+  "A_noise|B|0.02": {
+   "auc": {
+    "RAND": 0.9267,
+    "GA": 0.976,
+    "GA_RANDMIX": 0.9388,
+    "RAND_GAMIX": 0.9699
+   },
+   "stats": {
+    "RAND": {
+     "pairs": 448.9,
+     "low_share": 0.741,
+     "mse": 0.236
+    },
+    "GA": {
+     "pairs": 492.2,
+     "low_share": 0.836,
+     "mse": 0.0736
+    },
+    "GA_RANDMIX": {
+     "pairs": 462.8,
+     "low_share": 0.718,
+     "mse": 0.1018
+    },
+    "RAND_GAMIX": {
+     "pairs": 483.6,
+     "low_share": 0.851,
+     "mse": 0.157
+    }
+   },
+   "n_images": 600,
+   "contrasts": {
+    "P1_GA-RAND": {
+     "diff": 0.0493,
+     "ci95": [
+      0.04,
+      0.0593
+     ],
+     "ci90": [
+      0.0408,
+      0.0581
+     ]
+    },
+    "P2_GARANDMIX-RAND": {
+     "diff": 0.0121,
+     "ci95": [
+      0.0023,
+      0.0236
+     ],
+     "ci90": [
+      0.004,
+      0.0213
+     ]
+    },
+    "P3_GA-RANDGAMIX": {
+     "diff": 0.0061,
+     "ci95": [
+      0.0004,
+      0.0122
+     ],
+     "ci90": [
+      0.0014,
+      0.0105
+     ]
+    }
+   }
+  }
+ }
+}

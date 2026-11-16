@@ -1,0 +1,174 @@
+{
+ "seed": 0,
+ "ds": "oasis",
+ "n_train": 2522,
+ "n_train_subjects": 194,
+ "n_test": 689,
+ "n_test_subjects": 53,
+ "results": {
+  "oasis|A|0.002": {
+   "auc": {
+    "RANDSEQ": 0.7254,
+    "COSTKEY": 0.7094,
+    "COSTMIX": 0.7169,
+    "ANTIKEY": 0.7655
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 0.3,
+     "lsb_pairs": 59.4,
+     "mse": 0.00376,
+     "changed_frac": 0.00366
+    },
+    "COSTKEY": {
+     "pvd_pairs": 0.6,
+     "lsb_pairs": 58.8,
+     "mse": 0.00387,
+     "changed_frac": 0.00367
+    },
+    "COSTMIX": {
+     "pvd_pairs": 0.6,
+     "lsb_pairs": 58.7,
+     "mse": 0.00385,
+     "changed_frac": 0.00365
+    },
+    "ANTIKEY": {
+     "pvd_pairs": 0.0,
+     "lsb_pairs": 59.9,
+     "mse": 0.00366,
+     "changed_frac": 0.00365
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "COSTMIX": [
+     0,
+     0
+    ],
+    "ANTIKEY": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.016,
+     "ci95_subject_bootstrap": [
+      -0.0287,
+      -0.0048
+     ]
+    },
+    "COSTMIX-RANDSEQ": {
+     "diff": -0.0085,
+     "ci95_subject_bootstrap": [
+      -0.0181,
+      0.0006
+     ]
+    },
+    "ANTIKEY-RANDSEQ": {
+     "diff": 0.0401,
+     "ci95_subject_bootstrap": [
+      0.0274,
+      0.0525
+     ]
+    },
+    "COSTKEY-COSTMIX": {
+     "diff": -0.0075,
+     "ci95_subject_bootstrap": [
+      -0.0209,
+      0.0048
+     ]
+    }
+   }
+  },
+  "oasis|D|0.002": {
+   "auc": {
+    "RANDSEQ": 0.7542,
+    "COSTKEY": 0.7198,
+    "COSTMIX": 0.743,
+    "ANTIKEY": 0.7846
+   },
+   "stats_test": {
+    "RANDSEQ": {
+     "pvd_pairs": 0.3,
+     "lsb_pairs": 59.4,
+     "mse": 0.00376,
+     "changed_frac": 0.00366
+    },
+    "COSTKEY": {
+     "pvd_pairs": 0.6,
+     "lsb_pairs": 58.8,
+     "mse": 0.00387,
+     "changed_frac": 0.00367
+    },
+    "COSTMIX": {
+     "pvd_pairs": 0.6,
+     "lsb_pairs": 58.7,
+     "mse": 0.00385,
+     "changed_frac": 0.00365
+    },
+    "ANTIKEY": {
+     "pvd_pairs": 0.0,
+     "lsb_pairs": 59.9,
+     "mse": 0.00366,
+     "changed_frac": 0.00365
+    }
+   },
+   "failures": {
+    "RANDSEQ": [
+     0,
+     0
+    ],
+    "COSTKEY": [
+     0,
+     0
+    ],
+    "COSTMIX": [
+     0,
+     0
+    ],
+    "ANTIKEY": [
+     0,
+     0
+    ]
+   },
+   "contrasts": {
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.0344,
+     "ci95_subject_bootstrap": [
+      -0.0518,
+      -0.0185
+     ]
+    },
+    "COSTMIX-RANDSEQ": {
+     "diff": -0.0112,
+     "ci95_subject_bootstrap": [
+      -0.0285,
+      0.0056
+     ]
+    },
+    "ANTIKEY-RANDSEQ": {
+     "diff": 0.0304,
+     "ci95_subject_bootstrap": [
+      0.0156,
+      0.0454
+     ]
+    },
+    "COSTKEY-COSTMIX": {
+     "diff": -0.0232,
+     "ci95_subject_bootstrap": [
+      -0.0394,
+      -0.0051
+     ]
+    }
+   }
+  }
+ }
+}

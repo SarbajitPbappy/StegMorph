@@ -1,0 +1,149 @@
+{
+ "seed": 0,
+ "n_train": 663,
+ "n_test": 286,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "bratst2|F|0.005": {
+   "auc": {
+    "RANDFG": 0.7194,
+    "ORIG": 0.9051,
+    "RANDSEQ": 0.8832,
+    "COSTFG": 0.573,
+    "ANTIFG": 0.8433,
+    "COSTKEY": 0.5787,
+    "COSTMIX": 0.8648,
+    "ANTIKEY": 0.9536
+   },
+   "contrasts": {
+    "RANDFG-RANDSEQ": {
+     "diff": -0.1638,
+     "ci95_subject_bootstrap": [
+      -0.1871,
+      -0.1385
+     ]
+    },
+    "ORIG-RANDSEQ": {
+     "diff": 0.0219,
+     "ci95_subject_bootstrap": [
+      -0.0012,
+      0.0511
+     ]
+    },
+    "COSTFG-RANDSEQ": {
+     "diff": -0.3102,
+     "ci95_subject_bootstrap": [
+      -0.3536,
+      -0.2717
+     ]
+    },
+    "ANTIFG-RANDSEQ": {
+     "diff": -0.0399,
+     "ci95_subject_bootstrap": [
+      -0.0629,
+      -0.0133
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.3045,
+     "ci95_subject_bootstrap": [
+      -0.3485,
+      -0.26
+     ]
+    },
+    "COSTMIX-RANDSEQ": {
+     "diff": -0.0184,
+     "ci95_subject_bootstrap": [
+      -0.035,
+      -0.0019
+     ]
+    },
+    "ANTIKEY-RANDSEQ": {
+     "diff": 0.0704,
+     "ci95_subject_bootstrap": [
+      0.0453,
+      0.0987
+     ]
+    },
+    "COSTKEY-COSTMIX": {
+     "diff": -0.2861,
+     "ci95_subject_bootstrap": [
+      -0.3306,
+      -0.2429
+     ]
+    }
+   }
+  },
+  "bratst2|M|0.005": {
+   "auc": {
+    "RANDFG": 0.7255,
+    "ORIG": 0.9051,
+    "RANDSEQ": 0.8832,
+    "COSTFG": 0.6291,
+    "ANTIFG": 0.8677,
+    "COSTKEY": 0.6198,
+    "COSTMIX": 0.8648,
+    "ANTIKEY": 0.9598
+   },
+   "contrasts": {
+    "RANDFG-RANDSEQ": {
+     "diff": -0.1577,
+     "ci95_subject_bootstrap": [
+      -0.1829,
+      -0.1312
+     ]
+    },
+    "ORIG-RANDSEQ": {
+     "diff": 0.0219,
+     "ci95_subject_bootstrap": [
+      -0.0012,
+      0.0511
+     ]
+    },
+    "COSTFG-RANDSEQ": {
+     "diff": -0.2541,
+     "ci95_subject_bootstrap": [
+      -0.3093,
+      -0.2046
+     ]
+    },
+    "ANTIFG-RANDSEQ": {
+     "diff": -0.0155,
+     "ci95_subject_bootstrap": [
+      -0.0494,
+      0.0235
+     ]
+    },
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.2634,
+     "ci95_subject_bootstrap": [
+      -0.315,
+      -0.2162
+     ]
+    },
+    "COSTMIX-RANDSEQ": {
+     "diff": -0.0184,
+     "ci95_subject_bootstrap": [
+      -0.035,
+      -0.0019
+     ]
+    },
+    "ANTIKEY-RANDSEQ": {
+     "diff": 0.0766,
+     "ci95_subject_bootstrap": [
+      0.0419,
+      0.1117
+     ]
+    },
+    "COSTKEY-COSTMIX": {
+     "diff": -0.245,
+     "ci95_subject_bootstrap": [
+      -0.2982,
+      -0.1958
+     ]
+    }
+   }
+  }
+ }
+}

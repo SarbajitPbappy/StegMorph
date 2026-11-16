@@ -1,0 +1,39 @@
+{
+ "seed": 2,
+ "n_train": 4186,
+ "n_test": 1131,
+ "dsub": 2000,
+ "n_learners": 100,
+ "results": {
+  "ixi|F|0.0027": {
+   "auc": {
+    "RANDSEQ": 0.6295,
+    "COSTKEY": 0.558
+   },
+   "contrasts": {
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.0715,
+     "ci95_subject_bootstrap": [
+      -0.0824,
+      -0.0605
+     ]
+    }
+   }
+  },
+  "ixi|M|0.0027": {
+   "auc": {
+    "RANDSEQ": 0.6295,
+    "COSTKEY": 0.6202
+   },
+   "contrasts": {
+    "COSTKEY-RANDSEQ": {
+     "diff": -0.0093,
+     "ci95_subject_bootstrap": [
+      -0.0232,
+      0.0042
+     ]
+    }
+   }
+  }
+ }
+}

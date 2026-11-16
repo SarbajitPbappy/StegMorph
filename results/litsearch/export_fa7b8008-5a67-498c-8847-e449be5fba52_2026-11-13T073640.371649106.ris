@@ -1,0 +1,1237 @@
+TY  - JOUR
+AU  - Roselinkiruba, R.
+AU  - Sharmila, T.S.
+TI  - Dynamic optimal pixel block selection data hiding approach using bit plane and image encryption
+PY  - 2023
+T2  - International Journal of Information Technology (Singapore)
+VL  - 15
+IS  - 7
+SP  - 3441
+EP  - 3448
+DO  - 10.1007/s41870-023-01363-y
+UR  - https://www.scopus.com/pages/publications/85168335452?origin=resultslist
+AB  - Data hiding (DH) is a technique that hides the existence of sensitive information from the malicious users. In this paper, a novel dynamic block selection (DBS) and DH methods with image encryption (IE) has been developed to improve the embedding capacity (EC), and quality of the stego image. Initially, optimal pixels (OP) is found using fruit fly optimization hybridized improved seeker (FOIS) algorithm. The OP is grouped together with the intensity and pixel value difference (PVD) with its nearest OP. Pixel sorting value (PSV) is a method to shuffle the pixel value (PV) which improves the performance. The different DH along with weight based data embedding (WDE) capacity predictions are achieved by hiding the secret data in each block by using Most Significant Bit (MSB) and least significant bit (LSB) techniques. The data security is improved by rivest cipher (RC4) encryption and the IE is achieved using bit plane encryption (BPE) method. The experimental results show that the proposed method performs better than existing state-of-the-art methods. Further, it can resist the regular singular (RS) and it pixel differencing histogram (PDH) analysis. © 2023, The Author(s), under exclusive licence to Bharati Vidyapeeth's Institute of Computer Applications and Management.
+KW  - Block selection process
+KW  - Data hiding
+KW  - Optimal pixels
+KW  - Pixel difference
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85168335452
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Ali, Y.M.B.
+TI  - Improved-PSO approach for a steganographic embedding scheme
+PY  - 2018
+T2  - ACM International Conference Proceeding Series
+C7  - a30
+DO  - 10.1145/3330089.3330130
+UR  - https://www.scopus.com/pages/publications/85068769693?origin=resultslist
+AB  - In this paper, we intend to tackle the steganography task by a bio-inspired approach. Indeed, a novel embedding scheme using the substitution principle of LSB and related to an improved version of particle swarm optimization algorithm is proposed. To fulfill the requirement of an efficient steganographic tool, some updating at the evolution rules of a particle were done. The improved-PSO embedding scheme looks for the best pixels locations, and eventually the best pixels bits to hide secret messages -both text and image- without degrading the quality of the original image. Thus, the robustness of the proposed steganographic scheme relates strongly on the strength of the improved-PSO algorithm in order to achieve higher imperceptibility. Three test cases were undertaken to highlight the performance of the improved-PSO embedding scheme. © 2018 Association for Computing Machinery.
+KW  - Adaptive LSB
+KW  - Adaptive particle swarm optimization
+KW  - PSO steganographic embedding scheme
+KW  - Embeddings
+KW  - Image enhancement
+KW  - Pixels
+KW  - Software engineering
+KW  - Adaptive LSB
+KW  - Adaptive particle swarm optimizations
+KW  - Bio-inspired approach
+KW  - Improved pso algorithms
+KW  - Particle swarm optimization algorithm
+KW  - PSO steganographic embedding scheme
+KW  - Steganographic schemes
+KW  - Substitution principles
+KW  - Particle swarm optimization (PSO)
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85068769693
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Grajeda-Marín, I.R.
+AU  - Montes-Venegas, H.A.
+AU  - Marcial-Romero, J.R.
+AU  - Hernández-Servín, J.A.
+AU  - Muñoz-Jiménez, V.
+AU  - Luna, G.D.I.
+TI  - A New Optimization Strategy for Solving the Fall-Off Boundary Value Problem in Pixel-Value Differencing Steganography
+PY  - 2018
+T2  - International Journal of Pattern Recognition and Artificial Intelligence
+VL  - 32
+IS  - 1
+C7  - 1860010
+DO  - 10.1142/S0218001418600108
+UR  - https://www.scopus.com/pages/publications/85026375488?origin=resultslist
+AB  - In Digital Image Steganography, Pixel-Value Differencing (PVD) methods use the difference between neighboring pixel values to determine the amount of data bits to be inserted. The main advantage of these methods is the size of input data that an image can hold. However, the fall-off boundary problem and the fall in error problem are persistent in many PVD steganographic methods. This results in an incorrect output image. To fix these issues, usually the pixel values are either somehow adjusted or simply not considered to carry part of the input data. In this paper, we enhance the Tri-way Pixel-Value Differencing method by finding an optimal pixel value for each pixel pair such that it carries the maximum input data possible without ignoring any pair and without yielding incorrect pixel values. © 2018 World Scientific Publishing Company.
+KW  - Optimization
+KW  - PVD
+KW  - steganography
+KW  - TPVD
+KW  - tri-way pixel-value differencing
+KW  - Input output programs
+KW  - Optimization
+KW  - Physical vapor deposition
+KW  - Steganography
+KW  - Boundary problems
+KW  - Digital image steganography
+KW  - Error problems
+KW  - Input datas
+KW  - Optimization strategy
+KW  - Pixel values
+KW  - Pixel-value differencing
+KW  - TPVD
+KW  - Pixels
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85026375488
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Wu, C.-C.
+AU  - Kao, S.-J.
+AU  - Hwang, M.-S.
+TI  - A high quality image sharing with steganography and adaptive authentication scheme
+PY  - 2011
+T2  - Journal of Systems and Software
+VL  - 84
+IS  - 12
+SP  - 2196
+EP  - 2207
+DO  - 10.1016/j.jss.2011.06.021
+UR  - https://www.scopus.com/pages/publications/80053566409?origin=resultslist
+AB  - With the rapid growth of numerous multimedia applications and communications through Internet, secret image sharing has been becoming a key technology for digital images in secured storage and confidential transmission. However, the stego-images are obtained by directly replacing the least-significant-bit planes (LSB) of cover-images with secret data and authentication code in most schemes, which will result in the distortion of the stego-images. In this paper, we proposed a novel secret image sharing scheme by applying optimal pixel adjustment process to enhance the image quality under different payload capacity and various authentication bits conditions. The experimental results showed that the proposed scheme has improved the image quality of stego images by 4.71%, 9.29%, and 11.10%, as compared with the schemes recently proposed by Yang et al.; Chang et al.; and Lin and Tsai. We also provide several experiments to demonstrate the efficacy of authentication capability of the proposed scheme. In other words, our scheme maintains the secret image sharing and authentication ability while enhances the image quality. © 2011 Elsevier Inc. All rights reserved.
+KW  - (k, n)-Threshold scheme
+KW  - Authentication code
+KW  - Cryptography
+KW  - Fragile watermark
+KW  - Hash message authentication code
+KW  - Optimal pixel adjustment
+KW  - Secret sharing
+KW  - Steganography
+KW  - Authentication
+KW  - Digital image storage
+KW  - Image quality
+KW  - Optimization
+KW  - Pixels
+KW  - Steganography
+KW  - (k, n)-Threshold scheme
+KW  - Authentication code
+KW  - Fragile watermark
+KW  - Message authentication codes
+KW  - Optimal pixel adjustment
+KW  - Secret sharing
+KW  - Cryptography
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-80053566409
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 84
+ER  -
+
+TY  - JOUR
+AU  - Farhan, A.K.
+AU  - Ali, R.S.
+AU  - Ali, S.M.
+TI  - Secure location map and encryption key based on intelligence search algorithm in encryption and steganography to data protection
+PY  - 2019
+T2  - International Journal of Mechanical Engineering and Technology
+IS  - 1
+SP  - 8
+EP  - 24
+UR  - https://www.scopus.com/pages/publications/85060924487?origin=resultslist
+AB  - In the digital world, data is that the heart of computer communication and world economy to make sure the safety for this data it is desired secure transmission of confidential data that gets an excellent deal of attention. Therefore; it’s necessary to use effective methods to reinforce information security. Many strategies are coming up to shield the information from going to unauthorized person. Steganography and cryptography are 2 completely different mechanisms for information security. The main purpose in cryptography is to create message idea unintelligible, whereas steganography aims to hide secret message. Digital-pictures are wonderful carriers of hidden information. Combining these two methods is a topic of high relevance since secure communication is inevitable for mankind. In this paper, a method for protection data was proposed comprises a hybridization between cryptography and steganography. In the proposed approach particle swarm optimization algorithm (PSO) was used in both methods(encryption and steganography).The PSO algorithm was used in key generation process for data encryption and in generating hidden locations for data hiding. Also, the Least Significant Bit (LSB)was utilized to add the encrypted data into LSB of the cover and the PSO was utilized to specify the location of hiding data. The data will be encrypted by using stream cipher method. The image will be transmitted and received through the internet and the extraction process would be exactly reveres for hidden process. Experimental results illustrate that the visual, and therefore applying mathematics values of the image with encrypted information before the insertion represented as the same as the values after the insertion so that the reduction in the possibility of the confidential-message to be detected and allows secret communication. The effectiveness of the projected technique has been calculable by computing 5 statistical tests, 16 NIST tests for the generated key and encryption algorithm respectively; also, the steganography statistical tests such as Mean square error (MSE), Peak Signal to Noise Ratio (PSNR), Average Difference (AD), Maximum Difference (MD), Normalized Cross-correlation (NC), Mean Absolute Error (MAE), Normalized Absolute Error (NAE), Structural Content (SC), Signal-To-Noise Ratio(SNR), Similarity Measure (SIM) and Unified average changing intensity Measure (UACI) are computed. © IAEME Publication.
+KW  - Least Significant Bit (LSB)
+KW  - Particle Swarm Optimization method
+KW  - Steganography
+KW  - Stream Cipher Method
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85060924487
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Kiruba, K.
+AU  - Karthikeyan, S.
+TI  - Reliable detection of adaptive pixel pair matching in color and grayscale images
+PY  - 2013
+T2  - 2013 International Conference on Information Communication and Embedded Systems, ICICES 2013
+C7  - 6508352
+SP  - 943
+EP  - 946
+DO  - 10.1109/ICICES.2013.6508352
+UR  - https://www.scopus.com/pages/publications/84879859822?origin=resultslist
+AB  - Steganograhy is one of the good hiding techniques which hide the data in other data or digital image. Generally in data hiding method there will be a problem of imbalanced embedding distortion and is vulnerable to steganalysis. Pixel pair matching (PPM) is one of a new data embedding method which introduce two methods such as diamond encoding (DE) and exploiting modification direction (EMD) method. This paper proposed a simple and efficient data embedding method based on PPM where the values of pixel pair is consider as reference coordinate and it look for coordinate in the neighborhood set in accordance with the message digit.DE increase the payload of EMD which have the higher capacity of payload as1.161bpp. Optimal pixel adjustment process (OPAP) considerably reduces the distortion for various payload. The proposed method provides the enhanced performance and lower distortion with higher payload than those of OPAP and DE. © 2013 IEEE.
+KW  - adaptive pixel pair matching (APPM)
+KW  - diamond encoding (DE)
+KW  - exploiting modification direction (EMD)
+KW  - Least significant bit (LSB)
+KW  - optimal pixel adjustment process (OPAP)
+KW  - pixel pair matching (PPM)
+KW  - Color matching
+KW  - Communication
+KW  - Embedded systems
+KW  - Encoding (symbols)
+KW  - Optimization
+KW  - Steganography
+KW  - Adaptive pixel pair matching (APPM)
+KW  - Diamond encoding
+KW  - Exploiting modification direction (EMD)
+KW  - Least significant bits
+KW  - Optimal pixel adjustment process (OPAP)
+KW  - Pixel pair matching (PPM)
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84879859822
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Malicsi, A.A.
+AU  - Sison, A.M.
+TI  - Spatial-Based 2D Image Steganography using Josephus-Traversing Concentric Midpoint Circle Algorithm
+PY  - 2023
+T2  - International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+SP  - 208
+EP  - 213
+DO  - 10.1109/EECSI59885.2023.10295821
+UR  - https://www.scopus.com/pages/publications/85178047795?origin=resultslist
+AB  - Steganography is the science of hiding secret messages within media like images and further studies have been conducted to enhance existing techniques to secure communication between parties. There are concluded studies that focus on the enhancement of individual steganography techniques like LSB, MSB, and PVD but still embed secret data in sequential order. In this kind of approach, attackers may first opt to analyze pixels in this common approach and can easily extract the hidden message. The proposed method uses Midpoint Circle Algorithm to determine the intermediate pixel locations to be used for embedding and to arrange them based on the number of skips through the concept of Josephus Problem to add confusion. The proposed method still uses the traditional LSB, MSB, and PVD approaches but image quality and security are ensured. In testing the proposed method, PSNR, MSE, and SSIM were determined, as well as the histogram and pixel differences. As a result, using these metrics, the proposed method is on par with the traditional method in terms of the quality. But since it has a new approach in embedding secret data, security is its main advantage. The recommendations for the improvement of this study include the code optimization of midpoint circle algorithm to analyze images regardless of their sizes, and for better quality and security, the acceptance of colored images and enhancement of the said spatial-based steganography techniques applied to this proposed method. © 2023 IEEE.
+KW  - image steganography
+KW  - information security
+KW  - Josephus Problem
+KW  - midpoint circle algorithm
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85178047795
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Luo, Z.
+AU  - Li, F.
+AU  - Peng, J.
+TI  - LBP-LSB Co-Optimisation for Dynamic Unseen Backdoor Attacks
+PY  - 2025
+T2  - Electronics (Switzerland)
+VL  - 14
+IS  - 21
+C7  - 4216
+DO  - 10.3390/electronics14214216
+UR  - https://www.scopus.com/pages/publications/105021401389?origin=resultslist
+AB  - Aiming at the problems of fixed trigger patterns that are prone to detection in existing invisible backdoor attacks, this paper proposes a backdoor attack method that integrates local binary pattern (LBP) with dynamic randomized least significant bit (LSB) steganography. The multi-bit coding characteristic of LBP is leveraged to enrich the representational expressiveness of trigger information within the embedding budget, combined with LSB steganography to maintain visual imperceptibility, and a pseudo-random number generator (PRNG) is introduced to randomize embedding locations to mitigate detectors that rely on fixed-position patterns. Experiments show that the proposed method demonstrates potential advantages in terms of steganography, attack success rate, and anti-detection capability on both CIFAR-10 and Tiny-ImageNet datasets. Among them, the structural similarity index (SSIM) and peak signal-to-noise ratio (PSNR) reach up to 0.98 and above 36 dB in terms of covertness, respectively. In anti-detection experiments, the attack method maintains high attack success rates under D-BR defense (CIFAR-10: Test_ASR > 85%; Tiny-ImageNet: Test_ASR > 95%), while under SPECTRE defense—a spectral-based statistical method—the defender’s leakage detection rate of poisoned samples remains low (CIFAR-10: 5.96%; Tiny-ImageNet: 10.56%). This clearly validates the proposed attack’s robustness against mainstream defense mechanisms. © 2025 by the authors.
+KW  - backdoor attack
+KW  - least significant bit
+KW  - local binary pattern
+KW  - pseudorandom number generator
+KW  - trigger
+KW  - Budget control
+KW  - Embeddings
+KW  - Network security
+KW  - Number theory
+KW  - Random number generation
+KW  - Steganography
+KW  - Attack methods
+KW  - Backdoor attack
+KW  - Backdoors
+KW  - Co-optimization
+KW  - Embeddings
+KW  - Least significant bit steganography
+KW  - Least significant bits
+KW  - Local binary patterns
+KW  - Pseudorandom number generators
+KW  - Trigger
+KW  - Signal to noise ratio
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105021401389
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Hussain, A.Z.
+AU  - Maisa’a Abid Ali, K.
+TI  - Securing Medical Images Using Chaotic Map Encryption and LSB Steganography
+PY  - 2024
+T2  - Revue d'Intelligence Artificielle
+VL  - 38
+IS  - 1
+SP  - 313
+EP  - 321
+DO  - 10.18280/ria.380133
+UR  - https://www.scopus.com/pages/publications/85187352895?origin=resultslist
+AB  - Secure image transfer is a difficult topic in the age of communication technology because millions of people utilize and share images online for personal and professional reasons. Encryption algorithms, such as cipher images, help achieve secure transfer through networks. Despite attackers having decryption keys, they cannot retrieve the original image. To ensure integrity assurance, prevent changes to medical images that could lead to a misdiagnosis, transmit patient medical records in a private and secure manner, and prevent falling victim to cyberattacks, a high-performance, effective method of encrypting medical images must be developed. Encrypting medical images is common in telemedicine, making secure image transfer essential. The medical dataset includes personal data about the health of a patient. All essential information, including medical images, is now kept on picture and communication servers because of the growing interest in inpatient records across the world. In this study, we presented a unique approach to medical picture encryption that combines the Triple data encryption algorithm (3DES) and advanced encryption standard (AES) methods with three chaotic maps (Logistic, Arnold CAT, and Baker). The BAT optimization algorithm is also used to accomplish the task of key generation. Finally, the Least Significant Bit (LBS) is used to hide encrypted medical images before sending them to the server by TCP/IP protocol. The experiments yielded promising results in entropy of 5.92, PSNR of 0.99, and MSE 0.0001. © 2024 International Information and Engineering Technology Association. All rights reserved.
+KW  - advanced encryption standard (AES)
+KW  - bat algorithm (BA)
+KW  - chaotic map
+KW  - image encryption
+KW  - least significant bit (LBS)
+KW  - triple data encryption standard (3DES)
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85187352895
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Bhandari, M.
+AU  - Panday, S.
+AU  - Bhatta, C.P.
+AU  - Panday, S.P.
+TI  - Image Steganography Approach Based Ant Colony Optimization with Triangular Chaotic Map
+PY  - 2022
+T2  - Proceedings of 2nd International Conference on Innovative Practices in Technology and Management, ICIPTM 2022
+SP  - 429
+EP  - 434
+DO  - 10.1109/ICIPTM54933.2022.9753917
+UR  - https://www.scopus.com/pages/publications/85129368968?origin=resultslist
+AB  - To establish the secure communication using image steganography by hiding the information in cover image, the study focus on image steganography based on Ant Colony Optimization (ACO) where the cover image is divided into number of 5×5 blocks. As pixel values after ACO are considered as the optimal pixels, the ants search the next qualified pixels on reference to pheromone trails to encode the text messages. After ACO, Triangular Chaotic Map (TCM) is imposed based on initial value of chaotic sequences. The proposed method outperformed other state-of-art methods like classical Least Significant Bit(LSB), LSB with ACO, LSB with logistic map for all the images under consideration: lenna.png (0.00046, 83.4021, 0.0007, 0.9990964, 0.9983), baboon.png (0.00027, 82.5526, 0.0009, 0.9990542, 0.9985), pepper.png (0.00067, 71.2322, 0.0004, 0.9990560, 0.9947), dog.png (0.00045, 70.4590, 0.0005, 0.9990024, 0.9904) and flower.png (0.00067, 71.2322, 0.0004, 0.9990560, 0.9947) under the evaluation metrics as Mean Square Error (MSE), Peak Signal to Noise Ratio (PSNR), Mean Absolute Error (MAE), F-Score and Structural Similarity Index Matrix (SSIM) respectively. © 2022 IEEE.
+KW  - Chaotic Sequence
+KW  - Cover Image
+KW  - Imperceability
+KW  - Payload Capacity
+KW  - Pheromone Trails
+KW  - Stego Image
+KW  - Artificial intelligence
+KW  - Chaotic systems
+KW  - Mean square error
+KW  - Pixels
+KW  - Signal to noise ratio
+KW  - Steganography
+KW  - Ant colonies
+KW  - Chaotic sequence
+KW  - Colony optimization
+KW  - Cover-image
+KW  - Image steganography
+KW  - Imperceability
+KW  - Least significant bits
+KW  - Pay load capacity
+KW  - Pheromone trails
+KW  - Stego image
+KW  - Ant colony optimization
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85129368968
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Denis, R.
+AU  - Madhubala, P.
+TI  - Evolutionary computing assisted visually-imperceptible hybrid cryptography and steganography model for secure data communication over cloud environment
+PY  - 2020
+T2  - International Journal of Computer Networks and Applications
+VL  - 7
+IS  - 6
+SP  - 208
+EP  - 230
+DO  - 10.22247/ijcna/2020/205321
+UR  - https://www.scopus.com/pages/publications/85099178019?origin=resultslist
+AB  - The exponential growth of communication technologies and related application environments has broadened the cloud computing ecosystem horizon to meet major communication needs. However, in-parallel upsurge in online attacks, security breaches or allied intrusion events has alarmed industries to ensure optimal data security. Unlike text data transmission, image, or other multimedia communication over the cloud requires computational efficiency, imperceptibility, etc. to meet attack-resilient transmission. Amongst the major available security systems, the combination of cryptosystems and steganography has been identified as an augmented security model for data transmission. However, it demands enhancement in both stages to meet cloud-specific communication efficiency. Considering it as motivation, in this paper an efficient Visually Imperceptible Hybrid Crypto-Steganography (VIHCS) model is developed using Hybrid Cryptosystems followed by Adaptive Genetic Algorithm assisted Least Significant Bit (LSB) embedding process. We developed a novel Hybrid Cryptosystem by strategically applying Advanced Encryption Standard (AES) and Rivest-Shamir-Adleman (RSA) algorithms to secure secret data to be embedded in a cover image. In addition, the use of the Adaptive Genetic Algorithm based Optimal Pixel Adjustment (AGA-OPAP) strengthened the Least Significant Bit embedding while retaining the best possible image quality and visual imperceptibility. The proposed model achieved higher security, high embedding capacity as well as image quality, which is vital for cloud communication. To perform LSB embedding we applied 2D-Discrete Wavelet Transform (2D-DWT-2L) method with 8×8 dimensional block-wise embedding. It helps to achieve better embedding efficiency in conjunction with the AGA-OPAP model. Simulation results and respective visio-statistical assessment revealed that the proposed VIHCS model can accomplish better performance and reliable secure data communication over the cloud environment. Thus, the VIHCS model achieves maximum possible imperceptibility and hence can avoid attacks- such as steganalysis based attack or RS-attacks. © Ever Science Publications
+KW  - Adaptive Genetic Algorithm (AGA)
+KW  - Cloud Environment
+KW  - Encryption and Decryption
+KW  - Evolutionary Computing
+KW  - Hybrid Cryptography-Steganography Model
+KW  - Least Significant Bit (LSB)
+KW  - Secure Data Transmission
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85099178019
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 25
+ER  -
+
+TY  - JOUR
+AU  - Hong, W.
+AU  - Chen, T.-S.
+TI  - A novel data embedding method using adaptive pixel pair matching
+PY  - 2012
+T2  - IEEE Transactions on Information Forensics and Security
+VL  - 7
+IS  - 1 PART 2
+C7  - 5768076
+SP  - 176
+EP  - 184
+DO  - 10.1109/TIFS.2011.2155062
+UR  - https://www.scopus.com/pages/publications/84862908544?origin=resultslist
+AB  - This paper proposes a new data-hiding method based on pixel pair matching (PPM). The basic idea of PPM is to use the values of pixel pair as a reference coordinate, and search a coordinate in the neighborhood set of this pixel pair according to a given message digit. The pixel pair is then replaced by the searched coordinate to conceal the digit. Exploiting modification direction (EMD) and diamond encoding (DE) are two data-hiding methods proposed recently based on PPM. The maximum capacity of EMD is 1.161 bpp and DE extends the payload of EMD by embedding digits in a larger notational system. The proposed method offers lower distortion than DE by providing more compact neighborhood sets and allowing embedded digits in any notational system. Compared with the optimal pixel adjustment process (OPAP) method, the proposed method always has lower distortion for various payloads. Experimental results reveal that the proposed method not only provides better performance than those of OPAP and DE, but also is secure under the detection of some well-known steganalysis techniques. © 2011 IEEE.
+KW  - Adaptive pixel pair matching (APPM)
+KW  - diamond encoding (DE)
+KW  - exploiting modification direction (EMD)
+KW  - least significant bit (LSB)
+KW  - optimal pixel adjustment process (OPAP)
+KW  - pixel pair matching (PPM)
+KW  - Encoding (symbols)
+KW  - Optimization
+KW  - Steganography
+KW  - Data embedding methods
+KW  - Data-hiding
+KW  - exploiting modification direction (EMD)
+KW  - Least significant bits
+KW  - Neighborhood set
+KW  - optimal pixel adjustment process (OPAP)
+KW  - Pair matching
+KW  - Reference coordinates
+KW  - Steganalysis
+KW  - Pixels
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84862908544
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 235
+ER  -
+
+TY  - CONF
+AU  - Prema, G.
+AU  - Natarajan, S.
+TI  - An enhanced security algorithm for wireless application using RSA and genetic approach
+PY  - 2013
+T2  - 2013 4th International Conference on Computing, Communications and Networking Technologies, ICCCNT 2013
+C7  - 6726679
+DO  - 10.1109/ICCCNT.2013.6726679
+UR  - https://www.scopus.com/pages/publications/84894483041?origin=resultslist
+AB  - Image steganography is an emerging field of research for secure data hiding and transmission over networks. The proposed system provides the best approach for Least Significant Bit (LSB) based steganography using Genetic Algorithm (GA) along with Visual Cryptography (VC). Original message is converted into cipher text by using RSA and then hidden into the LSB of original image. Genetic Algorithm and Visual Cryptography has been used for enhancing the security. Genetic Algorithm is used to modify the pixel location of stego image and the detection of this message is complex. Visual Cryptography is used to encrypt the visual information. It is achieved by breaking the image into two shares based on a threshold. The performance of the proposed system is experimented by performing steganalysis and conducting benchmarking test for analysing the parameters like Mean Squared Error (MSE) and Peak Signal to Noise Ratio (PSNR). The main aim of this paper is to design the enhanced secure algorithm which uses both steganography using Genetic Algorithm and Visual Cryptography to ensure improved security and reliability. © 2013 IEEE.
+KW  - Genetic algorithm
+KW  - Steganalysis
+KW  - Steganography
+KW  - Visual cryptography
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84894483041
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Sabeti, V.
+AU  - Faiazi, S.
+TI  - MOLSBM: A Multi-Objective LSB Matching Steganography Method
+PY  - 2024
+T2  - 11th International Symposium on Telecommunication: Communication in the Age of Artificial Intelligence, IST 2024
+SP  - 738
+EP  - 743
+DO  - 10.1109/IST64061.2024.10843581
+UR  - https://www.scopus.com/pages/publications/85217622158?origin=resultslist
+AB  - A simple steganography technique called Least Significant Bit Matching (LSBM) has been vulnerable to detection in a number of different attacks. Imperceptibility (maintaining high perceptual image quality) and security are important steganography features. By using a better method, this research seeks to improve security as well as imperceptibility. Unlike most conventional steganography techniques, which concentrate on single-objective optimization, this work simultaneously optimizes security and imperceptibility using the Non-Dominated Sorting Genetic Algorithm II (NSGA-II). The cover image is divided into blocks by the suggested method, and each block has two main decisions to make: (1) selecting the seed for the pseudo-random number generator to find the best pixels for data embedding, and (2) selecting whether to adjust the pixel value if there is a discrepancy between the data bit and pixel LSB. Optimal pixels have the highest data bit-LSB match, and pixel value adjustments are made to minimize block histogram variations. NSGA-II is used for this multi-objective optimization. Comparative analysis shows that the proposed method significantly improved image quality metrics and reduced detection accuracy across various embedding rates. The Peak Signal-to-Noise Ratio (PSNR) was approximately 57.85, 55.85, and 53.15 at embedding rates of 0.3,0.5, and 0.8 bpp, respectively, reflecting a 2-3% improvement over LSBM Along with reducing the likelihood of detection by attacks. © 2024 IEEE.
+KW  - Least Significant Bit Matching (LSBM)
+KW  - Non-Dominated Sorting Genetic Algorithm II (NSGA-II)
+KW  - Steganalysis
+KW  - Steganography
+KW  - Embeddings
+KW  - Image analysis
+KW  - Image enhancement
+KW  - Random number generation
+KW  - Steganography
+KW  - Data bits
+KW  - Embedding rates
+KW  - Least significant bit matching
+KW  - LSB matching steganography
+KW  - Multi objective
+KW  - Non dominated sorting genetic algorithm ii (NSGA II)
+KW  - Non-dominated sorting genetic algorithm II
+KW  - Pixel values
+KW  - Steganalysis
+KW  - Image quality
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85217622158
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Saleh, I.A.
+AU  - Al-Omary, A.
+TI  - Apply bee colony optimization for image steganography with optical pixel adjustment
+PY  - 2016
+T2  - International Journal of Computing and Digital Systems
+VL  - 5
+IS  - 5
+SP  - 403
+EP  - 410
+DO  - 10.12785/IJCDS/050505
+UR  - https://www.scopus.com/pages/publications/85069908892?origin=resultslist
+AB  - In the recent two decades steganography or data hiding is widely used for concealing secret data instead of using encryption methods. It is used to hide image into a cover media without noticing the presence of the hidden message. Steganography's technique problem is the distortion obtained in the stego-image. This paper presents a new steganography techniques that decreases the stego-image distortion as well as increasing its secrecy. The proposed technique uses Bee Colony Optimization (BCO) along with the well-known Least Significant Bit (LSB) steganography algorithm. The secret image is embedded using LSB algorithm then the BCO with Optimal Pixel Adjustment process (OPAP) algorithm is used to find the best block matching matrix and then find the optimal substitution in the cover image. The calculated PSNR (Peak Signal to Noise Ratio) and MSB (mean square error) show that the proposed algorithm give big quality improvement over the traditional LSB (Least Significant Bit) algorithm and make the proposed technique more robust against attacks. © 2016 University of Bahrain. All rights reserved.
+KW  - Bee colony optimization
+KW  - Cover image
+KW  - Data hiding
+KW  - Image steganography
+KW  - Optimal pixel adjustment
+KW  - Stego image
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85069908892
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Khalil, N.
+AU  - Sarhan, A.
+AU  - Alshewimy, M.A.M.
+TI  - A secure image steganography based on LSB technique and 2D chaotic maps
+PY  - 2024
+T2  - Computers and Electrical Engineering
+VL  - 119
+C7  - 109566
+DO  - 10.1016/j.compeleceng.2024.109566
+UR  - https://www.scopus.com/pages/publications/85202075702?origin=resultslist
+AB  - This paper introduces a pioneering, effective data-hiding algorithm using different sizes of cover images and different types of secret data (image, txt, and audio). The proposed algorithm is based on a hybrid 1D chaotic map combined with a 2D composite chaotic map paired with optimization and Least Significant Bits (LSB) techniques. We employ chaotic maps to create the initial embedding position vector, and LSB to hide the secret message in the cover image. The optimization technique utilizes the chaotic maps to optimize the random embedding sites, looking for value matches between the cover image pixels and the secret data bits. This partial improvement leads to a high-quality stego-image, a large embedding capacity, imperceptibility to the human eye, undetectability, and enhanced security. The outcomes of the extensive experiments show that when the payload is 4.2 bits per pixel, the peak signal-to-noise ratio value (PSNR), which expresses the visual quality, is above 30 dB. Furthermore, the experimental results illustrate that the system exhibits robustness against various types of attacks. As a final point of strength, the large key space (2^206) prevents the secret data from being resolved if stego-images are accessed by intruders or third parties. Even minor changes in key bits can significantly alter the extracted secret data, resulting in entirely different secret data. © 2024 Elsevier Ltd
+KW  - Chaotic maps
+KW  - Least significant bits
+KW  - Steganography
+KW  - Tabu search
+KW  - Chaotic map
+KW  - Cover-image
+KW  - Data images
+KW  - Data-hiding
+KW  - Different sizes
+KW  - Embeddings
+KW  - Image steganography
+KW  - Least significant bits
+KW  - Secret data
+KW  - Stego image
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85202075702
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Tawalbeh, L.A.
+AU  - Banimelhem, O.
+AU  - Al-Batati, M.
+TI  - A Novel High Quality High Capacity Image Hiding Scheme Based on Image Compression and an Optical Pixel Adjustment Process
+PY  - 2012
+T2  - Information Security Journal
+VL  - 21
+IS  - 5
+SP  - 256
+EP  - 268
+DO  - 10.1080/19393555.2012.694979
+UR  - https://www.scopus.com/pages/publications/84865253186?origin=resultslist
+AB  - Image hiding methods embed a secret image into a host image. The resultant stego-image does not attract the interceptors that would not detect the differences between the host image and the stego-image. To exploit the great developments in the area of image compression and to improve the quality of stego-image, this paper proposes a new method to embed the secret image into the host image. Basically, the secret image is compressed and then embedded into host image. The embedding method is based on the Optimal Pixel Adjustment Process (OPAP) and genetic algorithm. In the paper we addressed the important issues to build such systems. The experimental results showed that the proposed method can improve the quality from 60% to 80% when compared with the simple Least Significant Bit (LSB) replacement methods. Adding to that, the mean square error of the stego-image is much lower compared with other methods (Chan & Cheng, 2004; Chang, Hsiao, & Chan, 2003; Thien & Lin, 2003; Tseng, Chan, Ho, & Chu, 208; Wang, Lin, & Lin, 2001). Also, the proposed technique improves capacity. In other words, we can embed a secret image with size 450 × 450 inside a hosting image with size 512 × 512. © 2012 Copyright Taylor and Francis Group, LLC.
+KW  - genetic algorithm
+KW  - image hiding
+KW  - OPAP
+KW  - steganography
+KW  - Genetic algorithms
+KW  - Pixels
+KW  - Steganography
+KW  - Embedding method
+KW  - High capacity
+KW  - High quality
+KW  - Host images
+KW  - Image hiding
+KW  - Image hiding method
+KW  - Image hiding schemes
+KW  - Least significant bits
+KW  - OPAP
+KW  - Replacement methods
+KW  - Secret images
+KW  - Stego image
+KW  - Image compression
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84865253186
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Boryczka, M.
+AU  - Kazana, G.
+TI  - Hiding Information in Digital Images Using Ant Algorithms
+PY  - 2023
+T2  - Entropy
+VL  - 25
+IS  - 7
+C7  - 963
+DO  - 10.3390/e25070963
+UR  - https://www.scopus.com/pages/publications/85175104553?origin=resultslist
+AB  - Stenographic methods are closely related to the security and confidentiality of communications, which have always been essential domains of human life. Steganography itself is a science dedicated to the process of hiding information in public communication channels. Its main idea is to use digital files or even communication protocols as a medium inside which data are hidden. The present research aims to investigate the applicability of ant algorithms in steganography and evaluate the effectiveness of this approach. Ant systems could be employed both in spatial and frequency-based image steganography. The combination of frequency domain and optimization method to increase robustness is used, and an integer wavelet transform is performed on the host image. ACO optimization is used to find the optimal coefficients describing where to hide the data. The other method utilizes ACO to determine the optimal pixel locations for embedding secret data in the cover image. ACO is also used to detect complex regions of the cover image. Afterward, the least-significant-bits (LSB) substitution is used to hide secret information in the detected complex regions’ pixels. Our study focuses on optimizing two mutually exclusive features of steganograms—high capacity and low distortion. An attempt was made to use ant systems to select areas of digital images that allow the greatest amount of information to be hidden with the least loss of image quality. The effect of variants of the ant system and its parameters on the quality of the results obtained was also investigated, and the final effectiveness of the proposed method was evaluated. The results of the experiments were compared with those published in related articles. The proposed procedures proved to be effective and allowed the embedding of large amounts of data with relatively little impact on image quality. © 2023 by the authors.
+KW  - ant algorithms
+KW  - digital image
+KW  - high capacity
+KW  - low distortion
+KW  - steganography
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85175104553
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Grajeda-Marín, I.R.
+AU  - Montes-Venegas, H.A.
+AU  - Marcial-Romero, J.R.
+AU  - Hernández-Servín, J.A.
+AU  - De Ita, G.
+TI  - An optimization approach to the TWPVD method for digital image steganography
+PY  - 2016
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 9703
+SP  - 125
+EP  - 134
+DO  - 10.1007/978-3-319-39393-3_13
+UR  - https://www.scopus.com/pages/publications/84977538454?origin=resultslist
+AB  - In Digital Image Steganography, Pixel-Value Differencing methods commonly use the difference between two consecutive pixel values to determine the amount of data bits that can be inserted in every pixel pair. The advantage of these methods is the overall amount of data that an image can carry. However, these algorithms frequently either overflow or underflow the pixel values resulting in an incorrect output image. To circumvent this issue, either a number of extra steps are added to adjust those values, or simply the pixels are deemed unusable and they are ignored. In this paper, we adopt the Tri-way Pixel-Value Differencing method and find an optimal pixel value for each computed pixel block such that their difference holds the maximum input data and neither underflow or overflow pixels exist. © Springer International Publishing Switzerland 2016.
+KW  - Optimisation
+KW  - Steganography
+KW  - Tri-way Pixel-Value Differencing
+KW  - TWPVD
+KW  - Pattern recognition
+KW  - Steganography
+KW  - Digital image steganography
+KW  - Input datas
+KW  - Optimisations
+KW  - Optimization approach
+KW  - Pixel values
+KW  - Pixel-value differencing
+KW  - TWPVD
+KW  - Underflows
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84977538454
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Muhuri, P.K.
+AU  - Ashraf, Z.
+AU  - Goel, S.
+TI  - A Novel Image Steganographic Method based on Integer Wavelet Transformation and Particle Swarm Optimization
+PY  - 2020
+T2  - Applied Soft Computing Journal
+VL  - 92
+C7  - 106257
+DO  - 10.1016/j.asoc.2020.106257
+UR  - https://www.scopus.com/pages/publications/85084193268?origin=resultslist
+AB  - Image steganography is a technique of hiding secret data into a cover image and so as to prevent the intruders from accessing the secret data. The efficiency of image steganography techniques are usually evaluated based on perceptual transparency, payload capacity, security, temper resistance and computational costs. Though there has been significant improvement in related research over the decades, available steganographic techniques usually satisfy only a subset of these criteria. This paper presents a novel IWT (Integer Wavelet Transform) based steganography method using PSO (Particle Swarm Optimization) to find the optimal substitution matrix for converting secret data into their substituted forms. In the proposed method, optimal pixel adjustment process is used to improve perceptual transparency so that the obtained stego image has low distortion. The proposed method improves the security, imperceptibility, and robustness of the secret data by hiding them into the wavelet coefficients of an image. Thus, the paper provides a detailed study of the use of PSO in three different image steganographic methods based on (i) LSB (Least Significant Bit) substitution, (ii) DWT (Discrete Wavelet Transform), and (iii) IWT. Experiments are conducted using well-known benchmark images and results are comparatively analyzed. It is found that our proposed approach of PSO based IWT outperforms both PSO based LSB and PSO based DWT from the context of standard quality metrics, statistical analysis, security level estimation, payload capacity, imperceptibility etc. We have also provided a comparative overview of the existing data hiding methods including the proposed approach. © 2020 Elsevier B.V.
+KW  - Data hiding in image
+KW  - Discrete wavelet transform
+KW  - Image steganography
+KW  - Integer Wavelet Transform
+KW  - Particle Swarm Optimization
+KW  - Secure communication
+KW  - Aerodynamic loads
+KW  - Discrete wavelet transforms
+KW  - Image enhancement
+KW  - Integer programming
+KW  - Quality control
+KW  - Signal reconstruction
+KW  - Steganography
+KW  - Transparency
+KW  - Integer wavelet transformation
+KW  - Integer wavelet transforms
+KW  - Least significant bits
+KW  - Optimal pixel adjustment process
+KW  - Perceptual transparency
+KW  - PSO(particle swarm optimization)
+KW  - Substitution matrix
+KW  - Wavelet coefficients
+KW  - Particle swarm optimization (PSO)
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85084193268
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 101
+ER  -
+
+TY  - JOUR
+AU  - Mohsin, A.H.
+AU  - Jasim, A.N.
+AU  - Shareef, A.H.
+AU  - Zaidan, A.A.
+AU  - Zaidan, B.B.
+AU  - Albahri, O.S.
+AU  - Albahri, A.S.
+AU  - Alsalem, M.A.
+AU  - Mohammed, K.I.
+AU  - Nidhal, S.
+AU  - Jalood, N.S.
+TI  - New Method of Image Steganography Based on Particle Swarm Optimization Algorithm in Spatial Domain for High Embedding Capacity
+PY  - 2019
+T2  - IEEE Access
+VL  - 7
+C7  - 8883200
+SP  - 168994
+EP  - 169010
+DO  - 10.1109/ACCESS.2019.2949622
+UR  - https://www.scopus.com/pages/publications/85077800364?origin=resultslist
+AB  - Steganography is a form of technology utilised to safeguard secret data during communication in addition to data repository. Numerous researchers have endeavoured to enhance the performance of steganography techniques through the development of an effective algorithm for the selection of the optimal pixel location within the host image for the concealment of secret bits, for the enhancement of the embedding capacity of the secret data, and for maintaining the visual quality of the host image (stego image) in an accepted rate after the concealment of the secret data. Therefore, steganography is perceived as a challenging task. Thus, the current study proposes a new technique for image steganography based on particle swarm optimisation (PSO) algorithm by using pixel selection for the concealment of a secret image in spatial domain, for the purpose of high embedment capacity. The stego possesses a high level of resistance against a steganalytic attack due to the security provided via image steganography. The function of PSO algorithm is to choose an optimal pixel in grey scale host image for the concealment of secret bits, as the PSO has the ability to achieve an efficient fitness calculation that depends on the cost matrix by dividing the host and secret images into four parts. First of all, the secret bits are modified, which are then embedded within the host image. Several locations in the host image are determined through the order of scanning the host pixels and starting point of the scanning for better least significant bits LSBs of each pixel. The PSO algorithm was utilised to ascertain the ideal initiating point and scanning order. Experimental results show that (1) the average peak signal to noise ratio PSNR value in the benchmark technique based on genetic algorithm for five standard stego images is 45.13%, whereas the result obtained from the recommended technique is 56.60%. (2) The proposed technique has an advantage over the benchmark with a percentage of 33.34%, which encompasses all associated issues within the checklist scenario. Therefore, the performance of the recommended technique is superior over existing techniques. © 2019 IEEE.
+KW  - High capacity
+KW  - image steganography
+KW  - particle swarm optimisation
+KW  - spatial domain
+KW  - Embeddings
+KW  - Genetic algorithms
+KW  - Image enhancement
+KW  - Image segmentation
+KW  - Pixels
+KW  - Scanning
+KW  - Signal to noise ratio
+KW  - Steganography
+KW  - Effective algorithms
+KW  - High capacity
+KW  - Image steganography
+KW  - Least significant bits
+KW  - Particle swarm optimisation
+KW  - Particle swarm optimization algorithm
+KW  - Peak signal to noise ratio
+KW  - Spatial domains
+KW  - Particle swarm optimization (PSO)
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85077800364
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 53
+ER  -
+
+TY  - CONF
+AU  - Laila, D.A.
+TI  - A Hybrid Multimedia Steganography Framework with Genetic Algorithm Optimization and Machine Learning-Based Packet Manipulation Detection
+PY  - 2025
+T2  - ACIT 2025 - 26th International Arab Conference on Information Technology, Conference Proceedings
+SP  - 999
+EP  - 1004
+DO  - 10.1109/ACIT68900.2025.11510668
+UR  - https://www.scopus.com/pages/publications/105041457919?origin=resultslist
+AB  - The increasing demand for secure multimedia communication has driven the evolution of steganographic techniques beyond single-media approaches. This paper presents a novel hybrid steganography framework that integrates data hiding across multiple media types-images, audio, and video-while employing genetic algorithm optimization for embedding position selection and machine learning-based packet manipulation detection. The proposed system utilizes media-specific embedding strategies: LSB modification for images, phase coding for audio, and motion vector adjustment for video, unified under an adaptive framework with XOR encryption. Genetic algorithm optimization enhances imperceptibility by intelligently selecting embedding positions based on perceptual significance and robustness criteria. The integrated machine learning component provides real-Time packet manipulation detection with 98.7% accuracy, ensuring communication channel integrity. Experimental evaluation on benchmark datasets demonstrates superior performance with PSNR values exceeding 45 dB for images, SNR above 35 dB for audio, and motion distortion below 2% for video. The system achieves an extraction accuracy of 99.5% under various attack scenarios while maintaining computational efficiency suitable for real-Time applications. Comparative analysis reveals \mathbf{2 5-4 0 \% improvement in robustness over traditional single-media steganographic methods. © 2025 IEEE.
+KW  - genetic algorithm
+KW  - hybrid steganography
+KW  - LSB embedding
+KW  - machine learning
+KW  - multimedia data hiding
+KW  - packet manipulation detection
+KW  - phase coding
+KW  - XOR encryption
+KW  - Audio signal processing
+KW  - Benchmarking
+KW  - Cryptography
+KW  - Embeddings
+KW  - Image coding
+KW  - Information hiding
+KW  - Machine learning
+KW  - Multimedia systems
+KW  - Steganography
+KW  - Video signal processing
+KW  - Data-hiding
+KW  - Genetic-algorithm optimizations
+KW  - Hybrid steganography
+KW  - LSB embedding
+KW  - Machine-learning
+KW  - Multimedia data
+KW  - Multimedium data hiding
+KW  - Packet manipulation detection
+KW  - Phase coding
+KW  - XOR encryption
+KW  - Computational efficiency
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105041457919
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Goyal, H.
+AU  - Singhal, S.
+AU  - Khater, M.
+AU  - Mahanta, A.
+AU  - Dadheech, P.
+TI  - An efficient image steganography using spider monkey optimization
+PY  - 2025
+T2  - Journal of Discrete Mathematical Sciences and Cryptography
+VL  - 28
+IS  - 5
+SP  - 1835
+EP  - 1843
+DO  - 10.47974/JDMSC-2183
+UR  - https://www.scopus.com/pages/publications/105017078822?origin=resultslist
+AB  - Image steganography, which encodes secret information into digital photos, is crucial for covert communication. It’s critical to strike a delicate balance between maintaining the altered image’s visual quality (imperceptibility) and concealing just the right amount of information (embedding rate). This paper proposes image steganography using Spider Monkey Optimization (SMO) in conjunction with Least Significant Bit (LSB) embedding, applied on 4-Cover Image Set of Lena-Pepper-Baboon-Jet of pixel size 256 x 256 to optimize pixel selection and reduce distortion to enhance embedding efficiency and security. It finds the optimal solution using SMO algorithm and inserts the message using least significant bit that exhibits the superior performance in order to imperceptibility and payload capacity, compared to Genetic Algorithm (GA) and Particle Swarm Optimization (PSO) along with existing methods. Experimental results depict SMO score 4-6 percent and 10-16 percent in Peak Signal-to-Noise Ratio (PSNR) and Mean Squared Error (MSE) over GA and PSO algorithms. © 2025, Taru Publications. All rights reserved.
+KW  - Image steganography
+KW  - LSB
+KW  - MSE
+KW  - Optimization
+KW  - PSNR
+KW  - Spider monkey optimization
+KW  - Steganalysis
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105017078822
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Roselin Kiruba, R.
+AU  - Sree Sharmila, T.
+TI  - Secure data hiding by fruit fly optimization improved hybridized seeker algorithm
+PY  - 2021
+T2  - Multidimensional Systems and Signal Processing
+VL  - 32
+IS  - 2
+SP  - 405
+EP  - 430
+DO  - 10.1007/s11045-019-00697-w
+UR  - https://www.scopus.com/pages/publications/85078590662?origin=resultslist
+AB  - The recent growth of World Wide Web (WWW) and development of the next-generation internet facilitates a huge amount of data being conveniently transmitted via wireless networks. The sensitive information transmitted is potentially vulnerable in the communication channel like wireless networks. Unauthorized users could potentially intercept and negatively exploit the true intent of the information being exchanged between legitimate users. The efficient steganography techniques are very useful to prevent such undesirable interception of information. In this work, we propose and evaluate an efficient image steganography using Fruit Fly Optimization hybridized Improved Seeker (FOIS) algorithm. The FOIS provides information security and safeguards the medical data to avoid medical related cybercrimes. FOIS efficiently determines the optimal locations of pixels adaptively in the spatial domain of the cover image. Initially, the cover image is divided into n blocks of 8 × 8 , on which a permutation combination is applied to find the number of blocks for further processing. This method improves the image quality and secures data. The secret messages are embedded in each block using optimal pixels selection and Least Significant Bit (LSB) of Discrete Cosine Transform coefficients. Moreover, in order to ensure seamless communication over an insecure communication channel, a dual cryptosystem model is developed which consist of the proposed steganography scheme and Rivest Cipher (RC4) cryptosystem. This work validates the security level of the stego image, and finally the performance is compared with state-of-the-art methods such as LSB, Particle Swarm Optimization and Genetic Algorithm. The performance assessment reveals that the proposed steganography model outperforms other optimization based approaches in terms of Peak Signal-to-Noise Ratio, embedding capacity and imperceptibility. © 2020, Springer Science+Business Media, LLC, part of Springer Nature.
+KW  - Fruit fly optimization hybridized improved seeker
+KW  - Genetic algorithm
+KW  - Image steganography
+KW  - Particle swarm optimization
+KW  - Communication channels (information theory)
+KW  - Cryptography
+KW  - Discrete cosine transforms
+KW  - Fruits
+KW  - Genetic algorithms
+KW  - Image coding
+KW  - Image quality
+KW  - Particle swarm optimization (PSO)
+KW  - Pixels
+KW  - Signal to noise ratio
+KW  - Steganography
+KW  - Web browsers
+KW  - Wireless networks
+KW  - Discrete cosine transform coefficients
+KW  - Fruit flies
+KW  - Image steganography
+KW  - Insecure communication channel
+KW  - Next generation Internet
+KW  - Peak signal to noise ratio
+KW  - Seamless communication
+KW  - State-of-the-art methods
+KW  - Image enhancement
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85078590662
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 29
+ER  -
+
+TY  - JOUR
+AU  - Sabeti, V.
+TI  - Enhancement of LSB Matching Steganography using Multiobjective Optimization Embedding to Improve Security and Imperceptibility
+PY  - 2026
+T2  - ISeCure
+VL  - 18
+IS  - 1
+SP  - 1
+EP  - 17
+DO  - 10.22042/isecure.2025.477842.1172
+UR  - https://www.scopus.com/pages/publications/105031354709?origin=resultslist
+AB  - Least Significant Bit Matching (LSBM) is a simple steganography approach that has been detected under multiple attacks. Imperceptibility (i.e., maintenance of high perceptual image quality) and security are significant parameters in steganography. However, most conventional steganography techniques rely on single-objective optimization, which focuses on improving one parameter while often compromising others. This limitation underscores the need for approaches that balance conflicting objectives. To address this, the present study employs the Non-Dominated Sorting Genetic Algorithm II (NSGA-II) to optimize security and imperceptibility. This methodology includes a cover image division into blocks, each with two critical decisions: (1) seed determination for the pseudo-random number generator to simultaneously identify optimal pixels for data embedding and (2) selecting whether the pixel value should be increased or reduced upon a mismatch between the data bit and pixel LSB. Pixels with the highest data bit–LSB correspondence are optimal, and a pixel value change (increase or reduction) is to minimize block histogram variation. This multiobjective optimization is carried out using NSGA-II. It was comparatively revealed that the developed methodology remarkably improved image quality metrics and decreased detection accuracy at different embedding rates. At embedding rates of 0.3, 0.5, and 0.8 bpp, the Peak Signal-to-Noise Ratio (PSNR) was approximately 57.65, 55.55, and 52.75, respectively. This result represents a 1.5-2.5% improvement compared to conventional LSBM techniques. © 2026 ISC. All rights reserved.
+KW  - Least Significant Bit Matching (LSBM)
+KW  - Non-Dominated Sorting Genetic Algorithm II (NSGA-II)
+KW  - Steganalysis
+KW  - Steganography
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105031354709
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - A F M Zainul, A.
+AU  - Sulaiman, R.
+TI  - A Multilayer Secure Image Steganography Framework Using Edge-Adaptive Embedding and Pre-Encryption
+PY  - 2026
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 17
+IS  - 5
+SP  - 77
+EP  - 87
+DO  - 10.14569/IJACSA.2026.0170509
+UR  - https://www.scopus.com/pages/publications/105043342904?origin=resultslist
+AB  - High-capacity image steganography aims to conceal large volumes of data while preserving imperceptibility and resistance to statistical and visual detection. This study proposes a multilayer secure image steganography framework using edge-adaptive embedding and pre-encryption. The method utilizes multiple edge detectors, namely Canny, Laplacian of Gaussian (LoG), and Prewitt, to accurately classify edge and non-edge regions, enabling efficient use of high-tolerance embedding areas. A Bee Colony Footprint Edge Optimization (BCFEO) algorithm is employed to select optimal embedding locations through a distortion-aware adaptive process, improving payload distribution under varying capacity conditions. For enhanced security, the secret message is encrypted prior to embedding using AES in Counter (CTR) mode, ensuring confidentiality without altering payload size and allowing exact recovery. A 5-LSB filtering mechanism is applied during preprocessing to reduce redundancy and control embedding distortion. The proposed framework is evaluated on a set of several 256x256 resized RGB images, including benchmark images from the USC-SIPI database and independently captured natural images, using standard performance metrics such as PSNR, SSIM, NCC, UIQI, and statistical steganalysis techniques. Experimental results demonstrate that the method achieves high embedding capacity with minimal visual degradation and improved performance compared to conventional edge-based approaches. The integration of adaptive optimized embedding and pre-encryption provides an efficient and reliable solution for secure image-based communication systems. The broader validation using larger datasets, different image resolutions, and more diverse image categories remains a future research direction. © (2026), (Science and Information Organization). All right reserved.
+KW  - AES-CTR encryption
+KW  - BCFEO nature-inspired optimization
+KW  - edge-adaptive embedding
+KW  - hybrid edge detection
+KW  - Image steganography
+KW  - statistical steganalysis
+KW  - Cryptography
+KW  - Edge detection
+KW  - Embeddings
+KW  - Image resolution
+KW  - Multilayers
+KW  - Optimization
+KW  - Adaptive embedding
+KW  - AES-counter encryption
+KW  - Bee colony footprint edge optimization nature-inspired optimization
+KW  - Edge-adaptive embedding
+KW  - Embeddings
+KW  - Hybrid edge detection
+KW  - Image steganography
+KW  - Optimisations
+KW  - Statistical steganalysis
+KW  - Steganography
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105043342904
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Rastogi, P.
+AU  - Tomar, K.
+AU  - Singhal, S.
+AU  - Shrotriya, A.
+TI  - Cuckoo-Optimized Chaos Embedding for Secure Image Steganography
+PY  - 2025
+T2  - Proceedings of IEEE International Conference on Modelling, Simulation and Intelligent Computing, MoSICom 2025
+SP  - 272
+EP  - 277
+DO  - 10.1109/MoSICom67153.2025.11398291
+UR  - https://www.scopus.com/pages/publications/105036271733?origin=resultslist
+AB  - This study introduces a novel steganographic framework that fuses Cuckoo Search optimization with chaotic maps and Lévy flights to improve security and imperceptibility in LSB embedding. By guiding pixel selection through chaotic behavior and Lévy-driven exploration, the method minimizes detectability while maintaining computational efficiency. Three core contributions define this work. First, among the chaotic systems evaluated, the Henon map offers the best tradeoff between capacity and stealth, achieving a fitness score of 0.67. Second, the Lévy-enhanced approach reduces pixel modifications by 1 5-4 0 \% compared to non-Lévy methods. Third, the system achieves strong imperceptibility, with a PSNR of 68.74 dB for 64 bit payloads and a 63 % reduction in modification variance. A 39% narrower modification range further confirms its robustness against statistical detection. These results demonstrate a secure and adaptive solution for high-capacity steganography, particularly suited to sensitive applications.  © 2025 IEEE.
+KW  - Chaos system embedding
+KW  - Cuckoo Search algorithm
+KW  - Lévy flight distribution
+KW  - Steganography
+KW  - Chaotic systems
+KW  - Computational efficiency
+KW  - Optimization
+KW  - Pixels
+KW  - Chaos system embedding
+KW  - Chaos systems
+KW  - Chaotic map
+KW  - Cuckoo search algorithms
+KW  - Cuckoo searches
+KW  - Embeddings
+KW  - Image steganography
+KW  - Levy flight distribution
+KW  - Levy flights
+KW  - Search optimization
+KW  - Steganography
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105036271733
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bedi, P.
+AU  - Bansal, R.
+AU  - Sehgal, P.
+TI  - Using PSO in image hiding scheme based on LSB substitution
+PY  - 2011
+T2  - Communications in Computer and Information Science
+VL  - 192 CCIS
+IS  - PART 3
+SP  - 259
+EP  - 268
+DO  - 10.1007/978-3-642-22720-2_26
+UR  - https://www.scopus.com/pages/publications/80051568544?origin=resultslist
+AB  - With the massive growth in internet applications, there is a continuous need of efficient steganography techniques for the purpose of secret data communication and for the authentication and ownership identification of host data. This paper presents an efficient image hiding scheme using Particle Swarm Optimization (PSO) in the spatial domain of digital images. The proposed technique uses PSO to find the best pixel locations in an image where the secret image pixel data can be embedded. This PSO algorithm uses the Structural similarity Index (SSIM) as the objective function which is based on the simple visual effect of the human visual perception capability. As a result, the pixel positions generated by the proposed method, when used for embedding secret image data, result in minimum distortion of the host image. The results of the proposed technique have been analyzed qualitatively and quantitatively and also compared with some recent LSB techniques. The results show better stego image quality along with high embedding capacity. © 2011 Springer-Verlag.
+KW  - image hiding
+KW  - particle swarm optimization
+KW  - spatial domain
+KW  - Steganography
+KW  - Image quality
+KW  - Pixels
+KW  - Steganography
+KW  - Digital image
+KW  - Embedding capacity
+KW  - Host images
+KW  - Human visual perception
+KW  - Image hiding
+KW  - Image hiding schemes
+KW  - Internet application
+KW  - Objective functions
+KW  - Particle swarm
+KW  - Pixel location
+KW  - Pixel position
+KW  - PSO algorithms
+KW  - Secret data
+KW  - Secret images
+KW  - Spatial domains
+KW  - Structural similarity
+KW  - Visual effects
+KW  - Particle swarm optimization (PSO)
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-80051568544
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Aljughaiman, A.
+AU  - Alrawashdeh, R.
+TI  - Optimization-driven steganographic system based on fused maps and blowfish encryption
+PY  - 2026
+T2  - Scientific Reports
+VL  - 16
+IS  - 1
+C7  - 4922
+DO  - 10.1038/s41598-026-35556-9
+UR  - https://www.scopus.com/pages/publications/105029232682?origin=resultslist
+AB  - Steganography as a practice is highly useful as it allows information to be concealed within digital images while maintaining visual quality. However, it can be a challenge to balance imperceptibility, capacity, and robustness while ensuring that embedded data remains secure against statistical and Deep Learning (DL)–based steganalysis. Therefore, we propose a new framework that utilizes the BOSSbase dataset for cover images, the USC-SIPI dataset for secreted images, and introduces adaptive image steganography, which combines fused map-based embedding with evolutionary optimization to solve existing problems. The system starts by encrypting the secret image through Blowfish cipher encryption to protect its confidentiality. The model generates a fused map through a combination of entropy and Laplacian-based noise maps from the cover image to determine the most suitable embedding areas. Next, we optimize the process of embedding location selection and ordering using Particle Swarm Optimization (PSO) to maximize both security and image quality. Next, we use priority-guided Least Significant Bits (LSB) substitution in the embedding process to generate an optimized priority map for inserting the encrypted bitstream into the image. The system can function on different cover image sizes, so at the resolution is 51-61 dB Peak Signal-to-Noise Ratio (PSNR) and 0.9972-1.0 Structural Similarity Index Measure (SSIM) for stego images at 0.1-1.0 Bits Per Pixel (BPP) with 262,144 bits while maintaining perfect secret reconstruction (SSIM = 1.000) and processing times under 0.25 seconds for embedding and extraction. Security tests demonstrate that the proposed system remains undetectable since the Area Under Curve (AUC) for reaches 0.49-0.57 across all payload levels and Regular Singular (RS) statistics remain at 0.59-0.66 between 0.1-1.0 BPP. The proposed model provides effective capacity while maintaining high visual quality and security against DL-based steganalysis, such as that using Convolutional Neural Networks (CNN). © The Author(s) 2026.
+KW  - Blowfish
+KW  - Fused Maps
+KW  - Particle Swarm Optimization (PSO)
+KW  - Steganography
+KW  - adult
+KW  - area under the curve
+KW  - article
+KW  - controlled study
+KW  - convolutional neural network
+KW  - deep learning
+KW  - encryption
+KW  - entropy
+KW  - human
+KW  - image quality
+KW  - noise
+KW  - particle swarm optimization
+KW  - signal noise ratio
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105029232682
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Nickfarjam, A.M.
+AU  - Azimifar, Z.
+TI  - Image steganography based on pixel ranking and Particle Swarm Optimization
+PY  - 2012
+T2  - AISP 2012 - 16th CSI International Symposium on Artificial Intelligence and Signal Processing
+C7  - 6313773
+SP  - 360
+EP  - 363
+DO  - 10.1109/AISP.2012.6313773
+UR  - https://www.scopus.com/pages/publications/84869182160?origin=resultslist
+AB  - We propose a novel approach for image steganog-raphy by taking the advantages of Particle Swarm Optimization (PSO) and Least Significant Bits (LSBs) replacement. This technique is based on hiding the Most Significant Bits (MSBs) of secret image pixels in LSBs of a host image. The proposed method finds the best pixel in order to embed. We define four feature functions and four corresponding coefficients to rank the pixels. The features and the coefficients are defined based on the MSBs of host image. Our method defines a special secret key for each host image based on PSO in which, each particle represents a potential solution and we can evaluate all of them. This novelty causes better exploration of search space in order to find suitable pixel ranking and higher security. The experimental results show the superiority of this approach over the state-of-the-art methods. © 2012 IEEE.
+KW  - Artificial intelligence
+KW  - Particle swarm optimization (PSO)
+KW  - Signal processing
+KW  - Feature function
+KW  - Host images
+KW  - Image steganography
+KW  - Least significant bits
+KW  - Most significant bit
+KW  - Potential solutions
+KW  - Search spaces
+KW  - Secret images
+KW  - Secret key
+KW  - State-of-the-art methods
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84869182160
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 14
+ER  -
+
+TY  - CONF
+AU  - Prema, G.
+AU  - Natarajan, S.
+TI  - Steganography using Genetic Algorithm along with Visual Cryptography for wireless network application
+PY  - 2013
+T2  - 2013 International Conference on Information Communication and Embedded Systems, ICICES 2013
+C7  - 6508373
+SP  - 727
+EP  - 730
+DO  - 10.1109/ICICES.2013.6508373
+UR  - https://www.scopus.com/pages/publications/84879871072?origin=resultslist
+AB  - Image steganography is an emerging field of research for secure data hiding and transmission over networks. The proposed system provides the best approach for Least Significant Bit (LSB) based steganography using Genetic Algorithm (GA) along with Visual Cryptography (VC). Original message is converted into cipher text by using secret key and then hidden into the LSB of original image. Genetic Algorithm and Visual Cryptography has been used for enhancing the security. Genetic Algorithm is used to modify the pixel location of stego image and the detection of this message is complex. Visual Cryptography is used to encrypt the visual information. It is achieved by breaking the image into two shares based on a threshold. The performance of the proposed system is experimented by performing steganalysis and conducting benchmarking test for analysing the parameters like Mean Squared Error (MSE) and Peak Signal to Noise Ratio (PSNR). The main aim of this paper is to design the enhanced secure algorithm which uses both steganography using Genetic Algorithm and Visual Cryptography to ensure improved security and reliability. © 2013 IEEE.
+KW  - genetic algorithm
+KW  - steganalysis
+KW  - steganography
+KW  - visual cryptography
+KW  - Ciphertexts
+KW  - Data-hiding
+KW  - Data-transmission
+KW  - Image steganography
+KW  - Least significant bits
+KW  - Network applications
+KW  - Secret key
+KW  - Secure data
+KW  - Steganalysis
+KW  - Visual cryptography
+KW  - Mean square error
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84879871072
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Sun, J.
+AU  - Li, Y.
+AU  - Zhong, X.
+AU  - Li, J.
+TI  - A scheme of LSB steganography based on concept of finding optimization pixels selection
+PY  - 2012
+T2  - Advances in Intelligent and Soft Computing
+VL  - 115 AISC
+IS  - VOL. 2
+SP  - 155
+EP  - 160
+DO  - 10.1007/978-3-642-25349-2_21
+UR  - https://www.scopus.com/pages/publications/84859049359?origin=resultslist
+AB  - Reduce the expected number of modifications per pixel (ENMPP) of cover image is a useful way to improve the imperceptibility in steganography. Many works related with this issue have been proposed in recent years. In this paper, a scheme of LSB steganography is proposed which based on concept of finding optimization pixels selection from cover image. The experimental results show that effect of reducing ENMPP is remarkable. © 2012 Springer-Verlag GmbH.
+KW  - ENMPP
+KW  - least significant bit
+KW  - LSB
+KW  - Steganography
+KW  - Knowledge engineering
+KW  - Optimization
+KW  - Software engineering
+KW  - Steganography
+KW  - Cover-image
+KW  - ENMPP
+KW  - Least significant bits
+KW  - LSB
+KW  - LSB steganography
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84859049359
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Kamil, S.
+AU  - Abdullah, S.N.H.S.
+AU  - Hasan, M.K.
+AU  - Bohani, F.A.
+TI  - Enhanced Flipping Technique to Reduce Variability in Image Steganography
+PY  - 2021
+T2  - IEEE Access
+VL  - 9
+SP  - 168981
+EP  - 168998
+DO  - 10.1109/ACCESS.2021.3133672
+UR  - https://www.scopus.com/pages/publications/85121380486?origin=resultslist
+AB  - Steganography algorithms hide the secret message in the cover image and provide imperceptibility to the attacker. The Least Significant Bit (LSB) algorithm is the preferred data hiding method. In this method, the least significant bit of the cover image pixel is substituted with the secret data bit. However, this method provides high variability if k-LSB bits of the cover image is replaced with secret data bit. To reduce the variability, various optimization algorithms are deployed in image steganography. These algorithms search the optimal pixels in the cover image, and data hiding is performed using the k-bits LSB method. Several iterations of optimization algorithms have increased the time complexity upon achieving this goal. Therefore, in this paper, a data hiding approach is designed based on the flipping approach that reduces variability and provides lesser time complexity. In the proposed method, initially, data hiding is performed using the k-bit LSB method in the cover image, and stego image is obtained. After that, the absolute difference between the cover and stego image is determined and compared with the threshold value. If the absolute difference is higher than the threshold value, then the adjacent bit of the k-bit LSB method is flipped. This process reduces the variability because flipping the adjacent bit will make the pixel value of the stego image closer to the cover image. The simulation evaluates using various performance metrics upon testing on standard dataset images. The simulation results show that the proposed method provides lesser variability, good visual quality, lesser time complexity than Genetic and Bayesian Optimization algorithms and the existing flip method.  © 2013 IEEE.
+KW  - data hiding
+KW  - Flipping method
+KW  - least significant bit
+KW  - variability
+KW  - Benchmarking
+KW  - Discrete cosine transforms
+KW  - Genetic algorithms
+KW  - Image coding
+KW  - Image enhancement
+KW  - Mean square error
+KW  - Signal to noise ratio
+KW  - Bayes method
+KW  - Cover-image
+KW  - Data hidden
+KW  - Embedding capacity
+KW  - Flipping methods
+KW  - Least significant bits
+KW  - Medium
+KW  - Optimisations
+KW  - Variability
+KW  - Visual qualities
+KW  - Steganography
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85121380486
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Lin, K.Y.
+AU  - Hong, W.
+AU  - Chen, J.
+AU  - Chen, T.S.
+AU  - Chiang, W.C.
+TI  - Data hiding by Exploiting Modification Direction technique using optimal pixel grouping
+PY  - 2010
+T2  - ICETC 2010 - 2010 2nd International Conference on Education Technology and Computer
+VL  - 3
+C7  - 5529581
+SP  - V3121
+EP  - V3123
+DO  - 10.1109/ICETC.2010.5529581
+UR  - https://www.scopus.com/pages/publications/77956041740?origin=resultslist
+AB  - Zhang and Wang proposed the Exploiting Modification Direction (EMD) in 2006. The pixels in the image were grouped into n pixels per group. A pixel in each group is modified one gray scale value at most to hide a secret digit in a (2n+1)-ary notational system. In this paper, we proposed an optimized EMD method by analyzing the relationship between n and payload. The study involves using known payload on EMD to ascertain the least distortion result to begin the actual hiding process. Comparison results showed that the PSNR of optimized EMD embedding is significantly higher than OPAP and LSB by at least 3 dBs. © 2010 IEEE.
+KW  - Exploiting Modification Direction (EMD)
+KW  - Least Significant Bit (LSB)
+KW  - Optimal Pixel Adjustment Process (OPAP)
+KW  - Optimization
+KW  - Comparison result
+KW  - Data hiding
+KW  - EMD method
+KW  - Exploiting Modification Direction (EMD)
+KW  - Gray scale
+KW  - Least significant bits
+KW  - Optimal Pixel Adjustment Process (OPAP)
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-77956041740
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Chandrasekaran, J.
+AU  - Arumugam, G.
+AU  - Rajkumar, D.
+TI  - Ensemble of logistic maps with genetic algorithm for optimal pixel selection in image steganography
+PY  - 2015
+T2  - 2nd International Conference on Electronics and Communication Systems, ICECS 2015
+C7  - 7124769
+SP  - 1172
+EP  - 1175
+DO  - 10.1109/ECS.2015.7124769
+UR  - https://www.scopus.com/pages/publications/84942693919?origin=resultslist
+AB  - Due to the explosive growth of internet technologies and its applications, steganography and steganalysis have become an prominent area of research. Least Significant Bit (LSB) substitution, a spatial domain steganographic technique involves replacement of the least significant bit of randomly selected pixels in the cover image with the secret message bit. The distortion in the cover image increases with the increasein size of the information to be hidden. The research focus of the problem is to optimize the pay load capacity subject to minimal visual degradation. The problem solution is to employ logistic maps for the random selection of pixels. The randomness of the pixels selected is further optimized by the application of genetic algorithm subjected to the minimal distortion of the cover image. Experimental results prove the robustness of the proposed algorithm in terms of improved payload capacity, minimal degradation in picture quality, high randomness in pixel selection and high security compliance. © 2015 IEEE.
+KW  - Image Steganography
+KW  - Information Hiding
+KW  - Information Security
+KW  - Logistic Maps and Genetic Algorithm
+KW  - Genetic algorithms
+KW  - Random processes
+KW  - Security of data
+KW  - Steganography
+KW  - Image steganography
+KW  - Information hiding
+KW  - Internet technology
+KW  - Least significant bits
+KW  - Logistic maps
+KW  - Minimal distortion
+KW  - Pay load capacity
+KW  - Visual degradations
+KW  - Pixels
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84942693919
+N1  - Export Date: 13 November 2026
+N1  - Cited By: 4
+ER  -
+
